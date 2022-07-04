@@ -2,6 +2,7 @@
 layout: page
 title: Retrospectiva Semanal
 permalink: /mgmt/self/weekly-retro
+published: false
 ---
 
 WIP

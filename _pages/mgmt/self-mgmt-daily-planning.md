@@ -2,6 +2,7 @@
 layout: page
 title: Planejamento Diário
 permalink: /mgmt/self/daily-planning
+published: false
 ---
 
 A minha rotina diária me atende em dois principais propósitos. O primeiro, é fazer uma reflexão sobre esse dia, visitando o passado. O segundo é bem operacional, ajustar pontualmente o plano do dia.

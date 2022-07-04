@@ -2,6 +2,7 @@
 layout: page
 title: Retrospectiva Mensal
 permalink: /mgmt/self/monthly-retro
+published: false
 ---
 
 Na retrospectiva mensal eu reflito mais profundamente sobre alguns temas importantes.

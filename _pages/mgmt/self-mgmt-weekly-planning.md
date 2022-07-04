@@ -2,6 +2,7 @@
 layout: page
 title: Planejamento Semanal
 permalink: /mgmt/self/weekly-planning
+published: false
 ---
 
 Toda segunda-feira pela manhã faço a minha rotina de planejamento semanal. Essa rotina é muito importante para eu refletir sobre o que vem pela frente, priorizar projetos e tarefas, e não ficar só no piloto automático do dia a dia.

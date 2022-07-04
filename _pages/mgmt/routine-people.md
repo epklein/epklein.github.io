@@ -2,6 +2,7 @@
 layout: page
 title: People Routines
 permalink: /mgmt/people-routines
+published: false
 ---
 
 Rotinas do meu bloco de gestão de pessoas:

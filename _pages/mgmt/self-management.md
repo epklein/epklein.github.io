@@ -2,6 +2,7 @@
 layout: page
 title: My self management process
 permalink: /mgmt/self
+published: false
 ---
 
 Managing oneself is an important skill for life, carrer, and to manage others. Here I share a few habits and routines I keep to manage myself.
