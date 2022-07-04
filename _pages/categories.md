@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /categories/
-title: Categorias
+title: Categories
 ---
 
 

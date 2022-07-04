@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template
-categories: [Categoria A, Categoria B]
+categories: [Category A, Category B]
 ---
 
 Markdown text goes here
