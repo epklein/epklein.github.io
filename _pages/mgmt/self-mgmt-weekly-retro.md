@@ -8,4 +8,4 @@ WIP
 
 ----
 
-- Esta página é parte do meu [processo de gestão pessoal](.).
+- Esta página é parte do meu [processo de gestão pessoal](/mgmt/self).

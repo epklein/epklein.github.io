@@ -24,5 +24,5 @@ Work in Progress
 
 ----
 
-- Depois destas etapas de planejamento semanal, eu já entro na minha rotina de [planejamento diário](./daily-planning), que eu estarei rodando no início de todos os dias úteis da semana.
-- Esta página é parte do meu [processo de gestão pessoal](./).
+- Depois destas etapas de planejamento semanal, eu já entro na minha rotina de [planejamento diário](/mgmt/self/daily-planning), que eu estarei rodando no início de todos os dias úteis da semana.
+- Esta página é parte do meu [processo de gestão pessoal](/mgmt/self).

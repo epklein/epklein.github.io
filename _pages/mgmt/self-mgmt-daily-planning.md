@@ -26,4 +26,4 @@ Primeiro momento do dia em que dou uma repassada nas caixas de e-mails e comunic
 
 ----
 
-- Esta página é parte do meu [processo de gestão pessoal](.).
+- Esta página é parte do meu [processo de gestão pessoal](/mgmt/self).

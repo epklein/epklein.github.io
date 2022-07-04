@@ -10,10 +10,10 @@ Managing oneself is an important skill for life, carrer, and to manage others. H
 
 Conjunto de rotinas que incorporo no meu planejamento. Elas atendem as rotinas do método GTD, mas não se limitam ao seu escopo. Aqui eu incluo introspecção e reflexão também.
 
-- [Planejamento Semanal](./weekly-planning): Toda segunda-feira pela manhã faço o meu planejamento semanal.
-- [Planejamento Diário](./daily-planning): Rápida rotina diária para ajuste revisão e ajuste do planejamento.
-- [Revisão Semanal](./weekly-retro): Sexta-feira, ao final do expediente de trabalho, faço minha revisão semanal.
-- [Retrospectiva Mensal](./monthly-retro): Na última sexta-feira do mês faço uma retrospectiva do ciclo que se passou.
+- [Planejamento Semanal](/mgmt/self/weekly-planning): Toda segunda-feira pela manhã faço o meu planejamento semanal.
+- [Planejamento Diário](/mgmt/self/daily-planning): Rápida rotina diária para ajuste revisão e ajuste do planejamento.
+- [Revisão Semanal](/mgmt/self/weekly-retro): Sexta-feira, ao final do expediente de trabalho, faço minha revisão semanal.
+- [Retrospectiva Mensal](/mgmt/self/monthly-retro): Na última sexta-feira do mês faço uma retrospectiva do ciclo que se passou.
 
 # Work batches
 
@@ -25,4 +25,4 @@ So I started allocating time for batching in my schedule. It is usually in the b
 
 I've adopted the following recurring batching routines:
 
-- [People routines](../people-routines): Every Wednesday morning
+- [People routines](/mgmt/people-routines): Every Wednesday morning
