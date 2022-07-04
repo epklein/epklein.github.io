@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /sobre/
+permalink: /pt/about/
 ---
 
 Atuo há mais de 15 anos como gerente de desenvolvimento de sistemas, onde tenho a oportunidade de ajudar times a desenvolver produtos e projetos de software.
