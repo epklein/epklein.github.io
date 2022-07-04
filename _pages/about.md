@@ -1,15 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page #home
+layout: page
+title: Sobre
+permalink: /about/
 ---
 
-Atuo há mais de 15 anos como gerente de desenvolvimento de sistemas, onde tenho a oportunidade de ajudar times a desenvolver produtos e projetos de software. Você pode encontrar meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/eduardopklein/).
+Atuo há mais de 15 anos como gerente de desenvolvimento de sistemas, onde tenho a oportunidade de ajudar times a desenvolver produtos e projetos de software.
 
 Atualmente sou **Engineering Manager** na [VTEX](https://vtex.com/), plataforma de comércio digital completa, oferecida na modalidade Software as a Service (SaaS). Minha vertical é responsável por desenvolver e manter soluções de integração com marketplaces externos.
 
-Também já atuei como gerente de desenvolvimento de sistemas em outros segmentos, com destaque para o mercado financeiro e gestão de dispositivos móveis (mobile device management – MDM).
+Também já atuei em outros segmentos de negócio, com destaque para o mercado financeiro e gestão de dispositivos móveis (mobile device management – MDM).
 
 # Missão
 
