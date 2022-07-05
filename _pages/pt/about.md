@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Sobre
 permalink: /pt/about/
+published: true
 ---
 
 Atuo há mais de 15 anos como gerente de desenvolvimento de sistemas, onde tenho a oportunidade de ajudar times a desenvolver produtos e projetos de software.
