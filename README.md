@@ -1,4 +1,4 @@
-My homepage and personal blog, available at https://eduklein.com.br
+My homepage and personal blog, available at https://eduklein.com.br.
 
 This is a personal project to practice writing in English.
 
