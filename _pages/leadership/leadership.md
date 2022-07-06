@@ -1,30 +1,11 @@
 ---
 layout: page
-title: Management
-permalink: /mgmt
-published: false
+title: Leadership
+permalink: /leadership
 ---
 
-Nesta página procuro trazer uma compilação de recursos e referências de gestão.
+This page is a collection of resources I consider relevant about leadership. I understand leadership as **the ability of an individual to influence and guide other people**.
 
-Work in Progress
+## Recommended reading
 
-## Gerenciando a si mesmo
-
-## Gerenciando pessoas
-
-A gestão, de uma forma mais abrangente, contempla diversas disciplinas.
-
-- Desenvolvimento de Pessoas: Uma das disciplinas mais importantes da gestão, senão a mais importante.
-
-Como gerente de desenvolvimento de sistemas, aprendi em minha experiência profissional a importância de se trabalhar algumas disciplinas mais específicas:
-
-- Work in Progress
-
-## Leitura recomendada
-
-Work in Progress
-
-## Referências
-
-Work in Progress
+- **How to win friends and influence people**, by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie). It is one of the best-selling books of all time, first published in 1936, almost a century ago. And it is still a relevant reading about influence, full of techniques in handling people, making people like you and bringing people to your way of thinking. A must read for people that want to develop better personal and professional relationships.

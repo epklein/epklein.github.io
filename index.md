@@ -5,7 +5,7 @@ title: Home
 
 Hello visitor! Welcome!
 
-My name is **Eduardo Klein**, and I'm a Brazillian **Software Engineering Manager**. I'm also a **husband and a proud father of two**. I live with my family in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre) / RS.
+My name is **Eduardo Klein**, and I'm a Brazillian **Software Engineering Manager**. I'm also a **husband and a proud father of two**. I live with my family in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre).
 
 Currently **I work for [VTEX](https://vtex.com/) in the digital commerce industry**. I'm working full remote from my home town. You can understand more about my career in my [About](/about) page and through my [LinkedIn profile](https://www.linkedin.com/in/eduardopklein/).
 
