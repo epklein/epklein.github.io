@@ -2,29 +2,15 @@
 layout: page
 title: Management
 permalink: /mgmt
-published: false
+published: true
 ---
 
-Nesta página procuro trazer uma compilação de recursos e referências de gestão.
+Management is a broad discipline. In this page I share resources and references covering a variety of management branches.
 
-Work in Progress
+I have a special page dedicated to [Software Engineering Management](/mgmt/swe), the main focus of my career.
 
-## Gerenciando a si mesmo
+## Recommended reading
 
-## Gerenciando pessoas
+### Books
 
-A gestão, de uma forma mais abrangente, contempla diversas disciplinas.
-
-- Desenvolvimento de Pessoas: Uma das disciplinas mais importantes da gestão, senão a mais importante.
-
-Como gerente de desenvolvimento de sistemas, aprendi em minha experiência profissional a importância de se trabalhar algumas disciplinas mais específicas:
-
-- Work in Progress
-
-## Leitura recomendada
-
-Work in Progress
-
-## Referências
-
-Work in Progress
+- **[Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375)**, by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.
