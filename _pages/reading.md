@@ -1,18 +1,10 @@
 ---
 layout: default
-title: About
-permalink: /about
+title: Reading
+permalink: /reading
 ---
 
-I'm a Brazillian professional with 15+ years of experience as a software development manager.
-
-Currently I'm an **Engineering Manager** at [VTEX](https://vtex.com/), the enterprise digital commerce platform. My vertical is responsible for delivering services that integrates our SaaS platform to the big marketplaces and that allows the VTEX ecosystem to develop Apps to integrate VTEX merchants to a variaty of channels.
-
-I have previous experience in other sectors, notably the financial market and mobile device management (MDM).
-
-## Reading list
-
-This is a collection of books that I've read and I would recommend for everyone.
+In this page I share the books I'm currently reading. I also share a collection of books that I've already read and I would recommend for everyone.
 
 I have also separate reading lists in the main topics I write about in this blog: [Leadership](/leadership), [Management](/mgmt), [Software Engineering Management](/mgmt/swe) and its branches.
 
