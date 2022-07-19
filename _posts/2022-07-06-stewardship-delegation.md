@@ -4,7 +4,7 @@ title: Stewardship delegation
 categories: [People Management, Leadership, Delegation]
 ---
 
-[Delegation](/mgmt/delegation) is the act of giving someone else, or a group of people, authority or responsibility for something. There are many techniques on how to delegate properly, and the best approach may depend on the context.
+[Delegation](/mgmt/people/delegation) is the act of giving someone else, or a group of people, authority or responsibility for something. There are many techniques on how to delegate properly, and the best approach may depend on the context.
 
 In [managing software engineering teams](/mgmt/swe), I prefer a delegation approach focused on the results instead of methods. Which takes more time and energy to see results, but develops people abilities and scales in the long run.
 
