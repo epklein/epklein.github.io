@@ -9,6 +9,10 @@ Management is a broad discipline. In this page I share resources and references 
 
 I have a special page dedicated to [Software Engineering Management](/mgmt/swe), the main focus of my career.
 
+## Disciplines
+
+- {{ post.date | date: "%B %e, %Y" }} - [People Management](/mgmt/people): The act of achieving results through other people.
+
 ## Recommended reading
 
 ### Books

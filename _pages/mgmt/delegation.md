@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Delegation
-permalink: /mgmt/delegation
+permalink: /mgmt/people/delegation
 published: true
 ---
 
