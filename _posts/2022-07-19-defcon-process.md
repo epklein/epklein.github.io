@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DEFCON process
-categories: [VTEX Way, CI/CD]
+categories: [VTEX Way, Delivery]
 ---
 
 At VTEX, teams have autonomy in the execution of their deployments into production. Teams also have different deployment cadences. Some may deploy many times a day, while others may deploy less frequently. **In order to provide stability to the whole VTEX platform, there are some processes and tools implemented to support the teams. One of those being the DEFCON process.**
@@ -28,6 +28,7 @@ Strategic conditions trigger DEFCON 2, where basically teams are not allowed to 
 
 It is a crisis condition, where only maneuvers to end it may be executed during this stage.
 
+<br />
 
 Those are just a brief description of the stages, of course. Each have specific conditions to trigger and to end, and also specific measures teams have to follow during it.
 
