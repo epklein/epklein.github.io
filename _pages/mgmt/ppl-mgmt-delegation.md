@@ -9,6 +9,9 @@ Delegation is the act of giving someone else, or a group of people, authority or
 
 In [managing software engineering teams](/mgmt/swe), I prefer a delegation approach focused on the results instead of methods. Which takes more time and energy to see results, but develops people abilities and scales in the lon run.
 
+<!-- Write about responsibility x accountability.  The first you may delegate, but the second you don't -->
+<!-- Write about some frameworks for leveling delegation. Delegation x Control -->
+
 ## Related posts
 
 {% for post in site.categories['Delegation'] %}

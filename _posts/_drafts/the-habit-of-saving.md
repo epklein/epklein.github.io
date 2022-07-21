@@ -1,3 +1,9 @@
+---
+layout: post
+title: The Habit of Saving
+categories: Finances
+---
+
 Write about keeping a part of what you earn. That is your payment.
 
 And then putting your savings to work for you.
