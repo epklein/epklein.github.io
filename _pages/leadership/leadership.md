@@ -16,8 +16,8 @@ This page is a collection of resources I consider relevant about leadership. I u
 
 ### Books
 
-- **[How to win friends and influence people](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)**, by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie). It is one of the best-selling books of all time, first published almost a century ago. It is still a relevant reading about influence. A must read for people that want to develop better personal and professional relationships.
-- **[Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375)**, by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.
+- **[How to win friends and influence people](https://amzn.to/3PsbnOP)**, by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie). It is one of the best-selling books of all time, first published almost a century ago. It is still a relevant reading about influence. A must read for people that want to develop better personal and professional relationships.
+- **[Radical Candor](https://amzn.to/3v7hfok)**, by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.
 
 ### Podcasts
 

@@ -17,4 +17,4 @@ I have a special page dedicated to [Software Engineering Management](/mgmt/swe),
 
 ### Books
 
-- **[Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375)**, by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.
+- **[Radical Candor](https://amzn.to/3v7hfok)**, by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.
