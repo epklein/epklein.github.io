@@ -1,30 +1,34 @@
 ---
 layout: page
-title: Planejamento Diário
+title: Daily planning
 permalink: /mgmt/self/daily-planning
-published: false
+published: true
 ---
 
-A minha rotina diária me atende em dois principais propósitos. O primeiro, é fazer uma reflexão sobre esse dia, visitando o passado. O segundo é bem operacional, ajustar pontualmente o plano do dia.
+I have two main purposes with my daily planning routine that I run every morning. First, to do a self reflection about the day. Second, to adjust the plan of my daily activities. The process is broken in 3 pieces, as follows.
 
-## Revisitar a história do dia
+## Review today's history
 
-Reviso a entrada do dia no meu diário, revisitando a minha memória dos acontecimentos deste dia. Me faz muito bem revisitar momentos especiais do passado, viagens que fiz, conquistas pessoais e profissionais, etapas da vida dos filhos...
+I'm a fan of journaling for long. This is the moment of my day where I review past events. It is like this day in my history. It makes me feel good to remember special moments, personal and professional achievements, the development of my chieldren, travelling notes and so on.
 
-Eu revisito tanto na minha agenda pessoal, como também na agenda profissional. Sim, mantenho estas duas separadas.
+I review both my personal and my professional journals. Yeah, I keep both separated.
 
-## Revisar as próximas atividades
+I write that of course in software. Currently I use [Joplin](https://joplinapp.org/) as my journal and note-taking app.
 
-Esse é o momento em que eu avalio as próximas atividades no meu processo GTD que rodo no Todoist, e planejo aquilo que irei endereçar no dia.
+## Review next activities
 
-Também avalio as tarefas pendentes no board de atividades da minha equipe. Normalmente quadros Kanban suportados por ferramentas como Jira, Trello, etc.
+This is the moment where I review my calendar and next actions in my todo list, and plan what I'll address during the day. Currently I use [Google Calendar](https://calendar.google.com) and [Todoist](https://todoist.com) as tools for that.
 
-## Revisar as comunicações
+I may also take a look at the pending activities in my teams' boards. Usually a Kanban board in a tool such as Jira, Trello, etc.
 
-Primeiro momento do dia em que dou uma repassada nas caixas de e-mails e comunicadores como Slack, Teams e afins, para identificar necessidades (que devem ir para o Todoist) e fazer follow-ups.
+## Review communications
 
-É nessa etapa que o planejamento diário pode esticar um pouco, dependendo do que vem pela frente... No mais é um processo rápido que leva menos de 10 minutos e agrega muito na minha rotina.
+First moment of the day where I check my e-mail and messaging softwares. I get up to date with that, follow-up on messages or create tasks in one of my todo lists in Todoist.
 
-----
+<br />
 
-- Esta página é parte do meu [processo de gestão pessoal](/mgmt/self).
+Reviewing my journals and next activities is usually quick, no more than 10 minutes. Reviewing communications may get a bit longer depending of the needs found there. I have a 30 minutes closed in my schedule every morning for this daily planning routine, but I almost never use the whole slot for it.
+
+---
+
+- This is part of my [self management process](/mgmt/self).

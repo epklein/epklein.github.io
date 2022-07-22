@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Retrospective
+title: Weekly retrospective
 permalink: /mgmt/self/weekly-retro
 published: true
 ---
@@ -14,6 +14,6 @@ In this summary I try to answer these questions:
 3. **Plans**: How am I going to approach those issues?
 4. **People**: How is the team doing? 
 
-----
+---
 
-- Esta página é parte do meu [processo de gestão pessoal](/mgmt/self).
+- This is part of my [self management process](/mgmt/self).
