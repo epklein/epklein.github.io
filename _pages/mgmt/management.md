@@ -11,7 +11,7 @@ I have a special page dedicated to [Software Engineering Management](/mgmt/swe),
 
 ## Disciplines
 
-- {{ post.date | date: "%B %e, %Y" }} - [People Management](/mgmt/people): The act of achieving results through other people.
+- [People Management](/mgmt/people): The act of achieving results through other people.
 
 ## Recommended reading
 
