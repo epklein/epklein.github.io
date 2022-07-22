@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Retrospectiva Semanal
+title: Weekly Retrospective
 permalink: /mgmt/self/weekly-retro
 published: true
 ---
