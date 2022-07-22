@@ -19,3 +19,13 @@ permalink: /search/
     json: '{{ site.baseurl }}/search.json'
     });
 </script>
+
+<br />
+
+---
+
+<br />
+<p>Or for a more complete search through the whole site and posts, use our Google Custom Search integration.</p>
+
+<script async src="https://cse.google.com/cse.js?cx=9917301fff9de22be"></script>
+<div class="gcse-search"></div>
