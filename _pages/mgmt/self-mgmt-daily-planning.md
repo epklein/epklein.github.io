@@ -17,7 +17,7 @@ I write that of course in software. Currently I use [Joplin](https://joplinapp.o
 
 ## Review next activities
 
-This is the moment where I review my calendar and next actions in my todo list, and plan what I'll address during the day. Currently I use [Google Calendar](https://calendar.google.com) and [Todoist](https://todoist.com) as tools for that.
+This is the moment where I review my agenda and next actions in my todo list, and plan what I'll address during the day. Currently I use [Google Calendar](https://calendar.google.com) and [Todoist](https://todoist.com) as tools for that.
 
 I may also take a look at the pending activities in my teams' boards. Usually a Kanban board in a tool such as Jira, Trello, etc.
 

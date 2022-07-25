@@ -1,29 +1,34 @@
 ---
 layout: page
-title: Planejamento Semanal
+title: Weekly planning
 permalink: /mgmt/self/weekly-planning
-published: false
+published: true
 ---
 
-Toda segunda-feira pela manhã faço a minha rotina de planejamento semanal. Essa rotina é muito importante para eu refletir sobre o que vem pela frente, priorizar projetos e tarefas, e não ficar só no piloto automático do dia a dia.
+Every monday morning I run a weekly planning ritual. This is important to reflect about what comes ahead, to prioritize projects and tasks. The goal is to plan what is ahead, and not just live in auto pilot.
 
-Atenção: O meu modelo está adaptado para as minhas necessidades de vida pessoal, carreira, trabalho, etc. E está em constante adaptação. Não recomendo ninguém segui-lo à risca, mas adaptá-lo conforme suas necessidades.
+This is a process tailored to my needs for personal life, career and work. I'm constantly adapting it. I do not recommend anyone to follow it strictly, but to adapt it to your needs.
 
-Abaixo as principais etapas do meu planejamento semanal.
+I run it as follows:
 
-## Revisão do calendário semanal
+## Review my agenda
 
-Aproveito para verificar a minha agenda pra semana toda. Compromissos importantes, aniversários...
+First thing, I review my agenda for the whole week. Currently I use [Google Calendar](https://calendar.google.com).
 
-É muito comum na minha rotina profissional, que reuniões importantes sejam marcadas por outros colaboradores diretamente na minha agenda. Nesse momento priorizo o que vou participar neste semana, resolvo conflitos caso existam, e recuso aquelas que não irei focar. Se necessário algum tipo alinhamento, é aqui que abro conversas assíncronas.
+It is quite common that people from work schedule some slots in my agenda, or some important corporate events are introduced into it. This is the moment where I dedide what I'm going to attend and what I won't, and solve some conflicts that may occur. When needed, I an some async conversation to help solve it.
 
-Depois de organizada a semana, é questão de fazer pequenos ajustes durante o planejamento diário. É normal haver ajustes ao planejamento original.
+I know that the week won't stick perfectly to the plan. That is not the objective. The idea is to be intentional about what I'm going to prioritize during this week. Some adjustments to the plan are normal during the way. I can count on the daily planning for that.
 
-## Revisão de projetos e tarefas
+## Review projects and tasks
 
-Work in Progress
+This is the moment where I take a look into the big picture: Initiatives and projects, to check if I should prioritize something in any of my next actions lists. 
 
-----
+At work, I usually check our quarter and current cycle initiatives. At VTEX we have a 6-week planning cadence, and I check our planning tools.
 
-- Depois destas etapas de planejamento semanal, eu já entro na minha rotina de [planejamento diário](/mgmt/self/daily-planning), que eu estarei rodando no início de todos os dias úteis da semana.
-- Esta página é parte do meu [processo de gestão pessoal](/mgmt/self).
+For my personal life and career development, I refer to my projects in my [Todoist](https://todoist.com). I organize my projects list in areas 
+If there is something I wish to proactively work on, than I put it accordingly in my schedule or in any of my next actions lists.
+
+---
+
+- Right after those first steps, I run my [daily planning routine](/mgmt/self/daily-planning) as usual.
+- This is part of my [self management process](/mgmt/self).
