@@ -15,7 +15,13 @@ A Software Engineering Manager tipically:
 - Directs or supports the work of Software Engineers to promote best practices and to foster improvement;
 - Have a good comprehension of software development. Including topics such as programming, testing, build, deploy & delivery, software architecture & design, and many more.
 
+**There are a variety of software development concepts, practices, tools, etc, important to be understood**. I intent to write about some of them, such as:
+
+- [DevOps](/swe/devops), [Cloud computing](/swe/cloud-computing), Microservices.
+
 ## Recommended reading
+
+- **[Accelerate: The Science of DevOps](https://amzn.to/3Ru6CFU)**, by Nicole Forsgren, Jez Humble and Gene Kim. Building and Scaling High Performing Technology Organizations.
 
 ### Blogs & Newsletters
 
