@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Stewardship delegation
+title: Stewardship Delegation
 categories: [People Management, Leadership, Delegation]
 ---
 
-[Delegation](/mgmt/people/delegation) is the act of giving someone else, or a group of people, authority or responsibility for something. There are many techniques on how to delegate properly, and the best approach may depend on the context.
+[Delegation](/mgmt/people/delegation) is the act of giving someone else, or a group of people, authority or responsibility for something. There are many techniques on how to delegate properly and the best approach may depend on the context.
 
-In [managing software engineering teams](/mgmt/swe), I prefer a delegation approach focused on the results instead of methods. Which takes more time and energy to see results, but develops people abilities and scales in the long run.
+In [managing software engineering teams](/mgmt/swe), I prefer a delegation approach focused on results instead of methods. This takes more time and energy to see results, but develops people's abilities and scales in the long run.
 
-One simple approach to delegate focused on results is the Stewardship delegation, shared by Stephen Covey in his best-seller book [The 7 Habits of Highly Effective People](/books/the-7-habits-of-highly-effective-people).
+One simple approach to delegation focused on results is the **stewardship delegation**, shared by Stephen Covey in his best-seller book *[The 7 Habits of Highly Effective People](/books/the-7-habits-of-highly-effective-people)*.
 
 > Stewardship delegation involves clear, up-front mutual understanding and commitment regarding expectations in five areas:
 > - **Desired results**: Create a clear, mutual understanding of what needs to be accomplished, focusing on what, not how; results, not methods.
