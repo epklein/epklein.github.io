@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The habit of saving
-categories: Finances
+categories: [Personal Finance]
 ---
 
 Building the habit of consistently saving a part of what you earn is a fundamental principle of most, if not all, approaches to build wealth.
