@@ -1,7 +1,7 @@
 ---
-layout: post
 title: DEFCON process
-categories: [VTEX Way, Delivery]
+categories: [VTEX Way]
+tags: [Delivery]
 ---
 
 At VTEX, teams have autonomy in the execution of their deployments into production. Teams also have different deployment cadences. Some may deploy many times a day, while others may deploy less frequently. **In order to provide stability to the whole VTEX platform, there are some processes and tools implemented to support the teams. One of those being the DEFCON process.**

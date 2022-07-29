@@ -1,0 +1,13 @@
+main:
+  - title: "Blog"
+    url: /blog
+  - title: "Reading"
+    url: /reading
+  - title: "Leadership"
+    url: /leadership
+  - title: "Management"
+    url: /mgmt
+  - title: "SWE Mgmt"
+    url: /mgmt/swe
+  - title: "Sobre (PT)"
+    url: /pt/about

@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Daily planning
 permalink: /mgmt/self/daily-planning
-published: true
 ---
 
 I have two main purposes with my daily planning routine that I run every morning. First, to do a self reflection about the day. Second, to adjust the plan of my daily activities. The process is broken in 3 pieces, as follows.

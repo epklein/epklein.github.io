@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The habit of saving
 categories: [Personal Finance]
 ---

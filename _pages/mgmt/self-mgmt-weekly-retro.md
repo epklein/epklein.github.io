@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Weekly retrospective
 permalink: /mgmt/self/weekly-retro
-published: true
 ---
 
 In the end of my friday at work, I write a brief summary of my week at work. That is about myself and my team.

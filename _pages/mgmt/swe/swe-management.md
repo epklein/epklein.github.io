@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Software Engineering Management
 permalink: /mgmt/swe
-published: true
 ---
 
 In this page I share resources about **Software Engineering Management**.

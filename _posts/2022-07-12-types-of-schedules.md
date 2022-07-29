@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Different types of schedules
 categories: [People Management]
 ---

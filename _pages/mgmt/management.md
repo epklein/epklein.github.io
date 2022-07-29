@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Management
 permalink: /mgmt
-published: true
 ---
 
 Management is a broad discipline. In this page I share resources and references covering a variety of management branches.

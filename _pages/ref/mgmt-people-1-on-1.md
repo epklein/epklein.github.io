@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Software Engineering Management
 permalink: /ref/mgmt/people/1-on-1
 published: false

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Feedback
 permalink: /mgmt/people/feedback
 published: false
@@ -13,7 +12,7 @@ Traits to avoid
 
 ## Related posts
 
-{% for post in site.categories['Feedback'] %}
+{% for post in site.tags['Feedback'] %}
 - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 

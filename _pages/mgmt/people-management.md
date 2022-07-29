@@ -1,8 +1,6 @@
 ---
-layout: page
 title: People Management
 permalink: /mgmt/people
-published: true
 ---
 
 In my career I've seen in practice or studied many approaches and styles for managing people and teams. Some I trully believe are helpful as a manager. Some others are obsolete or may work in specific contexts, and some are a complete waste of time in my opinion.

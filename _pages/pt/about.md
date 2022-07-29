@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Sobre
 permalink: /pt/about/
-published: true
 ---
 
 Olá visitante!

@@ -1,8 +1,6 @@
 ---
-layout: page
 title: DevOps
 permalink: /swe/devops
-published: true
 ---
 
 DevOps is a combination of culture (people), practices and tools that integrates and automates software development and operation processes, so that companies can plan, develop, deliver and operate faster and reliably.

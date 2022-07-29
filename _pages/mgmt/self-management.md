@@ -1,5 +1,4 @@
 ---
-layout: page
 title: My self management process
 permalink: /mgmt/self
 published: false
