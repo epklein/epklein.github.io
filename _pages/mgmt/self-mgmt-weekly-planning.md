@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Weekly planning
 permalink: /mgmt/self/weekly-planning
-published: true
 ---
 
 Every monday morning I run a weekly planning ritual. This is important to reflect about what comes ahead, to prioritize projects and tasks. The goal is to plan what is ahead, and not just live in auto pilot.

@@ -1,9 +1,6 @@
 ---
-layout: book
 title: The 7 Habits of Highly Effective People
-author: Stephen Covey
 permalink: /books/the-7-habits-of-highly-effective-people
-published: true
 ---
 
 In this book Stephen Covey presents an approach for effectiveness in attaining goals, aligned with one's character.

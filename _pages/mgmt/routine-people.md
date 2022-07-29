@@ -1,5 +1,4 @@
 ---
-layout: page
 title: People Routines
 permalink: /mgmt/people-routines
 published: false

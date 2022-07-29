@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Retrospectiva Mensal
 permalink: /mgmt/self/monthly-retro
 published: false

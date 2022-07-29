@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Communication
 permalink: /mgmt/people/communication
 published: false
@@ -18,7 +17,7 @@ Remember that as a manager, your word has weight as it doesn’t only come from 
 
 ## Related posts
 
-{% for post in site.categories['Communication'] %}
+{% for post in site.tags['Communication'] %}
 - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Leadership
 permalink: /leadership
 ---
@@ -8,7 +7,7 @@ This page is a collection of resources I consider relevant about leadership. I u
 
 ## Related posts
 
-{% for post in site.categories['Delegation'] %}
+{% for post in site.tags['Leadership'] %}
 - {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 

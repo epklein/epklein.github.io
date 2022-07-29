@@ -1,5 +1,4 @@
 ---
-layout: page
 title: One-on-Ones
 permalink: /mgmt/people/one-on-ones
 published: false
@@ -55,7 +54,7 @@ How to take notes
 
 ## Related posts
 
-{% for post in site.categories['One-on-Ones'] %}
+{% for post in site.tags['One-on-Ones'] %}
 - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 

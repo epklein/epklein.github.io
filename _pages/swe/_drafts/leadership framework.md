@@ -1,5 +1,4 @@
 ---
-layout: page
 title: #Software Engineering Management
 permalink: #/mgmt/swe
 published: false
