@@ -1,5 +1,6 @@
 ---
 title: Home
+author_profile: true
 ---
 
 Hello visitor! Welcome!

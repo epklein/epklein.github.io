@@ -1,6 +1,7 @@
 ---
 title: Sobre
 permalink: /pt/about/
+author_profile: true
 ---
 
 Olá visitante!

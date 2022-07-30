@@ -9,5 +9,5 @@ main:
     url: /mgmt
   - title: "SWE Mgmt"
     url: /mgmt/swe
-  - title: "Sobre (PT)"
+  - title: "Sobre"
     url: /pt/about
