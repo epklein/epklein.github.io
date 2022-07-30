@@ -1,0 +1,1 @@
+The application of [management](/mgmt) activities focused in the development and maintenance of software.

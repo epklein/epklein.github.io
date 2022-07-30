@@ -251,6 +251,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  mgmt:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -274,3 +279,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+    # _mgmt
+  - scope:
+      path: ""
+      type: mgmt
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "mgmt"

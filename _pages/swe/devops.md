@@ -21,4 +21,4 @@ Some important DevOps practices include:
 
 ## Recommended reading
 
-- *[Accelerate: The Science of DevOps](https://amzn.to/3Ru6CFU)* by Nicole Forsgren, Jez Humble and Gene Kim. A great book about implementing DevOps to build and scale high performing technology organizations.
+- {% include book-ref-accelerate.md %}

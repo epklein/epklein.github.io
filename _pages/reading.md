@@ -9,6 +9,6 @@ I have also separate reading lists in the main topics I write about in this blog
 
 ### Currently reading
 
-- *[Accelerate: The Science of DevOps](https://amzn.to/3Ru6CFU)* by Nicole Forsgren, Jez Humble and Gene Kim. A great book about implementing [DevOps](/swe/devops) to build and scale high performing technology organizations.
+- {% include book-ref-accelerate.md %}
 - *[How the World Really Works](https://amzn.to/3RpuBWN)* by Vaclav Smil. A reading recommendation I've received from a [Bill Gates recommended reading video](https://www.youtube.com/watch?v=ksImBkJNQt8) and I became really interested in.
 - *[Become an Effective Software Engineering Manager](https://amzn.to/3cc4BOs)* by James Stanier. A reading recommendation I've learnt from [Gergely Orosz reading list](https://blog.pragmaticengineer.com/my-reading-list/).

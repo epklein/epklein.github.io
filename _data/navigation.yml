@@ -3,11 +3,31 @@ main:
     url: /blog
   - title: "Reading"
     url: /reading
-  - title: "Leadership"
-    url: /leadership
   - title: "Management"
     url: /mgmt
-  - title: "SWE Mgmt"
-    url: /mgmt/swe
-  - title: "Sobre"
+  - title: "Leadership"
+    url: /leadership
+  - title: "<i>Sobre</i>"
     url: /pt/about
+
+mgmt:
+  - title: "Management"
+    url: /mgmt
+  # - title: "Self Management"
+  #   url: /mgmt/self
+  #   children:
+  #     - title: "Weekly planning"
+  #       url: /mgmt/self/weekly-planning
+  #     - title: "Daily planning"
+  #       url: /mgmt/self/daily-planning
+  #     - title: "Weekly retrospective"
+  #       url: /mgmt/self/weekly-retro
+  #     - title: "Monthly retrospective"
+  #       url: /mgmt/self/monthly-retro
+  - title: "People Management"
+    url: /mgmt/people
+    children: 
+    - title: "Delegation"
+      url: /mgmt/people/delegation
+  - title: "SWE Management"
+    url: /mgmt/swe
