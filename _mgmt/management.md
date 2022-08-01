@@ -9,14 +9,13 @@ Management is a broad discipline. In this page I share resources and references 
 
 I have a special page dedicated to [Software Engineering Management](/mgmt/swe), the main focus of my career.
 
-## Disciplines
+## Management Disciplines
 
 - [People Management](/mgmt/people): {% include def-people-mgmt.md %}
 - [SWE Management](/mgmt/swe): {% include def-swe-mgmt.md %}
 
-## Recommended reading
+## Recommended Reading
 
 ### Books
 
 - **[Radical Candor](https://amzn.to/3v7hfok)**, by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.
-
