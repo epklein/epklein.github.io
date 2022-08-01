@@ -52,12 +52,12 @@ How to take notes
 - Prepare notes ahead of meeting
 - Put actions in to-do list
 
-## Related posts
+## Related Posts
 
 {% for post in site.tags['One-on-Ones'] %}
 - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 
-## Recommended reading
+## Recommended Reading
 
 - 

@@ -1,7 +1,8 @@
 ---
 title: People Management
 permalink: /mgmt/people
-toc: true
+# toc: true
+# toc_sticky: true
 ---
 
 In my career I've seen in practice or studied many approaches and styles for managing people and teams. Some I trully believe are helpful as a manager. Some others are obsolete or may work in specific contexts, and some are a complete waste of time in my opinion.
@@ -19,7 +20,7 @@ And many more, such as driving outcomes, motivation, performance, one-on-one mee
 
 I try to cover the most important topics in detail in specific pages, and share my experiences about people management in the [blog](/blog).
 
-## Related posts
+## Related Posts
 
 {% for post in site.categories['People Management'] %}
 - {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>

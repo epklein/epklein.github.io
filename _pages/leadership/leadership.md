@@ -5,18 +5,18 @@ permalink: /leadership
 
 This page is a collection of resources I consider relevant about leadership. I understand leadership as **the ability of an individual to influence and guide other people**.
 
-## Related posts
+## Related Posts
 
 {% for post in site.tags['Leadership'] %}
 - {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 
-## Recommended reading
+## Recommended Reading
 
 ### Books
 
-- **[How to win friends and influence people](https://amzn.to/3PsbnOP)**, by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie). It is one of the best-selling books of all time, first published almost a century ago. It is still a relevant reading about influence. A must read for people that want to develop better personal and professional relationships.
-- **[Radical Candor](https://amzn.to/3v7hfok)**, by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.
+- {% include book-ref-how-to-win-friends-and-influence-people.md %}
+- {% include book-ref-radical-candor.md %}
 
 ### Podcasts
 

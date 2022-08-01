@@ -1,0 +1,1 @@
+*[Radical Candor](https://amzn.to/3v7hfok)* by [Kim Scott](https://kimmalonescott.com/). A reference for managers who want to improve their ability in giving feedback. The book is a collection of ideas on how to give candid feedback, by caring personally and challenging directly.

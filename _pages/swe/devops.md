@@ -19,6 +19,6 @@ Some important DevOps practices include:
 - Monitoring and logging
 - Infrastructure as code
 
-## Recommended reading
+## Recommended Reading
 
 - {% include book-ref-accelerate.md %}

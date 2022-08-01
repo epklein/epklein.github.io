@@ -1,10 +1,11 @@
 ---
 title: Software Engineering Management
 permalink: /mgmt/swe
-toc: true
+# toc: true
+# toc_sticky: true
 ---
 
-In this page I share resources about **software engineering management**. But what is is it exactly? Well, I don't have a formal definition for it. But I see it as
+In this page I share resources about **software engineering management**. But what is is it exactly? Well, I don't have a formal definition for it, but I see it as:
 
 > {% include def-swe-mgmt.md %}
  
@@ -20,9 +21,9 @@ A Software Engineering Manager tipically:
 
 **There are a variety of software development concepts, practices, tools, etc, important to be understood**. I intent to write about some of them, such as:
 
-- [DevOps](/swe/devops), [Cloud computing](/swe/cloud-computing), Microservices.
+- [DevOps](/swe/devops), cloud computing, microservices.
 
-## Recommended reading
+## Recommended Reading
 
 ### Books
 
