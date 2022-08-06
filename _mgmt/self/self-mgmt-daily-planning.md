@@ -1,5 +1,5 @@
 ---
-title: Daily planning
+title: Daily Planning
 permalink: /mgmt/self/daily-planning
 ---
 

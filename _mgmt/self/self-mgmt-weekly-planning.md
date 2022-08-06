@@ -1,5 +1,5 @@
 ---
-title: Weekly planning
+title: Weekly Planning
 permalink: /mgmt/self/weekly-planning
 ---
 

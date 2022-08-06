@@ -1,5 +1,5 @@
 ---
-title: The habit of saving
+title: The Habit of Saving
 categories: [Personal Finance]
 ---
 

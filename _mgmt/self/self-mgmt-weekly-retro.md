@@ -1,5 +1,5 @@
 ---
-title: Weekly retrospective
+title: Weekly Retrospective
 permalink: /mgmt/self/weekly-retro
 ---
 

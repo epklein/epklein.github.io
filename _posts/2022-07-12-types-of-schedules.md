@@ -1,5 +1,5 @@
 ---
-title: Different types of schedules
+title: Different Types of Schedules
 categories: [People Management]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: DEFCON process
+title: DEFCON Process
 categories: [VTEX Way]
 tags: [Delivery]
 ---
