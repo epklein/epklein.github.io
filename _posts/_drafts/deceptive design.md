@@ -1,0 +1,1 @@
+A short post about the concept of deceptive design, and the site https://www.deceptive.design/
