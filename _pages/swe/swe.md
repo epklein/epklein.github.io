@@ -13,7 +13,6 @@ This page is a work in progress. For now, it is just an unorganized, but useful 
 
 ## Software Architecture
 
-- 
 ## Recommended Reading
 
 ### Books
