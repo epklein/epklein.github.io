@@ -21,7 +21,7 @@ A Software Engineering Manager tipically:
 
 **There are a variety of software development concepts, practices, tools, etc, important to be understood**. I intend to write about some of them, such as:
 
-- [DevOps](/swe/devops), cloud computing, microservices.
+- [DevOps](/swe/devops), [cloud computing](/swe/cloud-computing), microservices.
 
 ## Recommended Reading
 
