@@ -1,11 +1,15 @@
 ---
 title: Cloud Computing
 permalink: /swe/cloud-computing
-toc: false
-toc_sticky: false
+toc: true
+toc_sticky: true
 ---
 
-This page is a work in progress. For now, it is just an unorganized, but useful bunch of definitions and links.
+## Definitions
+
+**Cloud computing** refers to the on-demand availability of computer resources online, through the internet, without the need of management of physical infrastructure by the consumer. Cloud providers offer services in different models, such as Infrastructure as a Service (IaaS), Platform as a Services (PaaS) and Software as a Service (SaaS), typically in a "pay-as-you-go" model.
+
+Another important concept is the **cloud native computing**, which is an approach for software development, that tends to build systems by taking advantage of the services that Cloud Providers offer. And, by that, also benefitting from many advantages those services offer, such as on-demand delivery, flexibility, global deployment, productivity, agility, scalability, and cost savings, among others.
 
 ## Cloud Providers
 
