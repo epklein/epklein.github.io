@@ -4,8 +4,8 @@ categories: [Software Engineering]
 tags: [Coding]
 ---
 
-*[Code Kata](/coding/code-kata)* is a programming exercise that helps software developers improve their coding skills through practice and repetition.
+*[Code Kata](/coding/code-kata)* is a programming exercise that helps software developers improve their coding skills through practice.
 
-The term *Kata* comes from the Japanese culture, initially from martial arts. A *Kata* consists of a choreographed pattern of movements that are practiced, solo or in group, to achieve mastery of the movements.
+The term *Kata* comes from Japanese culture, initially from martial arts. A *Kata* consists of a choreographed pattern of movements that are practiced, solo or in a group, to achieve mastery of the movements.
 
-There are many great websites that share tons of exercices, where software developers can practice their coding skills in a variety of programming languages. Such as [Codewars](https://www.codewars.com/), which I’m currently using to practice.
+There are many great websites that share tons of exercises, where software developers can practice their coding skills in a variety of programming languages, such as [Codewars](https://www.codewars.com/), which I'm currently using to practice.
