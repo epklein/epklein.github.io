@@ -27,6 +27,8 @@ mgmt:
   - title: "People Management"
     url: /mgmt/people
     children: 
+    - title: "One-on-ones"
+      url: /mgmt/people/one-on-ones
     - title: "Delegation"
       url: /mgmt/people/delegation
   - title: "SWE Management"
