@@ -7,8 +7,6 @@ main:
     url: /mgmt
   - title: "Leadership"
     url: /leadership
-  - title: "<i>Sobre</i>"
-    url: /pt/about
 
 mgmt:
   - title: "Management"
