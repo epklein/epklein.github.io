@@ -1,0 +1,1 @@
+*[Become an Effective Software Engineering Manager](https://amzn.to/3cc4BOs)* by James Stanier. A reading recommendation I've learnt from [Gergely Orosz reading list](https://blog.pragmaticengineer.com/my-reading-list/).

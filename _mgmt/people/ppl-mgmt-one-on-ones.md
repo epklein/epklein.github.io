@@ -1,63 +1,36 @@
 ---
 title: One-on-Ones
 permalink: /mgmt/people/one-on-ones
-published: false
 ---
 
-WIP
+This is a valuable individual meeting that a manager keeps to connect regularly to everyone that directly reports to him. Some benefits of running one-on-ones include:
 
-Considering "Become an Effective Software Engineering Manager"
+- Connect and build trust with your team. Provide a safe space for them to address difficult conversations in private with you;
+- Coach your team towards self-improvement and a successful career;
+- Foster organizational culture and your own leadership style;
+- Proactively follow-up on goals and KPIs, and address issues.
 
-What you need
+How you effectively run your one-on-ones may vary, and managers may succeed using different approaches. Even the same manager may use different approaches for different people. But there are some ground rules that usually are applicable:
 
-- Book a weekly one-to-one
-- Have a shared document to keep track of agenda
+- It is their meeting, not yours. Practice active listening and let them do most of the talking;
+- You may support and challenge them, but do not solve their problems. Use the power of questions to help them arrive at conclusions by themselves;
+- Keep a regular schedule, preferably weekly, and avoid rescheduling it;
+- It is not a status update meeting, although once in a while you may use for it, to address issues and follow-up on goals.
 
-Questions for first one-one-ones
+What you need to get started? Not much, you just need:
 
-1. Which Areas Would You Like the Most Support With?
-2. How Would You Like to Receive Feedback and Support?
-3. What Could Be a Challenge of Us Working Together?
-4. How Might We Know if the Support I’m Offering Isn’t Going Well?
-5. How Confidential Is the Content of Our Meetings?
+- To book a weekly one-to-one
+- To have a shared document to keep track of agenda, notes and actions
 
-What to talk about?
 
-- Observations from the past week
-- A deep dive
-- Updates
-- Coaching
-
-Leading questions
-
-- “How has your work been going this week?”
-- “What are you working on today?”
-- “Tell me about those production issues we had last week.”
-- “Do you think that we’re measuring our uptime well enough?”
-- “How are you feeling about our deadline in June?”
-- “How best could we ensure that we’ve got all of the right metrics being logged ahead of time?”
-
-Ideas for topics
-
-- Architecture deep dives
-- Process deep dives
-- A relevant article you've seen
-- Teaching
-- The department or company direction
-- Collecting feedback
-- Sharing a task you're working on
-
-How to take notes
-
-- Prepare notes ahead of meeting
-- Put actions in to-do list
+Running it effectively needs practice, and some guidelines or tips may be of great help. What to talk about during one-one-ones? How to take notes and keep track of it? I'll regularly share in the [blog](/blog) my experience and resources I use to conduct one-on-one meetings.
 
 ## Related Posts
 
-{% for post in site.tags['One-on-Ones'] %}
-- <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.tags['One-on-one'] %}
+- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 
 ## Recommended Reading
 
-- 
+- {% include book-ref-become-an-effective-swe-manager.md %}
