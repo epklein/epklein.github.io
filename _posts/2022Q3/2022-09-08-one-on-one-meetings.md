@@ -4,7 +4,7 @@ categories: [People Management]
 tags: [One-on-one]
 ---
 
-A [one-on-one](/mgmt/people/one-on-ones) meeting is a valuable individual meeting that a manager keeps to connect regularly to everyone that directly reports to him. Some benefits of running one-on-ones include:
+A [one-on-one](/mgmt/people/one-on-ones) is an individual meeting that a manager keeps to connect regularly to everyone that directly reports to him. It is a powerful tool for professional development. Some benefits of running one-on-ones include:
 
 - Connect and build trust with your team. Provide a safe space for them to address difficult conversations in private with you;
 - Coach your team towards self-improvement and a successful career;
