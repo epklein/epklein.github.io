@@ -1,6 +1,9 @@
 ---
 title: One-on-Ones
 permalink: /mgmt/people/one-on-ones
+#toc: true
+#toc_label: "One-on-ones"
+#toc_sticky: true
 ---
 
 A one-on-one is an individual meeting that a manager keeps to connect regularly to everyone that directly reports to him. It is a powerful tool for professional development. Some benefits of running one-on-ones include:
@@ -21,9 +24,6 @@ What you need to get started? Not much, you just need:
 
 - To book a weekly one-to-one
 - To have a shared document to keep track of agenda, notes and actions
-
-
-Running it effectively needs practice, and some guidelines or tips may be of great help. What to talk about during one-one-ones? How to take notes and keep track of it? I'll regularly share in the [blog](/blog) my experience and resources I use to conduct one-on-one meetings.
 
 ## Related Posts
 
