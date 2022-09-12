@@ -1,9 +1,9 @@
 ---
-title: One-on-Ones
+title: One-on-one Meetings
 permalink: /mgmt/people/one-on-ones
-#toc: true
-#toc_label: "One-on-ones"
-#toc_sticky: true
+toc: true
+toc_label: "One-on-one Meetings"
+toc_sticky: true
 ---
 
 A one-on-one is an individual meeting that a manager keeps to connect regularly to everyone that directly reports to him. It is a powerful tool for professional development. Some benefits of running one-on-ones include:
@@ -20,10 +20,28 @@ How you effectively run your one-on-ones may vary, and managers may succeed usin
 - Keep a regular schedule, preferably weekly, and avoid rescheduling it;
 - It is not a status update meeting, although once in a while you may use for it, to address issues and follow-up on goals.
 
+## How to get Started
+
 What you need to get started? Not much, you just need:
 
 - To book a weekly one-to-one
 - To have a shared document to keep track of agenda, notes and actions
+
+## Topics for Discussion
+
+There are many relevant topics to cover during one-one-ones. Some interesting ones you may consider to explore:
+
+- Personal life;
+- Career development;
+- Individual performance;
+- Team work, team performance and work process;
+- Organization's strategy, goals, and culture;
+
+Some of them you are going to discuss more often than others. We are going to deep dive those in the blog.
+
+### For Software Engineers
+
+- Help assess and develop relevant hard and soft skill, such as those covered in [What Distinguishes Great Software Engineers?](/what-distinguishes-great-software-engineers)
 
 ## Related Posts
 
