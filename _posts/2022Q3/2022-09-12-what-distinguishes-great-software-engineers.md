@@ -32,4 +32,4 @@ Let's jump to the must have characteristics identified by their research, which 
 | 14 | Curious: desires to know why things happen and how things work |
 | 15 | Evolving: code is structured to be effectively built, delivered, and updated incrementally |
 
-The attributes were ranked along a scale of must have, should have, nice to have, irrelevant, and should not have. If you want to check the complete list, check [the article](https://doi.org/10.1007/s10664-019-09773-y) ([link](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)).
+The attributes were ranked along a scale of *must have*, *should have*, *nice to have*, *irrelevant*, and *should not have*. If you want to check the complete list, check [the article](https://doi.org/10.1007/s10664-019-09773-y) ([link](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)).
