@@ -11,7 +11,7 @@ It is not by definition, but usually DevOps involves the adoption of [cloud comp
 
 ## Key Performance Metrics
 
-Research from [DORA](https://www.devops-research.com) (DevOps Research & Assessment) have validated four metrics that measure software delivery performance. According to the research, companies that exhibit exceptional organizational performance excel in these metris:
+Research from [DORA](https://www.devops-research.com) (DevOps Research & Assessment) have validated four metrics that measure software delivery performance. According to the research, companies that exhibit exceptional organizational performance excel in these metrics:
 
 - **Deployment Frequency**: How often does your team and your organization release code to end users?
 - **Lead Time for Changes**: How long does it take to go from code committed to code successfully running into production?

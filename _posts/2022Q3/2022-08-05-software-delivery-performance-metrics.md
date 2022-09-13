@@ -4,14 +4,14 @@ categories: [DevOps]
 tags: [Delivery]
 ---
 
-Research from [DORA](https://www.devops-research.com) (DevOps Research & Assessment) have validated four metrics that measure software delivery performance. According to the research, companies that exhibit exceptional organizational performance excel in these metris:
+Research from [DORA](https://www.devops-research.com) (DevOps Research & Assessment) have validated four metrics that measure software delivery performance. According to the research, companies that exhibit exceptional organizational performance excel in these metrics:
 
 - **Deployment Frequency**: How often does your team and your organization release code to end users?
 - **Lead Time for Changes**: How long does it take to go from code committed to code successfully running into production?
 - **Time to Restore Service**: How long does it take to restore service when an incident or a defect that impact users occurs?
 - **Change Failure Rate**: What percentage of releases to production result in degraded service, and subsequently require remediation?
 
-You can explore the results in the [*State of DevOps Reports*](https://www.devops-research.com/research.html). To give you a bit of data, the following table summarizes how teams are doing in those four metris (from the 2021 report).
+You can explore the results in the [*State of DevOps Reports*](https://www.devops-research.com/research.html). To give you a bit of data, the following table summarizes how teams are doing in those four metrics (from the 2021 report).
 
 | Metric | Elite | High | Medium | Low |
 | ---| --- | --- | --- |
