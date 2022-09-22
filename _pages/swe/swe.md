@@ -1,11 +1,11 @@
 ---
 title: Software Engineering
 permalink: /swe
-toc: true
-toc_sticky: true
 ---
 
-This page is a work in progress. For now, it is just an unorganized, but useful bunch of definitions and links.
+<!-- This page is a WIP -->
+
+For now this page is just a collection of useful resources.
 
 ## Culture and Practices
 

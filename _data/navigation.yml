@@ -31,3 +31,6 @@ mgmt:
       url: /mgmt/people/delegation
   - title: "SWE Management"
     url: /mgmt/swe
+    children:
+    - title: SWE Career
+      url: /mgmt/swe/swe-career
