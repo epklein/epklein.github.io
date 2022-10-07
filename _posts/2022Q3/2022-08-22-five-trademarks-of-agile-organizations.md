@@ -42,10 +42,10 @@ Key practices include: Cohesive community, shared and servant leadership, entrep
 
 ### 5. Technology: Next generation enabling technology
 
-Mindset shifts from a company where technology supports the rest of the organization, to a company where technology is integrated and core to every aspect of the organization, unlocking value and enabling quick reaction to business needs.  
+Mindset shifts from a company where technology supports the rest of the organization, to a company where technology is integrated and core to every aspect of the organization, unlocking value and enabling quick reaction to business needs.
 
 Key practices include: Evolving technology architecture, systems and tools, and next-generation technology development and delivery practices.
 
 ---
 
-By exhibiting those five trademarks, companies are more adapted to thrive in today's fast changing environment, full of opportunities.
+By exhibiting those five trademarks, companies are more adapted to thrive in today's fast changing environment, one full of opportunities.
