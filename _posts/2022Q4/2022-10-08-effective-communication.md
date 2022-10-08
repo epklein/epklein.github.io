@@ -14,12 +14,12 @@ Recently I came across this interesting video on *The Power of Words*, from 2015
 
 <br />
 
-In a leadership position, [rhetoric](https://en.wikipedia.org/wiki/Rhetoric) is an important ability to develop. Just to enlighten a bit of the positive impact you can cause through effective communication:
+In a leadership position, effective [communication](/mgmt/people/communication) is an important ability to develop. Just to enlighten a bit of the positive impact you can cause from it:
 
 - You can improve performance;
 - You can help your circle of influence to overcome difficult situations;
 - You can expand your circle of influence;
-- You can shape culture.
+- You can promote and even shape organizational culture.
 
 ## Communication as a Software Engineering Manager
 
