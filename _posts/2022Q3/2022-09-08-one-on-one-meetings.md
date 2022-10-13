@@ -18,10 +18,12 @@ How you run your one-on-ones may vary, and managers may succeed using different 
 - You may support and challenge them, but do not solve their problems. Use elicitation techniques to help them arrive at conclusions by themselves;
 - Keep a regular schedule, preferably weekly, and avoid rescheduling it;
 - It is not a status update meeting, although once in a while you may use it for that, to address issues and follow-up on goals.
+
 What you need to get started? Not much, you just need:
 
 - To book a weekly one-to-one;
 - To have a shared document to keep track of agenda, notes, and planned actions
-- Running it effectively requires practice, and some guidelines or tips may be of great help. What to talk about during one-one-ones? How to take notes and keep track of it? I'll regularly share in the blog my experience and the resources I use to conduct one-on-one meetings.
+
+Running it effectively requires practice, and some guidelines or tips may be of great help. What to talk about during one-one-ones? How to take notes and keep track of it? I'll regularly share in the blog my experience and the resources I use to conduct one-on-one meetings.
 
 Stay tuned ;)
