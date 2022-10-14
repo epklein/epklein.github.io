@@ -28,6 +28,19 @@ What you need to get started? Not much, you just need:
 - To book a weekly one-to-one
 - To have a shared document to keep track of agenda, notes and actions
 
+## Taking Notes
+
+Having a shared document is essential to keep track of your one-on-ones and don't get lost.
+
+Some benefits include:
+
+- To prepare the agenda of your next one-on-ones. You have a document to write down something you don’t want to miss next time you meet;
+- Keep track of decisions you made and assigned actions;
+- Keep the record of deliveries and achievements;
+- Provide your direct reports a source of information that will help them write their self review during performance review cycles;
+
+I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-one-on-ones) that I highly recommend you reading.
+
 ## Topics for Discussion
 
 There are many relevant topics to cover during one-one-ones. Some interesting ones you may consider to explore:
@@ -47,8 +60,7 @@ Some of them you are going to discuss more often than others. We are going to de
 ## Related Posts
 
 {% for post in site.tags['One-on-one'] %}
-- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
-{% endfor %}
+- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>{% endfor %}
 
 ## Recommended Reading
 
