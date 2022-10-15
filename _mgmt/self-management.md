@@ -1,5 +1,5 @@
 ---
-title: My Self Management Process
+title: Self Management
 permalink: /mgmt/self
 toc: true
 toc_sticky: true
