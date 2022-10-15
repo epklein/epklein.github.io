@@ -1,9 +1,11 @@
 ---
 title: My Self Management Process
 permalink: /mgmt/self
+toc: true
+toc_sticky: true
 ---
 
-Managing oneself is an important skill for life, carrer, and to manage others. Here I share a few habits and routines I keep to manage myself.
+Managing oneself is an important skill for life, career, and to manage others. Here I share a few habits and routines I keep to manage myself.
 
 I try to follow the [GTD method](https://gettingthingsdone.com/) to get myself organized, but I also use some other techniques together with it.
 
@@ -27,3 +29,7 @@ So I started allocating time for batching in my schedule. It is usually in the b
 I've adopted the following recurring batching routines:
 
 - [People routines](/mgmt/people-routines): Every Wednesday morning
+
+## Other resources
+
+- How to get your work recognized? You may want to write a [brag document](https://jvns.ca/blog/brag-documents/).
