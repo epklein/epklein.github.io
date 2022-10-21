@@ -41,6 +41,10 @@ Some benefits include:
 
 I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-one-on-ones) that I highly recommend you reading.
 
+### Templates
+
+- [One-on-one shared document](/mgmt/people/template-one-on-one-shared-document)
+- [One-on-one private notes](/mgmt/people/template-one-on-one-private-notes)
 ## Topics for Discussion
 
 There are many relevant topics to cover during one-one-ones. Some interesting ones you may consider to explore:

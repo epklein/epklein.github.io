@@ -164,7 +164,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: "UTF-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -258,14 +258,19 @@ collections:
     output: true
     order:
       - management.md
-      - self/self-management.md
+      - self-management.md
       - self/self-mgmt-weekly-planning.md
       - self/self-mgmt-daily-planning.md
       - self/self-mgmt-weekly-retro.md
       - self/self-mgmt-monthly-retro.md
-      - people/people-management.md
+      - people-management.md
+      - people/ppl-mgmt-communication.md
       - people/ppl-mgmt-delegation.md
-      - swe/swe-management.md
+      - people/ppl-mgmt-one-on-ones.md
+      - people/templates/template-1-1-shared-document.md
+      - people/templates/template-1-1-private-notes.md
+      - swe-management.md
+      - swe/swe-career.md
 
 # Defaults
 defaults:

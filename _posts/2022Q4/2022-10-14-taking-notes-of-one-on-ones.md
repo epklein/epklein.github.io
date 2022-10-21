@@ -33,6 +33,8 @@ It is quite straightforward to fill it. It looks like this:
 
 ![Shared document sample](/images/posts/2022-10-12-taking-notes-in-one-on-ones/shared-document.png "An example of a shared document to keep track of one-on-ones.")
 
+You can get this template [here](/mgmt/people/template-one-on-one-shared-document).
+
 ## A private document to keep personal notes
 
 Second, I keep a private document for each of my direct reports, where I save my personal notes about our relationship. In this document I register thoughts that I do not want to share with them.
@@ -48,6 +50,8 @@ This document consists of:
 This is an example of how it looks like.
 
 ![Private notes sample](/images/posts/2022-10-12-taking-notes-in-one-on-ones/private-notes.png "An example of a document to keep private notes.")
+
+You can get this template [here](/mgmt/people/template-one-on-one-private-notes).
 
 <br />
 
