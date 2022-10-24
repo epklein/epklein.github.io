@@ -1,23 +1,34 @@
 ---
-title: My experience at VTEX
+title: VTEX
 permalink: /about/vtex
 author_profile: true
 ---
 
-> The enterprise digital commerce platform
+VTEX was founded in [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), Brazil, in the year of 2000. The company focus is a SaaS e-commerce platform for enterprises. The international expansion started in 2013, first in Latam, later in North America, Europe, and then globally.
 
-## Engineering Manager for the Channel Management team <nobr>(from may 2021 to date)</nobr>
+When I joined VTEX, the company was structuring the IPO in the [New York Stock Exchange](https://www.nyse.com/) (NYSE). The company went public on July 21st, 2021, under the stock quote [VTEX](https://www.nyse.com/quote/XNYS:VTEX).
 
-As head of engineering of the Channel Management vertical inside the Merchant Journey, I lead the teams that have the mission to:
+![Vtex logo](/images/about/vtex.png "VTEX logo")
+
+- Website: [https://vtex.com](https://vtex.com)
+- LinkedIn: [https://www.linkedin.com/company/vtex/](https://www.linkedin.com/company/vtex/)
+
+## My experience at VTEX
+
+I work for VTEX remotely from [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), my hometown.
+
+### Engineering Manager for the Channel Management team <nobr>(from may 2021 to date)</nobr>
+
+As head of engineering of the Channel Management team inside the Merchant Journey, I lead the teams that have the mission to:
 
 - Develop and maintain solutions that enable merchants to manage their sales channels in VTEX platform;
 - Develop and maintain native integrations to external sales channels that are strategic for VTEX;
 - Deliver solutions that enable VTEX partner ecosystem to develop apps that allow our merchants to connect to a variety of sales channels.
 
-### Portuguese
+#### Portuguese
 
-Como gerente de engenharia da vertical de Channel Management da jornada do Merchant, eu lidero os times que tem por missão:
+Como gerente de engenharia do time de Channel Management da jornada do Merchant, eu lidero os times que tem por missão:
 
-- Desenvolver e manter soluções que permitam os comerciantes gerenciar seus canais de vendas na plataforma VTEX;
+- Desenvolver e manter soluções que permitam os varejistas gerenciarem seus canais de vendas na plataforma VTEX;
 - Desenvolver e manter as integrações nativas com os canais externos estratégicos para a VTEX;
-- Entregar soluções que habilitem o ecossistema de parceiros da VTEX a desenvolver Apps que permitam que os comerciantes da plataforma se conectem a uma variedade de canais externos.
+- Entregar soluções que habilitem o ecossistema de parceiros da VTEX a desenvolver Apps que permitam que os varejistas da plataforma se conectem a uma variedade de canais externos.
