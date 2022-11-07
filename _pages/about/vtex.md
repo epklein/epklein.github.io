@@ -4,7 +4,7 @@ permalink: /about/vtex
 author_profile: true
 ---
 
-VTEX was founded in [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), Brazil, in the year of 2000. The company focus is a SaaS e-commerce platform for enterprises. The international expansion started in 2013, first in Latam, later in North America, Europe, and then globally.
+VTEX was founded in [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), Brazil, in the year 2000. The company's focus is a SaaS e-commerce platform for enterprises. The international expansion started in 2013, first in Latam, later in North America, Europe, and then globally.
 
 When I joined VTEX, the company was structuring the IPO in the [New York Stock Exchange](https://www.nyse.com/) (NYSE). The company went public on July 21st, 2021, under the stock quote [VTEX](https://www.nyse.com/quote/XNYS:VTEX).
 
@@ -21,9 +21,9 @@ I work for VTEX remotely from [Porto Alegre](https://en.wikipedia.org/wiki/Porto
 
 As head of engineering of the Channel Management team inside the Merchant Journey, I lead the teams that have the mission to:
 
-- Develop and maintain solutions that enable merchants to manage their sales channels in VTEX platform;
+- Develop and maintain solutions that enable merchants to manage their sales channels in the VTEX platform;
 - Develop and maintain native integrations to external sales channels that are strategic for VTEX;
-- Deliver solutions that enable VTEX partner ecosystem to develop apps that allow our merchants to connect to a variety of sales channels.
+- Deliver solutions that enable the VTEX partner ecosystem to develop apps that allow our merchants to connect to a variety of sales channels.
 
 #### Portuguese
 
