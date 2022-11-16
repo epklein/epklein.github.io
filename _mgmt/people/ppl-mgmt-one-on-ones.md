@@ -64,13 +64,18 @@ There are many relevant topics to cover during one-one-ones. Some interesting on
 - Team work, team performance and work process;
 - Organization's strategy, goals, and culture;
 
-Update questions:
+Some of them you are going to discuss more often than others. We are going to deep dive those in the blog.
+
+### Update Questions
+
+Questions you may ask as a check-in or ice-breaker:
+
 - What's top of your mind?
 - What went well this cycle?
 - What are your priorities for the next cycle?
+- What challenges or roadblocks do you need help with?
+- How are you feeling this week?
 - How can I help you?
-
-Some of them you are going to discuss more often than others. We are going to deep dive those in the blog.
 
 ### For Software Engineers
 
