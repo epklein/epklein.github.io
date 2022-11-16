@@ -23,10 +23,10 @@ How you run your one-on-ones may vary, and managers may succeed using different 
 
 ## How to get Started
 
-What you need to get started? Not much, you just need:
+What you need to get started? Not much, you just have to:
 
-- To book a weekly one-to-one;
-- To have a [shared document](/mgmt/people/template-one-on-one-shared-document) to keep track of agenda, notes and actions.
+- Book a weekly one-on-one;
+- Have a [shared document](/mgmt/people/template-one-on-one-shared-document) to keep track of agenda, notes and actions.
 
 ## Taking Notes
 
@@ -37,7 +37,7 @@ Some benefits include:
 - To prepare the agenda of your next one-on-ones. You have a document to write down something you don't want to miss next time you meet;
 - Keep track of decisions you made and assigned actions;
 - Keep the record of deliveries and achievements;
-- Provide your direct reports a source of information that will help them write their self review during performance review cycles.
+- Provide your direct reports a source of information that will help them write their self review during [performance review cycles](/performance-review-cycle).
 
 I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-one-on-ones) that I highly recommend you reading.
 
@@ -48,7 +48,9 @@ I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-on
 
 ## Topics for Discussion
 
-There are many relevant topics to cover during one-one-ones. Some interesting ones you may consider to explore:
+There are many relevant topics to cover during one-one-ones. Some of them you are going to discuss more often than others. Remember that you will usually let your direct report prepare the agenda but, depending on the context (a big new project, the end of a cycle, a performance issue, etc), you may bring some topics to the conversation.
+
+Some interesting topics you may consider to explore during one-on-ones:
 
 - Personal life;
     - Family, children, etc;
@@ -64,11 +66,9 @@ There are many relevant topics to cover during one-one-ones. Some interesting on
 - Team work, team performance and work process;
 - Organization's strategy, goals, and culture;
 
-Some of them you are going to discuss more often than others. We are going to deep dive those in the blog.
-
 ### Update Questions
 
-Questions you may ask as a check-in or ice-breaker:
+Questions you may ask as a check-in or ice-breaker during one-on-ones:
 
 - What's top of your mind?
 - What went well this cycle?
