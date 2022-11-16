@@ -25,8 +25,8 @@ How you run your one-on-ones may vary, and managers may succeed using different 
 
 What you need to get started? Not much, you just need:
 
-- To book a weekly one-to-one
-- To have a shared document to keep track of agenda, notes and actions
+- To book a weekly one-to-one;
+- To have a [shared document](/mgmt/people/template-one-on-one-shared-document) to keep track of agenda, notes and actions.
 
 ## Taking Notes
 
@@ -34,26 +34,41 @@ Having a shared document is essential to keep track of your one-on-ones and don'
 
 Some benefits include:
 
-- To prepare the agenda of your next one-on-ones. You have a document to write down something you don’t want to miss next time you meet;
+- To prepare the agenda of your next one-on-ones. You have a document to write down something you don't want to miss next time you meet;
 - Keep track of decisions you made and assigned actions;
 - Keep the record of deliveries and achievements;
-- Provide your direct reports a source of information that will help them write their self review during performance review cycles;
+- Provide your direct reports a source of information that will help them write their self review during performance review cycles.
 
 I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-one-on-ones) that I highly recommend you reading.
 
 ### Templates
 
-- [One-on-one shared document](/mgmt/people/template-one-on-one-shared-document)
-- [One-on-one private notes](/mgmt/people/template-one-on-one-private-notes)
+- [One-on-one shared document](/mgmt/people/template-one-on-one-shared-document);
+- [One-on-one private notes](/mgmt/people/template-one-on-one-private-notes).
+
 ## Topics for Discussion
 
 There are many relevant topics to cover during one-one-ones. Some interesting ones you may consider to explore:
 
 - Personal life;
+    - Family, children, etc;
+    - Hobbies
+    - Life outside work;
 - Career development;
+    - Short, medium and long-term career goals;
+    - Goals for the next cycle;
 - Individual performance;
+    - Results delivered;
+    - Feedback received;
+    - Learning opportunities;
 - Team work, team performance and work process;
 - Organization's strategy, goals, and culture;
+
+Update questions:
+- What's top of your mind?
+- What went well this cycle?
+- What are your priorities for the next cycle?
+- How can I help you?
 
 Some of them you are going to discuss more often than others. We are going to deep dive those in the blog.
 
