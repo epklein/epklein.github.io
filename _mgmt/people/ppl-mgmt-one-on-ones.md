@@ -70,7 +70,7 @@ Some interesting topics you may consider to explore during one-on-ones:
 
 Questions you may ask as a check-in or ice-breaker during one-on-ones:
 
-- What's top of your mind?
+- What's on your mind?
 - What went well this cycle?
 - What are your priorities for the next cycle?
 - What challenges or roadblocks do you need help with?
