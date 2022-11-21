@@ -7,7 +7,7 @@ permalink: /mgmt/people/template-one-on-one-private-notes
 
 ## Personal Info
 - Alice was born in Igrejinha/RS, Brazil
-- She has a bachelor degree in computer science from UFRGS
+- She has a bachelor's degree in computer science from UFRGS
 - Since 2010, when she enrolled at UFRGS, she lives in Porto Alegre, Brazil
 - She has two children, Dudu is 9yo and Theo is 1yo (2022)
 - She loves to play guitar!
@@ -27,7 +27,8 @@ permalink: /mgmt/people/template-one-on-one-private-notes
 
 ### 2022-09-21 - Release problems
 
-Alice didn't monitor her last deploy properly, and it caused a high error rate when it went to production. Because of that, we took 2 hours to rollback to our previous version. It was not the first time, so I need to define clearer expectations and have a candor conversation about this incident.
+Alice didn't monitor her last deploy properly, and it caused a high error rate when it went to production. Because of that, we took 2 hours to rollback to our previous version. It was not the first time, so I need to define clearer expectations and have a candid conversation about this incident.
 
 ### 2022-08-01
 
+...
