@@ -5,7 +5,7 @@ permalink: /mgmt/swe
 # toc_sticky: true
 ---
 
-In this page I share resources about **software engineering management**. But what is is it exactly? Well, I don't have a formal definition for it, but I see it as:
+On this page I share resources about **Software Engineering  Management**. But what is is it exactly? Well, I don't have a formal definition for it, but I see it as:
 
 > {% include def-swe-mgmt.md %}
  
@@ -13,15 +13,15 @@ Do you have a better definition for it? Please let me know!
 
 ## Responsibilities
 
-A Software Engineering Manager tipically:
+A Software Engineering Manager typically:
 
-- Manages the design and the development of software applications or services;
-- Directs or supports the work of Software Engineers to promote best practices and to foster improvement;
-- Have a good comprehension of software development. Including topics such as programming, testing, build, deploy & delivery, software architecture & design, and many more.
+- Manages the design and development of software applications or services;
+- Directs or supports the work of **Software Engineers** to promote the best practices and foster improvement;
+- Has a good comprehension of software development, including topics such as programming, testing, building, deploy & delivery, software architecture & design, and many more.
 
-**There are a variety of software development concepts, practices, tools, etc, important to be understood**. I intend to write about some of them, such as:
+**There are a variety of software development concepts, practices, tools, etc., important to understand**. I intend to write about some of them, such as:
 
-- [DevOps](/swe/devops), [cloud computing](/swe/cloud-computing), microservices.
+- [DevOps](/swe/devops), [cloud computing](/swe/cloud-computing), microservices, etc.
 
 ## Recommended Reading
 
@@ -31,4 +31,4 @@ A Software Engineering Manager tipically:
 
 ### Blogs & Newsletters
 
-- **The Pragmatic Engineer [blog](https://blog.pragmaticengineer.com/) and [newsletter](https://newsletter.pragmaticengineer.com/)**, by [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz). A rich and well curated source of information for Engineering Managers and Software Engineers who want to develop their careers and want to be up to date with the software industry best practices and trends.
+- **The Pragmatic Engineer [blog](https://blog.pragmaticengineer.com/) and [newsletter](https://newsletter.pragmaticengineer.com/)** by [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz). A rich and well curated source of information for Engineering Managers and Software Engineers who want to develop their careers and want to be up to date with the software industry's best practices and trends.

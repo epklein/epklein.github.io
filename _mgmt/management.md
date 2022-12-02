@@ -5,8 +5,7 @@ permalink: /mgmt
 # toc_sticky: true
 ---
 
-Management is a broad discipline. In this page I share resources and references covering a variety of management branches.
-
+Management is a broad discipline. On this page I share resources and references covering a variety of management branches.
 
 I have a special page dedicated to [Software Engineering Management](/mgmt/swe), the main focus of my career.
 
