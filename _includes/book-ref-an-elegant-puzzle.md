@@ -1,0 +1,1 @@
+*[An Elegant Puzzle: Systems of Engineering Management](https://amzn.to/3FPKYbg)* by Will Larson.
