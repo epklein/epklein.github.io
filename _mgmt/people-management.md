@@ -50,7 +50,7 @@ In this section I'll try to share resources about other people management topics
 
 ### Career Development
 
-- [progression.fyi](https://progression.fyi/):  a collection of open source and public ‘progression frameworks’
+- [progression.fyi](https://progression.fyi/): As defined in the **/about** page, *progression.fyi is currently a collection of open source and public ‘progression frameworks’, examples of the tools that thousands of managers in tech are building for their teams to ensure that they feel valued at work.*
 
 ## Related Posts
 
