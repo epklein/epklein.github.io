@@ -1,0 +1,1 @@
+*[The Drunkard's Walk: How Randomness Rules Our Lives](https://amzn.to/3htmpaH)* by Leonard Mlodinow. A great look at how randomness, chance, and probability affects our daily lives. It is a book full of concrete examples of how our brains are not prepared to deal with randomness and how we see patterns where there is none.
