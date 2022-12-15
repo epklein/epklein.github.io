@@ -31,7 +31,7 @@ A Software Engineering Manager typically:
 
 ### Blogs & Newsletters
 
-- **The Pragmatic Engineer [blog](https://blog.pragmaticengineer.com/) and [newsletter](https://newsletter.pragmaticengineer.com/)** by [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz). A rich and well curated source of information for Engineering Managers and Software Engineers who want to develop their careers and want to be up to date with the software industry's best practices and trends.
+- {% include blog-ref-the-pragmatic-engineer.md %}
 
 ### Reading list
 
