@@ -1,12 +1,14 @@
 main:
-  - title: "Blog"
-    url: /blog
-  - title: "Reading"
-    url: /reading
   - title: "Management"
     url: /mgmt
   - title: "Leadership"
     url: /leadership
+  - title: "Reading"
+    url: /reading
+  - title: "Archive"
+    url: /archive
+  - title: "About"
+    url: /about
 
 mgmt:
   - title: "Management"
