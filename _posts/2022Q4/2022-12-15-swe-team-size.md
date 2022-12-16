@@ -2,6 +2,7 @@
 title: Software Engineering Team Size
 categories: [People Management, SWE Management]
 tags: []
+excerpt: A collection of valuable insights about how to size software engineering teams, a core principle of organizational design in tech companies.
 ---
 
 The right size of a software engineering team and the number of engineers an EM (Engineer Manager) can properly support is at the core of organizational design in tech companies.
