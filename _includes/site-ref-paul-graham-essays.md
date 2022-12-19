@@ -1,0 +1,1 @@
+[Paul Graham's Essays](http://www.paulgraham.com/articles.html), written by [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)), a computer scientist and enterpreneur, founder of [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator).

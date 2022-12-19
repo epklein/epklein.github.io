@@ -21,5 +21,6 @@ I have also separate reading lists in the main topics I write about in this blog
 
 ### Blogs & Newsletters
 
+- {% include site-ref-paul-graham-essays.md %}
 - {% include blog-ref-the-pragmatic-engineer.md %}
 - {% include blog-ref-irrational-exuberance.md %}
