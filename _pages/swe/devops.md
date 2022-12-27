@@ -31,13 +31,19 @@ You can explore the results in the [*State of DevOps Reports*](https://www.devop
 - [Automated testing](#automated-testing)
 - Deployment automation
 - Monitoring and logging
-- Continuous delivery (CD)
+- [Continuous delivery](/swe/devops/cd) (CD)
 
 ### Automated testing
 
 Improve quality without loosing speed by building reliable automated test suites.
 
 Two great articles I read from Azure DevOps, about testing approaches in developing and delivering services: [shift testing left with unit tests](https://docs.microsoft.com/en-us/devops/develop/shift-left-make-testing-fast-reliable) and [shift right to test in production](https://docs.microsoft.com/en-us/devops/deliver/shift-right-test-production)
+
+## Related Posts
+
+{% for post in site.categories['DevOps'] %}
+- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% endfor %}
 
 ## Recommended Reading
 
