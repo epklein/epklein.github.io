@@ -23,5 +23,5 @@ For now this page is just a collection of useful resources about communication.
 
 ## Recommended Reading
 
-- {% include book-ref-how-to-win-friends-and-influence-people.md %}
-- {% include book-ref-radical-candor.md %}
+- {% include books/how-to-win-friends-and-influence-people.md %}
+- {% include books/radical-candor.md %}

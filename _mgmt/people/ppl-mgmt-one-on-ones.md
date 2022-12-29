@@ -88,4 +88,4 @@ Questions you may ask as a check-in or ice-breaker during one-on-ones:
 
 ## Recommended Reading
 
-- {% include book-ref-become-an-effective-swe-manager.md %}
+- {% include books/become-an-effective-swe-manager.md %}

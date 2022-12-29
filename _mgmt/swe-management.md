@@ -27,11 +27,11 @@ A Software Engineering Manager typically:
 
 ### Books
 
-- {% include book-ref-accelerate.md %}
+- {% include books/accelerate.md %}
 
 ### Blogs & Newsletters
 
-- {% include blog-ref-the-pragmatic-engineer.md %}
+- {% include blogs/the-pragmatic-engineer.md %}
 
 ### Reading list
 

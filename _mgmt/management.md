@@ -18,4 +18,4 @@ I have a special page dedicated to [Software Engineering Management](/mgmt/swe),
 
 ### Books
 
-- {% include book-ref-radical-candor.md %}
+- {% include books/radical-candor.md %}

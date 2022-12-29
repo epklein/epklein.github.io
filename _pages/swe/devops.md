@@ -49,7 +49,7 @@ Two great articles I read from Azure DevOps, about testing approaches in develop
 
 ### Books
 
-- {% include book-ref-accelerate.md %}
+- {% include books/accelerate.md %}
 
 ### Articles
 

@@ -15,8 +15,8 @@ This page is a collection of resources I consider relevant about leadership. I u
 
 ### Books
 
-- {% include book-ref-how-to-win-friends-and-influence-people.md %}
-- {% include book-ref-radical-candor.md %}
+- {% include books/how-to-win-friends-and-influence-people.md %}
+- {% include books/radical-candor.md %}
 
 ### Podcasts
 

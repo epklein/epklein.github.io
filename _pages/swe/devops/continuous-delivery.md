@@ -33,4 +33,4 @@ To implement CD, we must create the following foundations:
 
 ## Recommended Reading
 
-- {% include book-ref-accelerate.md %}
+- {% include books/accelerate.md %}
