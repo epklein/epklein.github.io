@@ -7,6 +7,7 @@
 ### Blogs & Newsletters
 
 - {% include blogs/the-pragmatic-engineer.md %}
+- {% include blogs/addy-osmani.md %}
 
 <!-- Listening -->
 

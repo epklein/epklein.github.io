@@ -1,0 +1,1 @@
+[Addy Osmani blog](https://addyosmani.com/blog) is written by Addy Osmani, an Engineering Manager at Google.
