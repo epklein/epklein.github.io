@@ -93,9 +93,10 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links                  : # An array of links to social media profiles
-    - "https://www.linkedin.com/in/eduardopklein"
-    - "https://twitter.com/eduardopklein"
-    - "https://github.com/epklein"
+    - https://www.linkedin.com/in/eduardopklein
+    - https://twitter.com/eduardopklein
+    - https://mastodon.online/@eduklein
+    - https://github.com/epklein
 
 # Analytics
 analytics:
@@ -103,7 +104,6 @@ analytics:
   google:
     tracking_id          : "G-MWDW3CZ449"
     anonymize_ip         : false
-
 
 # Site Author
 author:
@@ -113,28 +113,34 @@ author:
   location         : "Porto Alegre, Brazil"
   email            : contato@eduklein.com.br
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eduardopklein"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/epklein"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eduardopklein"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eduardopklein"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.online/@eduklein"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/epklein"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eduardopklein"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/epklein"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eduardopklein"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eduardopklein"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.online/@eduklein"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/epklein"
 
 # Reading Files
 include:
