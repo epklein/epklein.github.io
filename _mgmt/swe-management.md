@@ -1,8 +1,8 @@
 ---
 title: Software Engineering Management
 permalink: /mgmt/swe
-# toc: true
-# toc_sticky: true
+toc: true
+toc_sticky: true
 ---
 
 On this page I share resources about **Software Engineering  Management**. But what is is it exactly? Well, I don't have a formal definition for it, but I see it as:
@@ -23,17 +23,12 @@ A Software Engineering Manager typically:
 
 - [DevOps](/swe/devops), [cloud computing](/swe/cloud-computing), microservices, etc.
 
-## Recommended Reading
+## Related Posts
 
-### Books
+{% for post in site.categories['SWE Management'] %}
+- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% endfor %}
 
-- {% include books/accelerate.md %}
+## Learning
 
-### Blogs & Newsletters
-
-- {% include blogs/the-pragmatic-engineer.md %}
-
-### Reading list
-
-- [An Elegant Puzzle](https://www.amazon.com.br/gp/product/B07QYCHJ7V): Systems of Engineering Management, by Will Larson
-- [The Manager's Path](https://www.amazon.com.br/Managers-Path-Leaders-Navigating-English-ebook/dp/B06XP3GJ7F): A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier
+{% include learning/swe-mgmt.md %}
