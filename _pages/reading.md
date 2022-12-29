@@ -24,3 +24,9 @@ I have also separate reading lists in the main topics I write about in this blog
 - {% include site-ref-paul-graham-essays.md %}
 - {% include blogs/the-pragmatic-engineer.md %}
 - {% include blogs/irrational-exuberance.md %}
+
+### Reading list
+
+Books thar are next in my reading list
+
+- [The Manager's Path](https://www.amazon.com.br/Managers-Path-Leaders-Navigating-English-ebook/dp/B06XP3GJ7F): A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier
