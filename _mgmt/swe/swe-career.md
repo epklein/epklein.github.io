@@ -26,7 +26,7 @@ Some interesting resources covering career ladders in the tech industry:
 - [Engineering Career Paths at Big Tech and High-Growth Startups](https://newsletter.pragmaticengineer.com/p/engineering-career-paths): An Issue of the Pragmatic Engineer Newsletter, by Gergely Orosz, covering the most common levels and career paths for engineers at big tech
 - [Designations, levels and calibration](https://lethain.com/perf-management-system): An interesting article about career ladders and performance management by [Will Larson](https://lethain.com)
 
-## Climbing the ladder
+## Climbing the Ladder
 
 There are tons of references online on how to develop yourself as a software engineer. Here I share a few posts and articles that I think is valuable to help engineers to progress in their careers.
 
