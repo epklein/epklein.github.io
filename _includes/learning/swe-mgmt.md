@@ -14,4 +14,8 @@
 
 <!-- Discussing -->
 
+### Communities
+
+- {% include communities/lead-dev.md %}
+
 <!-- Doing -->

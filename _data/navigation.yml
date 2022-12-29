@@ -13,6 +13,22 @@ main:
 mgmt:
   - title: "Management"
     url: /mgmt
+  - title: "SWE Management"
+    url: /mgmt/swe
+    children:
+    - title: Career
+      url: /mgmt/swe/swe-career
+  - title: "People Management"
+    url: /mgmt/people
+    children: 
+    - title: "Communication"
+      url: /mgmt/people/communication
+    - title: "Delegation"
+      url: /mgmt/people/delegation
+#    - title: "Feedback"
+#      url: /mgmt/people/feedback
+    - title: "One-on-ones"
+      url: /mgmt/people/one-on-ones
   - title: "Self Management"
     url: /mgmt/self
     children:
@@ -24,17 +40,3 @@ mgmt:
         url: /mgmt/self/weekly-retro
       - title: "Monthly retrospective"
         url: /mgmt/self/monthly-retro
-  - title: "People Management"
-    url: /mgmt/people
-    children: 
-    - title: "Communication"
-      url: /mgmt/people/communication
-    - title: "Delegation"
-      url: /mgmt/people/delegation
-    - title: "One-on-ones"
-      url: /mgmt/people/one-on-ones
-  - title: "SWE Management"
-    url: /mgmt/swe
-    children:
-    - title: SWE Career
-      url: /mgmt/swe/swe-career

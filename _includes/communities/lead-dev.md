@@ -1,0 +1,1 @@
+[LeadDev](https://leaddev.com) is a community of software engineering leaders. They provide a range of content that includes articles and video talks, as well as courses, workshops, in-person and virtual conferences. The community has also a [slack workspace](https://theleaddeveloper.slack.com) where the community meets to exchange ideas and discuss topics.
