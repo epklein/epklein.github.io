@@ -9,6 +9,6 @@ The term *Kata* comes from the Japanese culture, initially from martial arts. A 
 
 ## Websites
 
-There are many great websites that share tons of exercices, where software developers can practice their coding skills in a variety of programming languages.
+There are many great websites that share tons of exercises, where software developers can practice their coding skills in a variety of programming languages.
 
 - [https://www.codewars.com/](https://www.codewars.com/)
