@@ -24,6 +24,8 @@ What you need to get started? Not much, you just need:
 - To book a weekly one-to-one;
 - To have a shared document to keep track of agenda, notes, and planned actions
 
-Running it effectively requires practice, and some guidelines or tips may be of great help. What to talk about during one-one-ones? How to take notes and keep track of it? I'll regularly share in the blog my experience and the resources I use to conduct one-on-one meetings.
+Running it effectively requires practice, and some guidelines or tips may be of great help. What to talk about during one-one-ones? How to take notes and keep track of it? You may want to check my dedicated page about one-on-ones, where I share many useful resources.
+
+ I'll also share regularly in the blog my experience and the resources I use to conduct one-on-one meetings.
 
 Stay tuned ;)
