@@ -1,1 +1,0 @@
-backling from 2022-09-12-what-distinguishes-great-software-engineers.md
