@@ -13,10 +13,12 @@ I have also separate reading lists in the main topics I write about in this blog
 
 - {% include books/accelerate.md %}
 - *[How the World Really Works](https://amzn.to/3RpuBWN)* by Vaclav Smil. A reading recommendation I've received from a [Bill Gates recommended reading video](https://www.youtube.com/watch?v=ksImBkJNQt8) and I became really interested in.
+- {% include books/become-an-effective-swe-manager.md %}
 - {% include books/an-elegant-puzzle.md %}
 
 ## Reading recommendations
 
+- {% include books/how-to-win-friends-and-influence-people.md %}
 - {% include books/the-drunkards-walk.md %}
 
 ### Blogs & Newsletters
