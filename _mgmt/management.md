@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-This page is a collection of resources about **management**. Well, management is a broad discipline. I would certainly fail trying to cover everything about it.
+This page is a collection of resources about **management**. I don't cover everything about management, it is such a broad discipline that I would certainly fail trying to do so.
 
 **Let's consider this as my playbook to management**; My best view so far of how to manage **people**, **processes** and **product development** inside tech companies.
 
