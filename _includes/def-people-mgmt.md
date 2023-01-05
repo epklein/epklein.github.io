@@ -1,1 +1,0 @@
-The act of achieving results through other people.

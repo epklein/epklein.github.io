@@ -17,7 +17,7 @@ I try to cover the most important topics in detail in specific pages, and share 
 
 So, first things first: What is people management? Well, my preferred definition is quite simple:
 
-> {% include def-people-mgmt.md %}
+> The act of achieving results through other people.
 
 To achieve that, in any circumstance, you need to influence people to have their cooperation.
 

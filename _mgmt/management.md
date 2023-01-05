@@ -5,14 +5,21 @@ toc: true
 toc_sticky: true
 ---
 
-Management is a broad discipline. On this page I share resources and references covering a variety of management branches.
+This page is a collection of resources about **management**. Well, management is a broad discipline. I would certainly fail trying to cover everything about it.
 
-I have a special page dedicated to [Software Engineering Management](/mgmt/swe), the main focus of my career.
+**Let's consider this as my playbook to management**; My best view so far of how to manage **people**, **processes** and **product development** inside tech companies.
 
-## Management Branches
+## Components
 
-- [People Management](/mgmt/people): {% include def-people-mgmt.md %}
-- [SWE Management](/mgmt/swe): {% include def-swe-mgmt.md %}
+I tend to group management activities in a few components:
+
+- [Self Management](/mgmt/self): To manage other people we need first learn to manage ourselves. Plan our goals, priorities, agenda, routines, development, etc.;
+- [People Management](/mgmt/people): The goal of managing people is to achieve results through other people. For that we need develop people, delegate activities, communicate effectively, etc.;
+<!-- People Development / Stakeholder Management -->
+- [Team Management](/mgmt/team): To manage teams and deliver results we need to hire, develop and grow; implement processes and measure performance; give vision and purpose; etc.;
+<!-- Team growth / Team Productivity / Business Impact -->
+- [SWE Management](/mgmt/swe): The management of practices focused on the development and maintenance of software.
+<!-- Systems health / Technical Vision -->
 
 ## Related Posts
 

@@ -7,7 +7,7 @@ toc_sticky: true
 
 On this page I share resources about **Software Engineering  Management**. But what is is it exactly? Well, I don't have a formal definition for it, but I see it as:
 
-> {% include def-swe-mgmt.md %}
+> The application of [management](/mgmt) activities focused on the development and maintenance of software.
  
 Do you have a better definition for it? Please let me know!
 
