@@ -1,6 +1,7 @@
 ---
 title: Nelogica
 permalink: /about/nelogica
+classes: wide
 author_profile: true
 ---
 

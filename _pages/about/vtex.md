@@ -1,6 +1,8 @@
 ---
 title: VTEX
 permalink: /about/vtex
+classes: wide
+
 author_profile: true
 ---
 
