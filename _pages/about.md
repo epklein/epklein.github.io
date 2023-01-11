@@ -1,5 +1,6 @@
 ---
 title: About Me
+permalink: /about
 classes: wide
 author_profile: true
 ---
