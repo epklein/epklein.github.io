@@ -29,6 +29,8 @@ mgmt:
 #      url: /mgmt/people/feedback
     - title: "One-on-ones"
       url: /mgmt/people/one-on-ones
+  - title: "Team Management"
+    url: /mgmt/team
   - title: "Self Management"
     url: /mgmt/self
     children:

@@ -1,6 +1,6 @@
 ---
 title: Writing Strategies to Support Your Teams
-categories: [Management]
+categories: [Management, Team Management]
 tags: [Communication, Influence]
 excerpt: Writing Strategies is an effective approach to support your teams handle specific challenges.
 ---
