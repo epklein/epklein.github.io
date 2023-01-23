@@ -24,8 +24,9 @@ I have also separate reading lists in the main topics I write about in this blog
 ### Blogs & Newsletters
 
 - {% include blogs/the-pragmatic-engineer.md %}
-- {% include sites/paul-graham-essays.md %}
+- {% include blogs/scarlet-ink.md %}
 - {% include blogs/irrational-exuberance.md %}
+- {% include sites/paul-graham-essays.md %}
 
 ### Reading list
 

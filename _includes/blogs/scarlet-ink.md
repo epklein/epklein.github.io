@@ -1,0 +1,1 @@
+[Scarlet Ink newsletter](https://www.scarletink.com/), by [David Anderson](https://www.linkedin.com/in/scarletink/), is a great source of management and leadership advice from an ex-Amazon Tech Director, which I find extremely helpful for Engineering Managers.

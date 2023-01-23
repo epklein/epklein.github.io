@@ -1,6 +1,8 @@
 <!-- Reading -->
 
-### Books
+### Blogs & Newsletters
+
+- {% include blogs/scarlet-ink.md %}
 
 <!-- Listening -->
 
