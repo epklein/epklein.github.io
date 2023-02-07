@@ -1,6 +1,7 @@
 ---
 title: The Habit of Saving
 categories: [Personal Finance]
+tags: [Money]
 ---
 
 The habit of consistently saving a part of what you earn is a fundamental principle of most, if not all, approaches to building wealth.
@@ -28,4 +29,4 @@ That's because, **that amount you are saving, it is going to work for you**. By 
 
 **All that is about an abundance of security, flexibility, opportunities, and freedom**. It takes effort and discipline. It is not easy but it is certainly worth paying the price.
 
-If you want to learn more and get inspired about the habit of saving and building wealth, you may want to read *[The Richest Man in Babylon](https://amzn.to/3oDaszo)* by George Clason, or a [modern retelling of this classic](https://amzn.to/3zDz6pJ) by Charles Conrad.
+If you want to learn more and get inspired about the habit of saving and building wealth, you may want to read *[The Richest Man in Babylon](https://www.amazon.com/dp/B07BB5N17S)* by George Clason, or a [modern retelling of this classic](https://www.amazon.com/Richest-Man-Babylon-Laws-Wealth-ebook/dp/B00D4YEPR8) by Charles Conrad.
