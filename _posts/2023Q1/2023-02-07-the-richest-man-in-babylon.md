@@ -48,7 +48,7 @@ The idea is simple, own your own home. That may be a bit questionable for some p
 
 The idea is to have an income for your future retirement.
 
-### 7. Increate Thy Ability to Earn
+### 7. Increase Thy Ability to Earn
 
 > *Thus the seventh and last remedy for a lean purse is to cultivate thy own powers, to study and become wiser, to become more skillful, to so act as to respect thyself.*
 
