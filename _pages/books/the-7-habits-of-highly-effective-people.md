@@ -21,3 +21,4 @@ The process goes through 7 habits, from attaining independence, to interdependen
 ## In the blog
 
 - [Stewardship delegation](/stewardship-delegation), part of the third habit: Put first things first.
+- [Time Management Matrix](/eisenhower-matrix), part of the third habit: Purt first things first.
