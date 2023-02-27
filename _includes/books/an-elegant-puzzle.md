@@ -1,1 +1,1 @@
-*[An Elegant Puzzle: Systems of Engineering Management](https://amzn.to/3FPKYbg)* by Will Larson.
+*[An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)* by Will Larson.
