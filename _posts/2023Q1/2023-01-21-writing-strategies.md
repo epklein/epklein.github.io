@@ -7,7 +7,7 @@ excerpt: Writing Strategies is an effective approach to support your teams handl
 
 Whe supporting teams in the many disciplines of [software engineering](/swe), quite often we help them define approaches on how to handle specific challenges. Writing them down on documents is an effective way to scale this process.
 
-In his book [An Elegant Puzzle](https://amzn.to/3FPKYbg), [Will Larson](https://lethain.com/) defines such documents as *Strategies*, and he shares a lightweight structure that helps us define clear *strategies* to our teams.
+In his book [An Elegant Puzzle](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle), [Will Larson](https://lethain.com/) defines such documents as *Strategies*, and he shares a lightweight structure that helps us define clear *strategies* to our teams.
 
 In his own words,
 

@@ -15,7 +15,7 @@ The truth is, this question has been puzzling me for a while. I feel I've been i
 
 Being in the EM's seat, having a small team impels you to act hands on with your engineers, whereas with a big team you can't properly support all engineers the way you wish. Neither helps your career development as an Engineering Manager.
 
-In his book [An Elegant Puzzle](https://amzn.to/3FPKYbg), [Will Larson](https://lethain.com/) offers, from his experience, a playbook on sizing teams at big tech, which I feel is well aligned with my perceptions.
+In his book [An Elegant Puzzle](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle), [Will Larson](https://lethain.com/) offers, from his experience, a playbook on sizing teams at big tech, which I feel is well aligned with my perceptions.
 
 From his playbook we can get valuable insights:
 
