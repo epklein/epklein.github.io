@@ -3,7 +3,7 @@ title: The 7 Habits of Highly Effective People
 permalink: /books/the-7-habits-of-highly-effective-people
 ---
 
-In this book Stephen Covey presents an approach for effectiveness in attaining goals, aligned with one's character.
+[The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) is [Stephen Covey](https://en.wikipedia.org/wiki/Stephen_Covey)'s best seller book, in which he presents an approach for effectiveness in attaining goals, aligned with one's character.
 
 The process goes through 7 habits, from attaining independence, to interdependence and then to continuous improvement, as follows:
 

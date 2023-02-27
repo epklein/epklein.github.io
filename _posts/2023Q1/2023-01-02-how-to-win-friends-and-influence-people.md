@@ -5,9 +5,7 @@ tags: [Personal Development, Influence]
 excerpt: A Summary of Dale Carnegie's best seller How to Win Friends and Influence People, a lesson about influence and leadership.
 ---
 
-*[How to Win Friends and Influence People](https://amzn.to/3VEaaWM)*, written by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), is one of my preferred books; One that I highly recommend everyone reading. I already read it twice and probably it is time to read it again.
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=eduklein-20&language=en_US&marketplace=amazon&region=US&placement=0671027034&asins=0671027034&linkId=3335c6ab153e8fc0f3eeda96c1fb8b10&show_border=true&link_opens_in_new_window=true"></iframe>
+*[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)*, written by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), is one of my preferred books; One that I highly recommend everyone reading. I already read it twice and probably it is time to read it again.
 
 It is a great lesson about relationships, [influence](/tags#influence) and, why not, [leadership](/leadership). Why? Because leadership is all about influencing other people. And I think Carnegie's lessons are really inspiring.
 

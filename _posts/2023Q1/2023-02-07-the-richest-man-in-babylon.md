@@ -5,7 +5,7 @@ tags: [Money]
 excerpt: A Summary of George Clason's book The Richest Man in Babylon, a classic of personal finance.
 ---
 
-*[The Richest Man in Babylon](https://www.amazon.com/dp/B07BB5N17S)*, written by [George Clason](https://en.wikipedia.org/wiki/George_Samuel_Clason), is still regarded as a classic of personal finance, even though it was first pubished in 1926, almost a century ago. The author wrote a series of pamphlets, using parables set in ancient Babylon, which were later compiled in the book.
+*[The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)*, written by [George Clason](https://en.wikipedia.org/wiki/George_Samuel_Clason), is still regarded as a classic of personal finance, even though it was first pubished in 1926, almost a century ago. The author wrote a series of pamphlets, using parables set in ancient Babylon, which were later compiled in the book.
 
 The parables are organized in two main themes:
 
