@@ -65,7 +65,3 @@ The idea is to develop a lifelong learning culture. Get always wiser. We increas
 - **The Fifh Law of Gold**: *Gold flees the man who would force it to impossible earnings or who followeth the alluring advice of tricksters and schemers or who trusts it to his own inexperience and romantic desires in investment.*
 
 ![The Richest Man in Babylon book cover](/images/book-cover/the-richest-man-in-babylon-george-clason.jpg)
-
----
-
-
