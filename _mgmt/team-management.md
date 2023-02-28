@@ -11,7 +11,7 @@ For now this page is just a collection of useful resources.
 
 ## Practices
 
-- [Writing Strategies](/writing-strategies): I found it useful and scalable to write Strategies for your teams, to support them to address specific challenges.
+- [Writing Strategies](/writing-strategies): I found it useful and scalable to write *strategies* for my teams, to support them to address specific challenges.
 
 ## Related Posts
 
