@@ -267,19 +267,18 @@ collections:
     output: true
     order:
       - management.md
+      - swe-management.md
+      - swe/swe-career.md
+      - people-management.md
+      - people/ppl-mgmt-communication.md
+      - people/ppl-mgmt-delegation.md
+      - people/ppl-mgmt-one-on-ones.md
+      - team-management.md
       - self-management.md
       - self/self-mgmt-weekly-planning.md
       - self/self-mgmt-daily-planning.md
       - self/self-mgmt-weekly-retro.md
       - self/self-mgmt-monthly-retro.md
-      - people-management.md
-      - people/ppl-mgmt-communication.md
-      - people/ppl-mgmt-delegation.md
-      - people/ppl-mgmt-one-on-ones.md
-      - people/templates/template-1-1-shared-document.md
-      - people/templates/template-1-1-private-notes.md
-      - swe-management.md
-      - swe/swe-career.md
 
 # Defaults
 defaults:
