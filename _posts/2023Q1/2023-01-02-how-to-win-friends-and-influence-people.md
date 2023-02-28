@@ -52,3 +52,5 @@ So let's jump to its principles.
 - Principle 7: Give the other person a fine reputation to live up to
 - Principle 8: Use encouragement. Make the fault seem easy to correct
 - Principle 9: Make the other person happy about doing the thing you suggest
+
+![How to Win Friends and Influence People book cover](/images/book-cover/how-to-win-friends-and-influence-people-dale-carnegie.jpg)

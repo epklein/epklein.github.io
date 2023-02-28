@@ -22,7 +22,7 @@ In [Become an Effective Software Engineering Manager](https://www.goodreads.com/
 
 <br />
 
-There are much more to say about delegation, many techniques on how to delegate properly, and the best approach may depend on the context. You can read more about some techniques on how to delegate in the [blog](/blog). For that, check the related posts section below.
+There are much more to say about delegation, many techniques on how to delegate properly, and the best approach may depend on the context. You can read more about some techniques on how to delegate in the *blog*. For that, check the related posts section below.
 
 ## Related Posts
 
@@ -33,4 +33,4 @@ There are much more to say about delegation, many techniques on how to delegate 
 ## Recommended Reading
 
 - [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0), by Jurgen Appelo.
-- [The 7 Habits of Highly Effective People](/books/the-7-habits-of-highly-effective-people) by Stephen Covey.
+- [The 7 Habits of Highly Effective People](/the-7-habits-of-highly-effective-people) by Stephen Covey.

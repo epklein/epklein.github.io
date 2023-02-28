@@ -5,7 +5,7 @@ tags: [Personal Development, Delegation]
 excerpt: The Eisenhower Matrix is a straightforward and pupular time management tool that can help you to get organized and execute around priorities.
 ---
 
-The Eisenhower Matrix is a straightforward and popular time management tool that I first got in touch in *[The 7 Habits of Highly Effective People](/books/the-7-habits-of-highly-effective-people)*[^1], by Stephen Covey, many years ago. It can help you to **get organized and execute around priorities**.
+The Eisenhower Matrix is a straightforward and popular time management tool that I first got in touch in *[The 7 Habits of Highly Effective People](/the-7-habits-of-highly-effective-people)*[^1], by Stephen Covey, many years ago. It can help you to **get organized and execute around priorities**.
 
 When you categorize your activities into four quadrants, with the help of the matrix, you can quickly identify what you sould prioritize first. Let's take a look at the matrix:
 

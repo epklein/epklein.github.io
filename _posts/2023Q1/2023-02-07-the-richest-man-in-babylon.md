@@ -7,6 +7,8 @@ excerpt: A Summary of George Clason's book The Richest Man in Babylon, a classic
 
 *[The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)*, written by [George Clason](https://en.wikipedia.org/wiki/George_Samuel_Clason), is still regarded as a classic of personal finance, even though it was first pubished in 1926, almost a century ago. The author wrote a series of pamphlets, using parables set in ancient Babylon, which were later compiled in the book.
 
+The language is certainly old, but I intentionally kept it the original. You may also read a [modern retelling of this classic](https://www.amazon.com/Richest-Man-Babylon-Laws-Wealth-ebook/dp/B00D4YEPR8) by Charles Conrad.
+
 The parables are organized in two main themes:
 
 ## Seven Cures For a Lean Purse
@@ -19,7 +21,7 @@ The idea is to constantly save 10% of your earnings to build wealth. A concept t
 
 ### 2. Control Thy Expenditures
 > *That what each of us calls our ‘necessary expenses’ will always grow to equal our incomes unless we protest to the contrary.*
-
+> 
 > *Budget thy expenses that thou mayest have coins to pay for thy necessities, to pay for thy enjoyments and to gratify thy worthwhile desires without spending more than nine-tenths of thy earnings.*
 
 Everyone has more desires than they can afford. The idea is to control expenses so that you can pay necessities and enjoy life without spending more than nine-tenths of your earnings.
@@ -62,6 +64,8 @@ The idea is to develop a lifelong learning culture. Get always wiser. We increas
 - **The Fourth Law of Gold**: *Gold slippeth away from the man who invests it in businesses or purposes with which he is not familiar or which are not approved by those skilled in its keep.*
 - **The Fifh Law of Gold**: *Gold flees the man who would force it to impossible earnings or who followeth the alluring advice of tricksters and schemers or who trusts it to his own inexperience and romantic desires in investment.*
 
+![The Richest Man in Babylon book cover](/images/book-cover/the-richest-man-in-babylon-george-clason.jpg)
+
 ---
 
-I hope you enjoyed this summary. The language is certainly old, but I intentionally kept it the original. You may also read a [modern retelling of this classic](https://www.amazon.com/Richest-Man-Babylon-Laws-Wealth-ebook/dp/B00D4YEPR8) by Charles Conrad.
+
