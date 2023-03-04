@@ -1,6 +1,6 @@
 ---
 title: The 7 Habits of Highly Effective People
-categories: [Books, Leadership, Management]
+categories: [Books, Self Management, Leadership]
 tags: [Personal Development, Effectiveness]
 excerpt: A Summary of Stephen Covey's best seller The 7 Habits of Highly Effective People, a great reading about leadership and management.
 ---

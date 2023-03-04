@@ -33,3 +33,8 @@ I've adopted the following recurring batching routines:
 ## Other resources
 
 - How to get your work recognized? You may want to write a [brag document](https://jvns.ca/blog/brag-documents/).
+
+## Related Posts
+
+{% for post in site.categories['Self Management'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% endfor %}

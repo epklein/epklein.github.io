@@ -5,15 +5,15 @@ toc: true
 toc_sticky: true
 ---
 
-This page is a collection of resources about **management**. I don't cover everything about management. It is such a broad discipline that I would certainly fail trying to do so.
+This page is a collection of resources about **management**. I don't cover everything about a broad discipline such as this. I would certainly fail trying to do so. I focus on relevant topics from my experience as a software engineering manager.
 
-**Let's consider this as my playbook to management**; My best view so far of how to manage **people**, **processes** and **product development** inside tech companies.
+**Let's consider this as my playbook to management**; My best view so far of how to manage **people**, **processes** and **software development** inside tech companies.
 
 ## Components
 
-I tend to group management activities in a few components:
+I group management activities in a few components:
 
-- [SWE Management](/mgmt/swe): The management of practices focused on the development and maintenance of software.
+- [SWE Management](/mgmt/swe): The management practices focused on the development and maintenance of software.
 <!-- Systems health / Technical Vision -->
 - [People Management](/mgmt/people): The goal of managing people is to achieve results through other people. For that we need develop people, delegate activities, communicate effectively, etc.;
 <!-- People Development / Stakeholder Management -->

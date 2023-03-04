@@ -1,6 +1,6 @@
 ---
 title: Software Engineering Team Size
-categories: [People Management, SWE Management]
+categories: [Team Management, SWE Management]
 tags: []
 excerpt: A collection of valuable insights about how to size software engineering teams, a core principle of organizational design in tech companies.
 ---
