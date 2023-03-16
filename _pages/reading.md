@@ -12,8 +12,9 @@ I have also separate reading lists in the main topics I write about in this blog
 ## Currently reading
 
 - {% include books/accelerate.md %}
-- {% include books/become-an-effective-swe-manager.md %}
 - {% include books/an-elegant-puzzle.md %}
+- {% include books/become-an-effective-swe-manager.md %}
+- {% include books/engineering-management-for-the-rest-of-us.md %}
 
 ## Reading recommendations
 

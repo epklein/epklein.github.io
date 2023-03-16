@@ -1,0 +1,1 @@
+*[Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)* by Sarah Drasner. A book we are reading in a *book club* at VTEX.
