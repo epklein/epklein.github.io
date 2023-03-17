@@ -1,15 +1,11 @@
 ---
 title: The Richest Man in Babylon
-categories: [Books, Personal Finance]
-tags: [Money]
-excerpt: A Summary of George Clason's book The Richest Man in Babylon, a classic of personal finance.
+permalink: /books/the-richest-man-in-babylon
 ---
 
-*[The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)*, written by [George Clason](https://en.wikipedia.org/wiki/George_Samuel_Clason), is still regarded as a classic of personal finance, even though it was first pubished in 1926, almost a century ago. The author wrote a series of pamphlets, using parables set in ancient Babylon, which were later compiled in the book.
+*[The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)*, written by [George Clason](https://en.wikipedia.org/wiki/George_Samuel_Clason), is still regarded as a classic of personal finance, even though it was first published in 1926, almost a century ago. The author wrote a series of pamphlets, using parables set in ancient Babylon, which were later compiled in the book.
 
-The language is certainly old, but I intentionally kept it the original. You may also read a [modern retelling of this classic](https://www.amazon.com/Richest-Man-Babylon-Laws-Wealth-ebook/dp/B00D4YEPR8) by Charles Conrad.
-
-The parables are organized in two main themes:
+The language is certainly old, but I intentionally kept it the original. The parables are organized in two main themes:
 
 ## Seven Cures For a Lean Purse
 
