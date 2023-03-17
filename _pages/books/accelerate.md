@@ -1,7 +1,6 @@
 ---
 title: "Accelerate: The Science of Lean Software and DevOps"
-categories: [Books, Lean Software, DevOps]
-excerpt: "A summary of Accelerate, a book about DevOps backed by research data, by Nicole Forsgren, Jez Humble and Gene Kim."
+permalink: /books/accelerate
 ---
 
 [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate) is a book about [DevOps](/swe/devops) and Lean Software Development, backed by data from [DORA](https://www.devops-research.com) (DevOps Research & Assessment), written by Nicole Forsgren, Jez Humble and Gene Kim.
@@ -18,7 +17,7 @@ It uncovers 24 capabilities, which are classified in the following 5 categories:
 
 The book then explores each capability and details the research findings. The following diagrams shows the overall research program.
 
-![Accelerate: Overall Research Program](/images/posts/2023-03-17-accelerate/accelerate-overall-research-program.png)
+![Accelerate: Overall Research Program](/images/books/accelerate-overall-research-program.png)
 
 ## In the blog
 
