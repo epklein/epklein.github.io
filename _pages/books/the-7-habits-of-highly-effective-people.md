@@ -1,13 +1,11 @@
 ---
 title: The 7 Habits of Highly Effective People
-categories: [Books, Self Management, Leadership]
-tags: [Personal Development, Effectiveness]
-excerpt: A Summary of Stephen Covey's best seller The 7 Habits of Highly Effective People, a great reading about leadership and management.
+permalink: /books/the-7-habits-of-highly-effective-people
 ---
 
 [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) is [Stephen Covey](https://en.wikipedia.org/wiki/Stephen_Covey)'s best seller book, in which he presents an approach for effectiveness in attaining goals, aligned with one's character.
 
-I read the book a decade ago or more, but I still see it as a great reference for leaders and managers. I practice many of its concepts frequently. Have you ever heard of *circles of influence*, *P/PC balance*, or *[the time management matrix](/eisenhower-matrix)*? It all came from this book!
+I read the book long ago, but I still see it as a great reference for leaders and managers. I practice many of its concepts frequently. Have you ever heard of *circles of influence*, *P/PC balance*, or *[the time management matrix](/eisenhower-matrix)*? It all came from this book!
 
 The process goes through 7 habits, from attaining independence, to interdependence and then to continuous improvement, as follows:
 
@@ -18,7 +16,7 @@ The process goes through 7 habits, from attaining independence, to interdependen
 2. **Interdependence** (public victory)
    - Habit 4: Think win-win
    - Habit 5: Seek first to understand, then to be understood
-   - Habit 6: Synergyze
+   - Habit 6: Synergize
 3. **Renewal**
    - Habit 7: Sharpen the saw
 
