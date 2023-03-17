@@ -1,8 +1,6 @@
 ---
 title: How to Win Friends and Influence People
-categories: [Books, Leadership]
-tags: [Personal Development, Influence]
-excerpt: A Summary of Dale Carnegie's best seller How to Win Friends and Influence People, a lesson about influence and leadership.
+permalink: /books/how-to-win-friends-and-influence-people
 ---
 
 *[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)*, written by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), is one of my preferred books; One that I highly recommend everyone reading. I already read it twice and probably it is time to read it again.
