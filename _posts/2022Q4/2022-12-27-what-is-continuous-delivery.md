@@ -9,7 +9,7 @@ excerpt: Continuous Delivery is a DevOps technical practice that let us make cha
 
 By "deliver software", I mean not just new features, but any sort of change, such as bug fixes, configuration changes, and experiments.
 
-To deliver high-quality software quickly and reliably, let's recapitulate CD's main principles and foundations (according to *[Accelerate: The Science of DevOps](https://www.goodreads.com/book/show/35747076-accelerate)*).
+To deliver high-quality software quickly and reliably, let's recapitulate CD's main principles and foundations (according to *[Accelerate: The Science of Lean Software and DevOps](/accelerate)*).
 
 ## Principles
 

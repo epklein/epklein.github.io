@@ -1,1 +1,1 @@
-*[Accelerate: The Science of DevOps](https://www.goodreads.com/book/show/35747076-accelerate)* by Nicole Forsgren, Jez Humble, and Gene Kim. A great book about implementing [DevOps](/swe/devops) to build and scale high performing technology organizations.
+*[Accelerate](/accelerate)* by Nicole Forsgren, Jez Humble, and Gene Kim. A great book about implementing [DevOps](/swe/devops) to build and scale high performing technology organizations.

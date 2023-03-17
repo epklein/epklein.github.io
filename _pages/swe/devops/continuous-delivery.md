@@ -3,7 +3,7 @@ title: Continuous Delivery
 permalink: /swe/devops/cd
 ---
 
-Continuous Delivery (CD) is one of the fundamental software engineering practices that modern companies use to deliver software *quickly* and *reliably*.
+Continuous Delivery (CD) is at the heart of [DevOps](/swe/devops) and is one of the fundamental software engineering practices that modern companies use to deliver software *quickly* and *reliably*. 
 
 It comprises of a set of principles and foundations that creates many feedback loops in the development process, to ensure we are building high-quality software that gets delivered *frequently* and *reliably*.
 
