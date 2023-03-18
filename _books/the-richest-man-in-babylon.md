@@ -1,6 +1,7 @@
 ---
 title: The Richest Man in Babylon
-permalink: /books/the-richest-man-in-babylon
+author: George Clason
+permalink: /book/the-richest-man-in-babylon
 ---
 
 *[The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)*, written by [George Clason](https://en.wikipedia.org/wiki/George_Samuel_Clason), is still regarded as a classic of personal finance, even though it was first published in 1926, almost a century ago. The author wrote a series of pamphlets, using parables set in ancient Babylon, which were later compiled in the book.

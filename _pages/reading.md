@@ -18,6 +18,8 @@ I have also separate reading lists in the main topics I write about in this blog
 
 ## Reading recommendations
 
+### Books
+
 - {% include books/how-to-win-friends-and-influence-people.md %}
 - {% include books/the-drunkards-walk.md %}
 
@@ -28,8 +30,16 @@ I have also separate reading lists in the main topics I write about in this blog
 - {% include blogs/irrational-exuberance.md %}
 - {% include sites/paul-graham-essays.md %}
 
-### Reading list
+## Reading list
 
 Books thar are next in my reading list
 
 - [The Manager's Path](https://www.amazon.com.br/Managers-Path-Leaders-Navigating-English-ebook/dp/B06XP3GJ7F): A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier
+
+## Books I've read
+
+<ul>
+{% for books in site.books %}
+  <li><!-- {% if books.date_read <> "" %}{{ books.date_read }} - {% endif %} --><a href="{{ books.permalink }}">{{ books.title }}</a>, by {{ books.author }}</li>
+{% endfor %}
+</ul>

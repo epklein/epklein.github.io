@@ -280,6 +280,9 @@ collections:
       - self/self-mgmt-daily-planning.md
       - self/self-mgmt-weekly-retro.md
       - self/self-mgmt-monthly-retro.md
+  books:
+    output: true
+    sort_by: date_read
 
 # Defaults
 defaults:
@@ -314,6 +317,14 @@ defaults:
       author_profile: false
       sidebar:
         nav: "mgmt"
+
+  # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: false
 
   # _personal
   - scope:

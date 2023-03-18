@@ -29,4 +29,4 @@ That's because, **that amount you are saving, it is going to work for you**. By 
 
 **All that is about an abundance of security, flexibility, opportunities, and freedom**. It takes effort and discipline. It is not easy but it is certainly worth paying the price.
 
-If you want to learn more and get inspired about the habit of saving and building wealth, you may want to read *[The Richest Man in Babylon](/books/the-richest-man-in-babylon)* by George Clason.
+If you want to learn more and get inspired about the habit of saving and building wealth, you may want to read *[The Richest Man in Babylon](/book/the-richest-man-in-babylon)* by George Clason.

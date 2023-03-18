@@ -1,6 +1,7 @@
 ---
 title: How to Win Friends and Influence People
-permalink: /books/how-to-win-friends-and-influence-people
+author: Dale Carnegie
+permalink: /book/how-to-win-friends-and-influence-people
 ---
 
 *[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)*, written by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), is one of my preferred books; One that I highly recommend everyone reading. I already read it twice and probably it is time to read it again.

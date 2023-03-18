@@ -1,9 +1,10 @@
 ---
 title: The 7 Habits of Highly Effective People
-permalink: /books/the-7-habits-of-highly-effective-people
+author: Stephen R. Covey
+permalink: /book/the-7-habits-of-highly-effective-people
 ---
 
-[The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) is [Stephen Covey](https://en.wikipedia.org/wiki/Stephen_Covey)'s best seller book, in which he presents an approach for effectiveness in attaining goals, aligned with one's character.
+[The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) is [Stephen R. Covey](https://en.wikipedia.org/wiki/Stephen_Covey)'s best seller book, in which he presents an approach for effectiveness in attaining goals, aligned with one's character.
 
 I read the book long ago, but I still see it as a great reference for leaders and managers. I practice many of its concepts frequently. Have you ever heard of *circles of influence*, *P/PC balance*, or *[the time management matrix](/eisenhower-matrix)*? It all came from this book!
 

@@ -1,1 +1,1 @@
-*[Accelerate](/books/accelerate)* by Nicole Forsgren, Jez Humble, and Gene Kim. A great book about implementing [DevOps](/swe/devops) to build and scale high performing technology organizations.
+*[Accelerate](/book/accelerate)* by Nicole Forsgren, Jez Humble, and Gene Kim. A great book about implementing [DevOps](/swe/devops) to build and scale high performing technology organizations.
