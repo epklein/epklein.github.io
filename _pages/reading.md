@@ -7,11 +7,10 @@ toc_sticky: true
 
 Here I share my currently reading list, as well as my book recommendations. I also put together the top blogs and newsletters I like to follow to keep up to date.
 
-I have also separate reading lists in the main topics I write about in this blog, such as [Leadership](/leadership), [management](/mgmt), and [software engineering management](/mgmt/swe), among others.
+I have also separate reading lists in the main topics I write about in this blog, such as [leadership](/leadership), [management](/mgmt), and [software engineering management](/mgmt/swe), among others.
 
 ## Currently reading
 
-- {% include books/accelerate.md %}
 - {% include books/an-elegant-puzzle.md %}
 - {% include books/become-an-effective-swe-manager.md %}
 - {% include books/engineering-management-for-the-rest-of-us.md %}

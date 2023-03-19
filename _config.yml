@@ -282,7 +282,7 @@ collections:
       - self/self-mgmt-monthly-retro.md
   books:
     output: true
-    sort_by: date_read
+    sort_by: -date_read
 
 # Defaults
 defaults:
@@ -296,7 +296,7 @@ defaults:
       author_profile: false
       read_time: true
       show_date: true
-      comments: # true
+      comments: false # true
       share: true
       related: true
 

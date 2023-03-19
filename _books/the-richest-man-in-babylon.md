@@ -1,6 +1,7 @@
 ---
 title: The Richest Man in Babylon
 author: George Clason
+date_read: 2016-09-14
 permalink: /book/the-richest-man-in-babylon
 ---
 

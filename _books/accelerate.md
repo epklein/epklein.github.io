@@ -1,7 +1,7 @@
 ---
 title: "Accelerate: The Science of Lean Software and DevOps"
 author: Nicole Forsgren, Jez Humble and Gene Kim
-date_read: 2023-03
+date_read: 2023-03-18
 permalink: /book/accelerate
 ---
 
