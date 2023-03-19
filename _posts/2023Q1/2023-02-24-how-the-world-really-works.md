@@ -2,7 +2,6 @@
 title: How the World Really Works
 categories: [Books]
 tags: [Science, Economics, Environment]
-excerpt: A Summary of How the World Really works, writen by Vaclav Smil, where he shares a lot of science behind the past and the future of our civilization.
 ---
 
 Today I finished reading *[How the World Really Works](/book/how-the-world-really-works)*. A reading recommendation I've received from a [Bill Gates recommended reading video](https://www.youtube.com/watch?v=ksImBkJNQt8) and I became really interested in.

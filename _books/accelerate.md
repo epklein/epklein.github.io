@@ -1,17 +1,22 @@
 ---
 title: "Accelerate: The Science of Lean Software and DevOps"
 author: Nicole Forsgren, Jez Humble and Gene Kim
-date_read: 2023-03-18
+date_read: 2023-03-17
+goodreads: https://www.goodreads.com/book/show/35747076-accelerate
 permalink: /book/accelerate
 ---
 
-[Accelerate](https://www.goodreads.com/book/show/35747076-accelerate) is a book about [DevOps](/swe/devops) and Lean Software Development, backed by data from [DORA](https://www.devops-research.com) (DevOps Research & Assessment), written by Nicole Forsgren, Jez Humble and Gene Kim.
+{% include book-page-header.md %}
+
+## Summary
+
+*Accelerate* is a book about [DevOps](/swe/devops) and Lean Software Development, backed by data from [DORA](https://www.devops-research.com) (DevOps Research & Assessment), written by Nicole Forsgren, Jez Humble and Gene Kim.
 
 The book explores the capabilities that drive *software delivery performance*, ranging from engineering to management practices and culture, which leads to organizational performance in technology companies.
 
 It uncovers 24 capabilities, which are classified in the following 5 categories:
 
-- [Continuous Delivery](/swe/devops/cd) (CD)
+- [Continuous Delivery](/swe/devops/cd)
 - Architecture
 - Product and process
 - Lean management and monitoring
@@ -25,5 +30,7 @@ The book then explores each capability and details the research findings. The fo
 
 - [Software Delivery Performance Metrics](/software-delivery-performance-metrics)
 - [What is Continuous Delivery?](/what-is-continuous-delivery)
+
+## Cover
 
 ![Accelerate: The Science of Lean Software and DevOps](/images/book-cover/accelerate-forsgren-humble-kim.jpg)

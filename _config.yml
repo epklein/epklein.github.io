@@ -324,6 +324,7 @@ defaults:
       type: books
     values:
       layout: single
+      classes: wide
       author_profile: false
 
   # _personal
