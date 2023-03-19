@@ -282,7 +282,7 @@ collections:
       - self/self-mgmt-monthly-retro.md
   books:
     output: true
-    sort_by: -date_read
+    sort_by: date_read
 
 # Defaults
 defaults:

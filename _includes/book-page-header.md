@@ -1,0 +1,2 @@
+- Author: {{ page.author }}
+- [goodreads page]({{ page.goodreads }})

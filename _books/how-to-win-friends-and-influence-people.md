@@ -1,11 +1,16 @@
 ---
 title: How to Win Friends and Influence People
 author: Dale Carnegie
-date_read: 1982
+date_read: 1982-02-04
+goodreads: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 permalink: /book/how-to-win-friends-and-influence-people
 ---
 
-*[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)*, written by [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie), is one of my favorite books; One that I highly recommend everyone reading. I already read it twice and it is always worth reading it again.
+{% include book-page-header.md %}
+
+## Summary
+
+This is one of my favorite books; One that I highly recommend everyone reading. I already read it twice and it is always worth reading it again.
 
 A must read for people that want to develop better personal and professional relationships. It is one of the best-selling books of all time, first published almost a century ago, but it is still a relevant reading about influence.
 
@@ -54,5 +59,7 @@ So let's jump to its principles.
 - Principle 7: Give the other person a fine reputation to live up to
 - Principle 8: Use encouragement. Make the fault seem easy to correct
 - Principle 9: Make the other person happy about doing the thing you suggest
+
+## Cover
 
 ![How to Win Friends and Influence People book cover](/images/book-cover/how-to-win-friends-and-influence-people-dale-carnegie.jpg)

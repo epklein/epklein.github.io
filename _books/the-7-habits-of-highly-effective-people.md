@@ -1,7 +1,7 @@
 ---
 title: The 7 Habits of Highly Effective People
 author: Stephen R. Covey
-date_read: 1982
+date_read: 1982-02-04
 permalink: /book/the-7-habits-of-highly-effective-people
 ---
 
