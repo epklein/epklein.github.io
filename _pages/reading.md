@@ -39,7 +39,8 @@ Books thar are next in my reading list
 ## Books I've Read
 
 <ul>
-{% for books in site.books reversed %}
-  <li><!-- {% if books.date_read <> "" %}{{ books.date_read }} - {% endif %} --><a href="{{ books.permalink }}">{{ books.title }}</a>, by {{ books.author }}</li>
+{% assign sorted_books = site.books | sort: 'date_read' | reverse %}
+{% for book in sorted_books %}
+  <li><!-- {% if book.date_read <> "" %}{{ book.date_read }} - {% endif %} --><a href="{{ book.permalink }}">{{ book.title }}</a>, by {{ book.author }}</li>
 {% endfor %}
 </ul>
