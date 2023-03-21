@@ -1,7 +1,6 @@
 ---
 title: How to Win Friends and Influence People
 author: Dale Carnegie
-date_read: 1982-02-04
 goodreads: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 permalink: /book/how-to-win-friends-and-influence-people
 ---
