@@ -21,7 +21,7 @@ What about a modern organization, dependent on the knowledge of its employees? W
 
 ## People development in Tech Companies
 
-Successful tech companies creates processes and invest a considerable amount of time and money in people's development, experimentation and learning.
+Successful tech companies create processes and invest a considerable amount of time and money in people's development, experimentation and learning.
 
 [Software Engineering](/swe) is a field still in constant evolution, and the technologies and practices we are using today may get ineffective or obsolete in just a few years!
 
