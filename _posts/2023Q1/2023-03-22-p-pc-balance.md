@@ -31,7 +31,7 @@ To give an example, at [VTEX](/about/vtex) we have many rituals and processes th
 - Chapters, engineering meetings, design sessions, etc., where engineers share knowledge across the company;
 - Another one is the Learning Day, a widespread practice where the team is released from its work backlog to use a full day (usually every other Friday) where they can study, practice, and experiment on the initiatives they want to develop themselves.
 
-Thats how we balance our production (P) and our production capability (PC). It is not a coincidence that I work among so many brilliant people.
+That's how we balance our production (P) and our production capability (PC). It is not a coincidence that I work among so many brilliant people.
 
 <br />
 
