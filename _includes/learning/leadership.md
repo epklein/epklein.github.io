@@ -16,3 +16,7 @@
 <!-- Discussing -->
 
 <!-- Doing -->
+
+### Practice
+
+- [Toastmasters International](https://www.toastmasters.org/about): A nonprofit, international organization that teaches public speaking and leadership skills through a worldwide network of clubs. I [joined the organization](/becoming-a-toastmaster) in March, 2023. I register my journey in the [#toastmasters](/categories#toastmasters) category.
