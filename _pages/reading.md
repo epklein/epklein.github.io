@@ -11,11 +11,11 @@ I have also separate reading lists in the main topics I write about in this blog
 
 ## Currently Reading
 
-- {% include books/become-an-effective-swe-manager.md %}
 - {% include books/an-elegant-puzzle.md %}
 - *[Friend and Foe](https://www.goodreads.com/book/show/24388304-friend-foe)* by Adam Galinsky and Maurice Schweitzer
 - *[Numbers don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
-- *[Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)* by Sarah Drasner. A book we are reading in a *book club* at [VTEX](/about/vtex).
+- *[Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)* by Sarah Drasner. A book we are reading in a *book club* at [VTEX](/about/vtex)
+- *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
 
 ## Reading Recommendations
 
@@ -35,6 +35,7 @@ I have also separate reading lists in the main topics I write about in this blog
 Books thar are next in my reading list
 
 - [The Manager's Path](https://www.amazon.com.br/Managers-Path-Leaders-Navigating-English-ebook/dp/B06XP3GJ7F): A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier
+- {% include books/become-an-effective-swe-manager.md %} Deprioritized due to priority changes for the quarter. Great reading indeed, I hope to get back on track soon.
 
 ## Books I've Read
 
