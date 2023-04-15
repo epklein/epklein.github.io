@@ -32,8 +32,8 @@ How you run your one-on-ones may vary, and managers may succeed using different 
 
 You may consider the following when running your one-on-ones:
 
-- Start it with a question such as "*How are you feeling this week?*" or another alternative from [the list of questions below](#questions-to-ask). That's good because you want them to run the meeting;
-- Some status updates are a bit inevitable in the first minutes but, unless really necessary, try to move away from it as quickly as possible;
+- Start it with a question such as "*How are you feeling this week?*" or another alternative from [the list of questions below](#questions-to-ask). That's a good start because you want them to talk after all;
+- Some status updates may be a bit inevitable in the first minutes but, unless really necessary, try to move away from it as quickly as possible;
 - Focus on what they are saying, and move forward with questions that will develop their thoughts. Concentrate to do this effectively, because being a great listener is not easy;
 - Have a couple of prepared talking points, if the conversation stagnates, to take the best of this moment. Choose wisely from [the list of topics below](#topics-for-discussion).
 
@@ -50,21 +50,46 @@ It is nice to ask questions that stimulates the conversation. Some questions tha
 
 ### Topics for Discussion
 
-There are many relevant topics to cover during one-one-ones. Some of them you are going to discuss more often than others.
+There are many relevant topics to cover during one-one-ones. Some of them will be discussed more frequently than others.
 
 Remember that you will usually let your direct report prepare the agenda but, depending on the context (a big new project, the end of a cycle, a performance issue, etc.), you may bring some topics to the conversation.
 
-Some interesting topics you may consider to explore during one-on-ones:
+Some interesting topics you may consider exploring during one-on-ones:
 
-- Personal life: Family and children; Hobbies; Life outside work;
-- Career development: Short, medium and long-term career goals; Goals for the next cycle;
-- Individual performance: Results delivered; Feedback received; Learning opportunities;
-- Team work, team performance and work process;
-- Organization's strategy, goals, and culture;
+**Personal Life**
+
+- Talk about family, children, hobbies, and dreams; life outside work;
+- It's essential to connect personally with your team, as we are all human beings;
+
+**Individual Performance**
+
+- Review results delivered and feedback received; provide your feedback on their results;
+- Set goals together for the next cycle;
+
+**Teamwork**
+
+- Discuss team performance and work processes;
+- *Do you understand your role within the team?*
+- *How would you describe the team's meetings and rituals?*
+
+**Career Development**
+
+- Discuss short, medium and long-term career goals; challenge their career aspirations;
+- Help them explore learning opportunities;
+- *Do you enjoy what you do?*
+- *What comes next in your development?*
+
+**Organizational Culture, Strategy and Objectives**
+
+- Share the company's vision and strategy;
+- Discuss values and culture;
+- *Do you find meaning in what you do?*
+- *Do you feel safe at work?*
 
 **For Software Engineers**
 
-Challenge them to assess and develop relevant hard and soft skills to grow in their careers. You may use frameworks and tips from the [SWE career](/mgmt/swe/swe-career) page.
+- Challenge them to assess and develop relevant hard and soft skills to grow in their careers;
+- You may use frameworks and tips from my [SWE career](/mgmt/swe/swe-career) page;
 
 ## Taking Notes
 

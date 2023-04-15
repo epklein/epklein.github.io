@@ -34,17 +34,35 @@ Skills I believe are important for a manager to develop include:
 
 ## Processes
 
-Inside a businesses there are a variety of processes a manager needs to get involved when managing people, such as:
+Inside a business there are a variety of processes a manager needs to get involved when managing people, such as:
 
-- Hiring
-- Onboarding
-- Developing
-- Evaluating
-- Engaging
+**Recruiting**
+
+The process of attracting, selecting, and hiring the best-suited candidates for open positions within the organization.
+
+**Onboarding**
+
+A comprehensive integration program for new employees, aimed at making them feel welcome, informed, and prepared for their new roles.
+
+**Developing**
+
+Fostering employee growth and skill enhancement through training, mentorship, and professional development opportunities.
+
+Conducting regular [one-on-one meetings](/mgmt/people/one-on-ones) is a widely recognized management practice that nurtures meaningful connections with employees and facilitates their ongoing growth and development.
+
+**Evaluating**
+
+Continuously monitoring, assessing, and providing feedback on an employee's performance, goals, and skills to ensure alignment with organizational objectives.
+
+A [performance review cycle](/performance-review-cycle) is a periodic evaluation of an employee's work performance, aimed at promoting growth, development, and alignment with organizational goals.
+
+**Engaging**
+
+Creating a positive work environment that fosters employee commitment, motivation, and connection to the organization.
 
 ## Other Resources
 
-Many more topics may be addressed in the discipline of people management, such as driving outcomes, motivation, performance, [one-on-one meetings](/mgmt/people/one-on-ones), situational leadership, stakeholder management, upward management...
+Many more topics may be addressed in the discipline of people management, such as driving outcomes, motivation, performance, situational leadership, stakeholder management, upward management...
 
 In this section I'll try to share resources about other people management topics, and create new pages when I need to delve into any of them.
 

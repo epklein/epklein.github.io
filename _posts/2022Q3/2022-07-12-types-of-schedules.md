@@ -13,7 +13,7 @@ Firstly, I have my schedule organized into blocks of an hour or even less, so th
 
 Secondly, to help my teams perform better, I have to consider the individual contributor's schedule, trying my best to protect their schedule time. Two key considerations I always take into account are
 
-- Plan recurring meetings and one-on-ones in times that allow them to be focused and productive during the rest of their day
+- Plan recurring meetings and [one-on-ones](/mgmt/people/one-on-ones) in times that allow them to be focused and productive during the rest of their day
 - Empower them to manage their own schedules, and to negotiate (with me and peers) adjustments that may improve their focus
 
 For an individual contributor, a short but unexpected meeting may drain their energy for a whole day, potentially preventing them from starting something complex.
