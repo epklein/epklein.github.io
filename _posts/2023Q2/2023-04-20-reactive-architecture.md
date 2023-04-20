@@ -1,7 +1,7 @@
 ---
 title: Reactive Architecture
 categories: [Software Engineering]
-tags: [SWE Architecture]
+tags: [Software Architecture]
 excerpt: "Reactive Architecture: Building Responsive, Resilient, and Scalable Systems"
 ---
 

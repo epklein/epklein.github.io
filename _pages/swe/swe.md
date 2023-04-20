@@ -1,6 +1,8 @@
 ---
 title: Software Engineering
 permalink: /swe
+toc: true
+toc_sticky: true
 ---
 
 <!-- This page is a WIP -->
@@ -13,12 +15,9 @@ For now this page is just a collection of useful resources.
 
 ## Software Architecture
 
-## Recommended Reading
+{% for post in site.tags['Software Architecture'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% endfor %}
 
-### Books
+## Learning
 
-### Articles
-
-### Websites
-
-- [Architecture Notes](https://architecturenotes.co/)
+{% include learning/swe.md %}
