@@ -13,7 +13,7 @@ Large, distributed systems that require designs addressing these challenges are 
 
 Understanding and applying the principles of Reactive Architecture is an essential skill. Let's review the main principles of this paradigm:
 
-1. **Responsiveness**: The system should consistently respond to requests in a timely manner, which requires resource management and error handling;
+1. **Responsiveness**: The system should consistently respond to requests in a timely manner. Responsiveness lies at the heart of usability and utility;
 2. **Resilience**: The system is designed to be fault-tolerant. It should recover gracefully from failures and continue to function. This involves implementing strategies to isolate failures and establish self-healing mechanisms;
 3. **Elasticity**: A reactive system should scale up and down based on workload, ensuring efficient resource utilization. This entails dynamically allocating and deallocating resources across multiple instances;
 4. **Message-driven**: A reactive system relies on asynchronous message passing to establish boundaries between components, enabling loose coupling, isolation, and location transparency.
