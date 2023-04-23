@@ -5,7 +5,7 @@ tags: [Software Architecture]
 excerpt: "Reactive Architecture: Building Responsive, Resilient, and Scalable Systems"
 ---
 
-A Reactive Architecture is a software development paradigm that focuses on building highly responsive, resilient, and scalable systems. It is designed to handle the challenges of modern distributed systems, such as handling a large number of users, while ensuring low latency and maintaining high availability.
+{% include def-reactive-architecture.md %}
 
 The [Reactive Manifesto](https://www.reactivemanifesto.org) was published back in 2014, as a guiding document that outlines the principles and characteristics of reactive systems, providing a framework for building responsive, resilient, elastic, and message-driven software applications.
 
