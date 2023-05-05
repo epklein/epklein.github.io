@@ -5,21 +5,21 @@ toc: true
 toc_sticky: true
 ---
 
-This page is a collection of resources about **management**. I don't cover everything about a broad discipline such as this. I would certainly fail trying to do so. I focus on relevant topics from my experience as a software engineering manager.
+This page is a collection of resources about **management**. I don't cover everything about such a broad discipline; I would certainly fail attempting to do so. Instead, I focus on relevant topics from my experience as a software engineering manager.
 
-**Let's consider this as my playbook to management**; My best view so far of how to manage **people**, **processes** and **software development** inside tech companies.
+**Consider this my management playbook**; my current best understanding of how to manage **people**, **processes** and **software development** within tech companies.
 
 ## Components
 
-I group management activities in a few components:
+I've grouped management activities into components:
 
 - [SWE Management](/mgmt/swe): The management practices focused on the development and maintenance of software.
 <!-- Systems health / Technical Vision -->
-- [People Management](/mgmt/people): The goal of managing people is to achieve results through other people. For that we need develop people, delegate activities, communicate effectively, etc.;
+- [People Management](/mgmt/people): The goal of managing people is to achieve results through others. To do this, we must develop people, delegate tasks, communicate effectively, etc.
 <!-- People Development / Stakeholder Management -->
-- [Team Management](/mgmt/team): To manage teams and deliver results we need to hire, develop and grow; implement processes and measure performance; define strategies, give vision and purpose; etc.;
+- [Team Management](/mgmt/team): In order to manage teams and deliver results, we need to hire, develop, and grow; implement processes and measure performance; define strategies, give vision and purpose, etc.
 <!-- Team growth / Team Productivity / Business Impact -->
-- [Self Management](/mgmt/self): To manage other people we need first learn to manage ourselves. Plan our goals, priorities, agenda, routines, development, etc.;
+- [Self Management](/mgmt/self): Before we can manage others, we must first learn to manage ourselves. This includes planning our goals, priorities, schedules, routines, and personal development.
 
 ## Related Posts
 
