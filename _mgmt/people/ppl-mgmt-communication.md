@@ -6,9 +6,9 @@ toc_label: "Communication"
 toc_sticky: true
 ---
 
-<!-- This page is a WIP -->
+Communication is **the ability to convey information clearly, listen actively, and adapt one's communication style to suit different situations and audiences**.
 
-For now this page is just a collection of useful resources about communication.
+For now this page is just a collection of useful resources about it.
 
 ## Mediums of communication
 

@@ -3,7 +3,7 @@ title: Delegation
 permalink: /mgmt/people/delegation
 ---
 
-Delegation is **the act of giving someone else, or a group of people, authority and responsibility for something**.
+Delegation is **the ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively**.
 
 <!-- Write about responsibility x accountability.  The first you may delegate, but the second you don't -->
 <!-- Write about some frameworks for leveling delegation. Delegation x Control -->

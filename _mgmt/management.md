@@ -13,12 +13,12 @@ This page is a collection of resources about **management**. I don't cover every
 
 I've grouped management activities into the following components:
 
-- [SWE Management](/mgmt/swe): The management practices focused on the development and maintenance of software.
 <!-- Systems health / Technical Vision -->
-- [People Management](/mgmt/people): The goal of managing people is to achieve results through others. To do this, we must develop people, delegate tasks, communicate effectively, etc.
+- [SWE Management](/mgmt/swe): The management practices focused on the development and maintenance of software.
 <!-- People Development / Stakeholder Management -->
-- [Team Management](/mgmt/team): In order to manage teams and deliver results, we need to: hire, develop, and grow people; implement processes and measure performance; define strategies and give vision and purpose, etc.
+- [People Management](/mgmt/people): The goal of managing people is to achieve results through others. To do this, we must develop people, delegate tasks, communicate effectively, etc.
 <!-- Team growth / Team Productivity / Business Impact -->
+- [Team Management](/mgmt/team): In order to manage teams and deliver results, we need to: hire, develop, and grow people; implement processes and measure performance; define strategies and give vision and purpose, etc.
 - [Self Management](/mgmt/self): Before we can manage others, we must first learn to manage ourselves. This includes planning our goals, priorities, schedules, routines, and personal development.
 
 ## Related Posts
