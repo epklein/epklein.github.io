@@ -9,7 +9,7 @@ toc_sticky: true
 A one-on-one is an individual meeting that a manager keeps to connect regularly to everyone that directly reports to him. It is a powerful tool for professional development. Some benefits of running one-on-ones include:
 
 - Connect and build trust with your team. Provide a safe space for them to address difficult conversations in private with you;
-- Coach your team toward self-improvement and a successful career;
+- Coach your team toward self-improvement and a successful career; Help each individual with what they need for short-term performance and long-term growth;
 - Foster organizational culture and your own leadership style;
 - Proactively follow-up on goals and KPIs;
 - Address issues.
@@ -117,3 +117,4 @@ I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-on
 ## Recommended Reading
 
 - {% include books/become-an-effective-swe-manager.md %}
+- [HBR: Make the Most of Your One-on-One Meetings](https://hbr.org/2022/11/make-the-most-of-your-one-on-one-meetings)
