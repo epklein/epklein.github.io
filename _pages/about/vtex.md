@@ -21,16 +21,8 @@ I work for VTEX remotely from [Porto Alegre](https://en.wikipedia.org/wiki/Porto
 
 ### Engineering Manager for the Channel Management team <nobr>(from may 2021 to date)</nobr>
 
-As head of engineering of the Channel Management team inside the Merchant Journey, I lead the teams that have the mission to:
+As the engineering manager of the Channel Management vertical, I lead the engineering teams whose mission is to develop solutions that allow VTEX platform merchants to manage their external sales channels.
 
-- Develop and maintain solutions that enable merchants to manage their sales channels in the VTEX platform;
-- Develop and maintain native integrations to external sales channels that are strategic for VTEX;
-- Deliver solutions that enable the VTEX partner ecosystem to develop apps that allow our merchants to connect to a variety of sales channels.
-
-#### Portuguese
-
-Como gerente de engenharia do time de Channel Management da jornada do Merchant, eu lidero os times que tem por missão:
-
-- Desenvolver e manter soluções que permitam os varejistas gerenciarem seus canais de vendas na plataforma VTEX;
-- Desenvolver e manter as integrações nativas com os canais externos estratégicos para a VTEX;
-- Entregar soluções que habilitem o ecossistema de parceiros da VTEX a desenvolver Apps que permitam que os varejistas da plataforma se conectem a uma variedade de canais externos.
+<!--
+Como gerente de engenharia da vertical de *Channel Management*, lidero os times de engenharia que têm por missão desenvolver soluções que permitam que os varejistas da plataforma VTEX gerenciem seus canais de vendas externos.
+-->

@@ -18,16 +18,8 @@ I worked for Nelogica in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Aleg
 
 ### Software Development Manager for corporate applications teams <nobr>(from january 2019 to april 2021)</nobr>
 
-Process and people management of corporate application development teams, in charge of the institutional website, ERP, integration services, APIs and extranet tools for brokers and partners. Key role in the teams strategic planning, development lifecycle management, and team development (key objectives and individual performance monitoring).
+I served as the head of the development teams in the Corporate Applications sector, responsible for the institutional website, billing system, extranet for brokers and partners, and integration systems.
 
-Support for the process of requirements gathering and specification of intra-departmental projects, supporting and optimizing processes in areas such as financial, marketing, customer success and support.
-
-Corporate strategy deployment, through alignment and monitoring of business, leadership and team goals, with the support of OKRs and OPSP.
-
-#### Portuguese
-
-Gestão do processo e das equipes de desenvolvimento de aplicações corporativas, responsáveis pelo site institucional, ERP, serviços de integração, APIs e ferramentas de extranet de corretoras e parceiros. Atuação direta no planejamento estratégico dos times, gestão do ciclo de desenvolvimento, e desenvolvimento da equipe (desdobramento de objetivos e acompanhamento de desempenho individual).
-
-Facilitação e apoio aos processos de levantamento de requisitos e especificação de projetos intradepartamentais, dando apoio e otimizando processos de áreas como financeiro, marketing, relacionamento e suporte, dentre outros.
-
-Desdobramento da estratégia corporativa, alinhamento e acompanhamento de metas e objetivos do negócio, lideranças e times com o apoio de OKRs e OPSP.
+<!--
+Liderei as equipes de desenvolvimento do setor de Aplicações Corporativas, responsável pelo site institucional, sistema de billing, extranet de corretoras e parceiros e sistemas de integração.
+-->
