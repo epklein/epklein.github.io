@@ -12,7 +12,7 @@ permalink: /book/how-the-world-really-works
 
 In the book, the author shares a lot of science behind our past and our future about energy, food production, globalization, and our environment. He discusses the pillars of our civilization, our dependency on fossil fuels, and global warming, to give awareness and understanding about our future.
 
-An imperative reading if you are fond of science and you want to get the numbers to understand our world and the future of it.
+It is an imperative reading if you are fond of science and you want to get the numbers to understand our world and its future.
 
 ## Cover
 

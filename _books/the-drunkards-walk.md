@@ -10,7 +10,7 @@ permalink: /book/the-drunkards-walk
 
 ## Summary
 
-A great look at how randomness, chance, and probability affects our daily lives. It is a book full of concrete examples of how our brains are not prepared to deal with randomness and how we see patterns where there is none.
+A great look at how randomness, chance, and probability affect our daily lives. It is a book full of concrete examples of how our brains are not prepared to deal with randomness and how we see patterns where there is none.
 
 ## Cover
 
