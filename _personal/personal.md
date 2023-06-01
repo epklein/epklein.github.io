@@ -6,13 +6,13 @@ toc_sticky: true
 author_profile: true
 ---
 
-This page is a collection of personal resources. All this content is not visible in the site, although it is public.
+This page is a collection of personal resources. All this content is not visible on the site, although it is public.
 
 ## Profiles
 
-
-## Reading
-
+- [LinkedIn](https://www.linkedin.com/in/eduardopklein/)
+- [Twitter](https://twitter.com/eduardopklein)
+- [Linktree](https://linktr.ee/epklein)
 - [goodreads](https://www.goodreads.com/user/show/29886397-eduardo-klein)
 
 ## Personal Planning
