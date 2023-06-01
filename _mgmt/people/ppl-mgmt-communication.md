@@ -8,12 +8,7 @@ toc_sticky: true
 
 Communication is **the ability to convey information clearly, listen actively, and adapt one's communication style to suit different situations and audiences**.
 
-For now this page is just a collection of useful resources about it.
-
-## Mediums of communication
-
-- Spoken, Written, Nonverbal
-- Sync x Assync
+This page is a collection of resources I consider relevant about communication.
 
 ## Related Posts
 
@@ -21,7 +16,6 @@ For now this page is just a collection of useful resources about it.
 - {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
 
-## Recommended Reading
+## Learning
 
-- {% include books/how-to-win-friends-and-influence-people.md %}
-- {% include books/radical-candor.md %}
+{% include learning/communication.md %}
