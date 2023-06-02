@@ -111,8 +111,8 @@ I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-on
 
 ## Related Posts
 
-{% for post in site.tags['One-on-one'] %}
-- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>{% endfor %}
+{% for post in site.tags['One-on-one'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% endfor %}
 
 ## Recommended Reading
 
