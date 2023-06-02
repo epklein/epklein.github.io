@@ -1,6 +1,6 @@
 ---
 title: Effective Communication
-categories: [Leadership, People Management, VTEX Way]
+categories: [Leadership, People Skills, VTEX Way]
 tags: [Communication]
 ---
 
