@@ -2,6 +2,7 @@
 title: Enjoy Better Conversations
 categories: [Leadership, People Skills]
 tags: [Communication]
+excerpt: Three essential tips to improve communication and impact daily interactions.
 ---
 
 Effective [communication](/mgmt/people/communication) is a skill that is underrated yet highly impactful in our daily interactions.

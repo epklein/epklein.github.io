@@ -2,7 +2,7 @@
 title: Reactive Architecture
 categories: [Software Engineering]
 tags: [Software Architecture]
-excerpt: "Reactive Architecture: Building Responsive, Resilient, and Scalable Systems"
+excerpt: "Reactive Architecture: Building Responsive, Resilient, and Scalable Systems."
 ---
 
 {% include def-reactive-architecture.md %}
