@@ -5,10 +5,10 @@ toc: true
 toc_sticky: true
 ---
 
-<!-- This page is a WIP -->
+Software engineering is a branch of computer science that deals with the design, development, implementation, and maintenance of software systems.
 
-For now this page is just a collection of useful resources.
-
+It is a systematic, disciplined approach to applying engineering principles to the development, operation, and maintenance of software, with a focus on providing cost-effective software solutions that are reliable and work efficiently
+ 
 ## Culture and Practices
 
 ### DevOps
