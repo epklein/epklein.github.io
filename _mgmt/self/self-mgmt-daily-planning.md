@@ -11,7 +11,7 @@ I'm a fan of journaling for long. This is the moment of my day where I review pa
 
 I review both my personal and my professional journals. Yeah, I keep both separated.
 
-I write that of course in software. Currently I use [Joplin](https://joplinapp.org/) as my journal and note-taking app.
+I write that of course in software. Currently I use [Obsidian](https://obsidian.md/) as my journal and note-taking app.
 
 ## Review next activities
 
@@ -29,4 +29,4 @@ Reviewing my journals and next activities is usually quick, no more than 10 minu
 
 ---
 
-- This is part of my [self management process](/mgmt/self).
+- This is part of my [personal planning process](/mgmt/self/personal-planning).

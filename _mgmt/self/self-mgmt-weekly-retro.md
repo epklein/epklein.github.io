@@ -14,4 +14,4 @@ In this summary I try to answer these questions:
 
 ---
 
-- This is part of my [self management process](/mgmt/self).
+- This is part of my [personal planning process](/mgmt/self/personal-planning).

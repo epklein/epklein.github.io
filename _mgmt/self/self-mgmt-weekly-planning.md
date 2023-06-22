@@ -29,4 +29,4 @@ If there is something I wish to proactively work on, than I put it accordingly i
 ---
 
 - Right after those first steps, I run my [daily planning routine](/mgmt/self/daily-planning) as usual.
-- This is part of my [self management process](/mgmt/self).
+- This is part of my [personal planning process](/mgmt/self/personal-planning).
