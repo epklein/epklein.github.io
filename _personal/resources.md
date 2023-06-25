@@ -11,6 +11,7 @@ This page is a collection of personal resources. All this content is not visible
 ## Books
 
 - [keyvanakbary / learning-notes / books](https://github.com/keyvanakbary/learning-notes/tree/master/books): A public Github repository with great books' summaries, including some I've read and love.
+
 ## Amazing Ted Talks
 
 - [Celeste Headlee: 10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
@@ -19,3 +20,6 @@ This page is a collection of personal resources. All this content is not visible
 - [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
 : Amy's Talk explores the science of 'power posing' and its impact on our confidence. She delves into how body language can influence our minds, explaining that power posing can alter our brains by increasing testosterone levels and decreasing cortisol levels.
 
+## Useful links
+
+- [kramdown quick reference](https://kramdown.gettalong.org/quickref.html): It helps me write all the content of this website
