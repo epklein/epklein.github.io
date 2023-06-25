@@ -22,6 +22,8 @@ This page is a collection of personal resources. All this content is not visible
 ![2018 at Ecoland](/_personal/photos/ecoland-2018-256.jpg) 
 ![2017 at Venice](/_personal/photos/venice-2017-256.jpg)
 
-![2023 at VTEX](/_personal/photos/2023-06-VTEX.jpg) 
+![2023 at VTEX](/_personal/photos/2023-06-VTEX-1.jpg)
+
+![2023 at VTEX](/_personal/photos/2023-06-VTEX-2.jpg)
 
 ![2019 at Nelogica](/_personal/photos/2019-02-NELOGICA.png)
