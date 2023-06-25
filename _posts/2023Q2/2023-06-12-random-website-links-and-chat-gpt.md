@@ -31,61 +31,61 @@ It may not be the best prompt for the task, but it gave me the proper code anywa
 
 *Sure, here's how you can modify the script to take a command-line argument, which defaults to https://eduklein.com.br/sitemap.xml if no argument is provided:*
 
-**python**
+~~~ python
+import sys
+import requests
+from xml.etree import ElementTree as ET
+import random
 
-    import sys
-    import requests
-    from xml.etree import ElementTree as ET
-    import random
+def get_random_url_from_sitemap(sitemap_url):
+    # Make a GET request to the sitemap URL
+    response = requests.get(sitemap_url)
 
-    def get_random_url_from_sitemap(sitemap_url):
-        # Make a GET request to the sitemap URL
-        response = requests.get(sitemap_url)
+    # Parse the XML content of the sitemap
+    tree = ET.fromstring(response.content)
 
-        # Parse the XML content of the sitemap
-        tree = ET.fromstring(response.content)
+    # The namespace dictionary
+    ns = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
 
-        # The namespace dictionary
-        ns = {'ns': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+    # Get all the <loc> elements in the XML document
+    urls = [elem.text for elem in tree.findall('.//ns:loc', ns)]
 
-        # Get all the <loc> elements in the XML document
-        urls = [elem.text for elem in tree.findall('.//ns:loc', ns)]
+    # Return a random URL
+    return random.choice(urls)
 
-        # Return a random URL
-        return random.choice(urls)
+# Get the sitemap URL from the command line arguments
+sitemap_url = sys.argv[1] if len(sys.argv) > 1 else "https://eduklein.com.br/sitemap.xml"
 
-    # Get the sitemap URL from the command line arguments
-    sitemap_url = sys.argv[1] if len(sys.argv) > 1 else "https://eduklein.com.br/sitemap.xml"
+print(get_random_url_from_sitemap(sitemap_url))
+~~~
 
-    print(get_random_url_from_sitemap(sitemap_url))
+You can now run the script from the command line as follows:
 
-*You can now run the script from the command line as follows:*
+~~~ bash
+python random_url_from_sitemap.py
+~~~
 
-**bash**
+This will default to using https://eduklein.com.br/sitemap.xml as the sitemap URL. If you want to provide a different sitemap URL, you can do so as a command-line argument:
 
-    python random_url_from_sitemap.py
+~~~ bash
+python random_url_from_sitemap.py "https://www.example.com/sitemap.xml"
+~~~
 
-*This will default to using https://eduklein.com.br/sitemap.xml as the sitemap URL. If you want to provide a different sitemap URL, you can do so as a command-line argument:*
-
-**bash**
-
-    python random_url_from_sitemap.py "https://www.example.com/sitemap.xml"
-
-*Just replace "https://www.example.com/sitemap.xml" with your actual sitemap URL.*
+Just replace "https://www.example.com/sitemap.xml" with your actual sitemap URL.
 
 ## Executing the Script
 
 I tested the script, which gave me the desired results.
 
-**bash**
+~~~ bash
+python3 site_random_url.py
+https://eduklein.com.br/finance/value-investing
+~~~
 
-    python3 site_random_url.py
-    https://eduklein.com.br/finance/value-investing
-
-**bash**
-
-    python3 site_random_url.py https://eduklein.com.br/sitemap.xml
-    https://eduklein.com.br/book/how-the-world-really-works
+~~~ bash
+python3 site_random_url.py https://eduklein.com.br/sitemap.xml
+https://eduklein.com.br/book/how-the-world-really-works
+~~~
 
 ---
 
