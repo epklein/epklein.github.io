@@ -59,19 +59,19 @@ sitemap_url = sys.argv[1] if len(sys.argv) > 1 else "https://eduklein.com.br/sit
 print(get_random_url_from_sitemap(sitemap_url))
 ~~~
 
-You can now run the script from the command line as follows:
+*You can now run the script from the command line as follows:*
 
 ~~~ bash
 python random_url_from_sitemap.py
 ~~~
 
-This will default to using https://eduklein.com.br/sitemap.xml as the sitemap URL. If you want to provide a different sitemap URL, you can do so as a command-line argument:
+*This will default to using https://eduklein.com.br/sitemap.xml as the sitemap URL. If you want to provide a different sitemap URL, you can do so as a command-line argument:*
 
 ~~~ bash
 python random_url_from_sitemap.py "https://www.example.com/sitemap.xml"
 ~~~
 
-Just replace "https://www.example.com/sitemap.xml" with your actual sitemap URL.
+*Just replace "https://www.example.com/sitemap.xml" with your actual sitemap URL.*
 
 ## Executing the Script
 
