@@ -30,17 +30,23 @@ I also have previous experience in software development within **the financial m
 
 ## Experience
 
-**Engineering Manager at [VTEX](/about/vtex)** <nobr>(from May 2021 to date)</nobr>
+**Engineering Manager at VTEX** <nobr>(from May 2021 to date)</nobr>
 
 {% include about/experience-vtex-em-to-date.md %}
 
-**Software Development Manager at [Nelogica](/about/nelogica)** <nobr>(from Jan 2019 to Apr 2021)</nobr>
+*[Expanded version](/about/vtex)*
+
+**Software Development Manager at Nelogica** <nobr>(from Jan 2019 to Apr 2021)</nobr>
 
 {% include about/experience-nelogica-sdm-2021.md %}
 
-**Software Development Manager at [Mobiltec](/about/mobiltec)** <nobr>(from Jan 2009 to Jan 2019)</nobr>
+*[Expanded version](/about/nelogica)*
+
+**Software Development Manager at Mobiltec** <nobr>(from Jan 2009 to Jan 2019)</nobr>
 
 {% include about/experience-mobiltec-sdm-2019.md %}
+
+*[Expanded version](/about/mobiltec)*
 
 ## Education
 

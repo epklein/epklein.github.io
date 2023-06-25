@@ -14,7 +14,11 @@ Mobiltec was founded in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegr
 
 ## My experience at Mobiltec
 
-I worked for Mobiltec for more than 15 years. I grew inside the company from an intern in software development to a tech leader who led the entire product development team in Porto Alegre's office. I am sincerely grateful for the opportunities and leadership experience I gained during my time at the company.
+I worked for Mobiltec for more than 15 years.
+
+{% include about/experience-mobiltec-sdm-2019.md %}
+
+I am sincerely grateful for the opportunities and leadership experience I gained during my time at the company.
 
 At Mobiltec, I had the privilege of working under the guidance of the most exceptional manager of my career, [Miguel Bersano](https://www.linkedin.com/in/miguel-bersano-24a27b/), from whom I've learned so much!
 
