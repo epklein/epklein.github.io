@@ -12,7 +12,7 @@ I am an **experienced leader in software product development**, able to **develo
 
 I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Channel Management* team, which falls under the *Merchant Journey*. My team is responsible for developing and maintaining solutions that enable VTEX merchants to sell through external marketplaces. The team is distributed across many states in Brazil and South America, and I'm working remotely from my hometown.
 
-I also have previous experience in software development within **the financial market at [Nelogica](/about/nelogica)** and **mobile device management at [Mobiltec](http://www.mobiltec.com.br)**.
+I also have previous experience in software development within **the financial market at [Nelogica](/about/nelogica)** and **mobile device management at [Mobiltec](/about/mobiltec)**.
 
 ## Strengths
 
@@ -38,7 +38,7 @@ I also have previous experience in software development within **the financial m
 
 {% include about/experience-nelogica-sdm-2021.md %}
 
-**Software Development Manager at [Mobiltec](http://www.mobiltec.com.br)** <nobr>(from Jan 2009 to Jan 2019)</nobr>
+**Software Development Manager at [Mobiltec](/about/mobiltec)** <nobr>(from Jan 2009 to Jan 2019)</nobr>
 
 {% include about/experience-mobiltec-sdm-2019.md %}
 
