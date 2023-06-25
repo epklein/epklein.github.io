@@ -15,17 +15,17 @@ The truth is, this question has been puzzling me for a while. I feel I've been i
 
 Being in the EM's seat, having a small team impels you to act hands-on with your engineers, whereas, with a big team, you can't properly support all engineers the way you wish. Neither helps your career development as an Engineering Manager.
 
-In his book [An Elegant Puzzle](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle), [Will Larson](https://lethain.com/) offers, from his experience, a playbook on sizing teams at big tech, which I feel is well aligned with my perceptions.
+In his book [An Elegant Puzzle](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle), [Will Larson](https://lethain.com/) offers, from his experience, **a playbook on sizing teams at big tech**, which I feel is well aligned with my perceptions.
 
 From his playbook, we can get valuable insights:
 
-1. Managers should support 6 to 8 engineers
+1. **Managers should support 6 to 8 engineers**
 	- Those who support fewer than 4 engineers are hands-on Tech Lead Mangers (TLMs)
 	- Those who support more than 8 engineers typically act as **coaches** and **safety nets for problems**
-2. Managers of managers should support 4 to 6 managers
+2. **Managers of managers should support 4 to 6 managers**
 	- Managers supporting fewer than 4 managers should be in a period of active learning (Ramp up)
 	- Coaches: Supporting more than 6 managers leaves you functioning purely as a problem-solving coach
-3. On-call rotations want 8 engineers
-4. Small teams (fewer than four members) are not considered teams
+3. **On-call rotations want 8 engineers**
+4. **Small teams (fewer than four members) are not considered teams**
 
 This is a simple set of principles that can guide the way we organize teams effectively.
