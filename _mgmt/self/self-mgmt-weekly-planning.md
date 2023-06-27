@@ -3,28 +3,27 @@ title: Weekly Planning
 permalink: /mgmt/self/weekly-planning
 ---
 
-Every monday morning I run a weekly planning ritual. This is important to reflect about what comes ahead, to prioritize projects and tasks. The goal is to plan what is ahead, and not just live in auto pilot.
+Every Monday morning, I run a weekly planning ritual. This is important to reflect on what comes ahead and prioritize projects and tasks, not just live on autopilot mode.
 
-This is a process tailored to my needs for personal life, career and work. I'm constantly adapting it. I do not recommend anyone to follow it strictly, but to adapt it to your needs.
+This process is tailored to my personal life, career, and work needs. I'm constantly adapting it. I do not recommend anyone to follow it strictly but adjust it to your needs.
 
 I run it as follows:
 
 ## Review my agenda
 
-First thing, I review my agenda for the whole week. Currently I use [Google Calendar](https://calendar.google.com).
+First thing, I review my agenda for the whole week. Currently, I use [Google Calendar](https://calendar.google.com).
 
-It is quite common that people from work schedule some slots in my agenda, or some important corporate events are introduced into it. This is the moment where I dedide what I'm going to attend and what I won't, and solve some conflicts that may occur. When needed, I an some async conversation to help solve it.
+Often, people from work schedule some slots in my agenda, or important corporate events suddenly appear on it. In this step, I decide what I will attend and what I won't, and solve any conflicts. I may open some async conversations to help solve it.
 
-I know that the week won't stick perfectly to the plan. That is not the objective. The idea is to be intentional about what I'm going to prioritize during this week. Some adjustments to the plan are normal during the way. I can count on the daily planning for that.
+I know that the week won't stick perfectly to the plan. That is not the objective. The idea is to be intentional about what I will prioritize this week. Some adjustments to the plan are expected along the way. I can count on the daily planning for that.
 
 ## Review projects and tasks
 
-This is the moment where I take a look into the big picture: Initiatives and projects, to check if I should prioritize something in any of my next actions lists. 
+This is the moment I look into the big picture: I review initiatives and projects and check if I should prioritize something in my next actions lists. 
 
-At work, I usually check our quarter and current cycle initiatives. At VTEX we have a 6-week planning cadence, and I check our planning tools.
+At work, I usually check our quarter and current cycle initiatives. At VTEX, we have a 6-week planning cadence, and I check our planning tools.
 
-For my personal life and career development, I refer to my projects in my [Todoist](https://todoist.com). I organize my projects list in areas 
-If there is something I wish to proactively work on, than I put it accordingly in my schedule or in any of my next actions lists.
+Regarding my personal life and career development, I refer to my projects in my [Todoist](https://todoist.com). I organize my projects list into areas. If I wish to work on something proactively, I put it in my schedule or any of my next actions lists.
 
 ---
 
