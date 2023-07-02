@@ -19,3 +19,7 @@ I worked for Nelogica in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Aleg
 ### Software Development Manager for Corporate Applications teams <nobr>(from Jan 2019 to Apr 2021)</nobr>
 
 {% include about/experience-nelogica-sdm-2021.md %}
+
+My responsibilities included defining the teams' strategy and vision, planning headcount, and building the team's roadmap, collaboratively with the product, commercial, marketing, people, and financial teams.
+
+Through the development and leadership of my teams, I was able to expand the sector from two teams of fewer than 10 engineers to an arrangement of five teams, with a total of up to 30 engineers, supporting the growth and evolution of the organization.
