@@ -5,11 +5,13 @@ toc: true
 toc_sticky: true
 ---
 
-Personal Development is the ongoing process of self-awareness and self-improvement in which we seek to enhance skills and knowledge, develop our careers, improve our quality of life, etc.
+Personal Development is **the ongoing process of self-awareness and self-improvement** in which we seek to enhance skills and knowledge, develop our careers, improve our quality of life, etc.
+
+This page is a collection of resources I consider relevant about personal development.
 
 ## Self-Management
 
-Self-management is a key component of personal development. It refers to our ability to manage our behavior and actions to achieve personal and professional goals. I have a [page dedicated to self-management](/mgmt/self) under the [management](/mgmt) section.
+Self-management is a key component of personal development. It refers to our ability to manage our behavior and actions to achieve personal and professional goals. I have a [page dedicated to self-management](/mgmt/self) under the [management](/mgmt) section of this website.
 
 ## Career Development
 

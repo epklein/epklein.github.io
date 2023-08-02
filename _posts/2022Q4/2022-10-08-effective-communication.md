@@ -1,7 +1,7 @@
 ---
 title: Effective Communication
-categories: [Leadership, People Skills, VTEX Way]
-tags: [Communication]
+categories: [Leadership, People Skills]
+tags: [Communication, VTEX Way]
 ---
 
 The way we communicate with other people has a big impact on the effectiveness of the message we want to deliver.
@@ -26,14 +26,14 @@ In James Stanier's words (from [Become an effective software engineering manager
 
 > Remember that as a manager, your word has weight as it doesn't only come from you: it comes from an established position in the company's org chart. As a manager you represent yourself, your team, and your company as a whole. Be a role model for those around you.
 
-In my experience as a software engineering manager I see that, by communicating effectively, you shape your team's behavior, impact their morale, and directly support them to develop their careers. And it is true the other way around, mangers will struggle with poor communication.
+In my experience as a software engineering manager, I see that, by communicating effectively, you shape your team's behavior, impact their morale, and directly support them in developing their careers. And it is true the other way around; managers will struggle with poor communication.
 
 ## Communication at VTEX
 
-At VTEX, we strongly believe that high-performance communication drives the company to great results. So much so that a commitment to a future-based language and integrity in our communication is part of the company's foundations.
+At VTEX, we strongly believe that high-performance communication drives the company to great results, so much so that a commitment to a future-based language and integrity in our communication is part of the company's foundations.
 
 Short-term results with no regard for such foundations even qualify as poor performance in our [performance review cycles](/performance-review-cycle).
 
----
+<br />
 
 If you want to expand your influence, impact other people's lives, or grow in your career as a leader, then you must invest in your [communication](/mgmt/people/communication) skills.
