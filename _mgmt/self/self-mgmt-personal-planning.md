@@ -11,8 +11,8 @@ There are some routines I have incorporated into my planning process.
 
 - [Weekly Planning](/mgmt/self/weekly-planning): Every Monday, first thing in the morning;
 - [Daily Planning](/mgmt/self/daily-planning): Fast daily routine to adapt the weekly plan;
-- [Weekly Retro](/mgmt/self/weekly-retro): Every friday, in the end of the day, I run a retrospective of the week;
-- [Monthly Retro](/mgmt/self/monthly-retro): In the last Friday  of the month, I run a retrospective for the month.
+- [Weekly Retro](/mgmt/self/weekly-retro): Every Friday, at the end of the day, I run a retrospective of the week;
+- [Monthly Retro](/mgmt/self/monthly-retro): In the last Friday of the month, I run a retrospective for the month.
 
 ## Time Management Techniques
 

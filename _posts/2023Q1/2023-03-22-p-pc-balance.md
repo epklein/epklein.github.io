@@ -1,7 +1,7 @@
 ---
 title: Production x Production Capability
-categories: [Management, VTEX Way]
-tags: [Personal Development, Effectiveness]
+categories: [Management, Personal Development]
+tags: [Effectiveness, VTEX Way]
 excerpt: The P/PC Balance is a concept first introduced by Stephen Covey, and a key principle for achieving effectiveness and long-term success.
 ---
 

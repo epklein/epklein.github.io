@@ -1,7 +1,7 @@
 ---
 title: Becoming a Toastmaster
-categories: [Leadership, Toastmasters]
-tags: [Personal Development]
+categories: [Leadership, Personal Development]
+tags: [Toastmasters]
 ---
 
 This month I joined the [Toastmasters International](https://www.toastmasters.org) organization, to pursue my development in [communication](/mgmt/people/communication) and [leadership](/leadership). I joined the [Nós Toastmasters club](https://www.toastmasters.org/Find-a-Club/04830452-04830452), a group that operates in my hometown, Porto Alegre.

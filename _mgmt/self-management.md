@@ -7,14 +7,9 @@ toc_sticky: true
 
 Managing oneself is essential for personal growth, career development, and effective leadership.
 
-On this page, I'm gathering a list of skills and practices that I consider not only relevant but also extremely beneficial when it comes to managing oneself.
+## Time Management
 
-## Skills and Practices
-
-1. **Time Management**: This is about mastering how to use your time effectively. It involves goal setting, prioritization, [delegation](/mgmt/people/delegation), and work-life balance, among other things. Check my [personal planning page](/mgmt/self/personal-planning) for more information on this topic.
-2. **Career Development**: I am a firm believer that we all should take ownership of our work and career. Ask yourself, what are your career aspirations? How can your manager and current company support these goals? Remember, you should not solely rely on your company or manager to shape your career trajectory. Take charge and own your career path.
-
-Stay tuned, as more will be added to this list sooner than later.
+Time management is about mastering how to use our time effectively. It involves goal setting, prioritization, [delegation](/mgmt/people/delegation), and work-life balance, among other things. Check my [personal planning page](/mgmt/self/personal-planning) for more information on this topic.
 
 ## Other resources
 

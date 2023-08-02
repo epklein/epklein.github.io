@@ -283,6 +283,8 @@ collections:
       - self/self-mgmt-monthly-retro.md
   books:
     output: true
+  personal-dev:
+    output: true
 
 # Defaults
 defaults:
@@ -317,6 +319,16 @@ defaults:
       author_profile: false
       sidebar:
         nav: "mgmt"
+
+  # _personal_dev
+  - scope:
+      path: ""
+      type: personal_dev
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "personal-dev"
 
   # _books
   - scope:

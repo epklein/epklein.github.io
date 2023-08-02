@@ -36,3 +36,5 @@ mgmt:
     children:
       - title: "Personal Planning"
         url: /mgmt/self/personal-planning
+
+personal-dev:
