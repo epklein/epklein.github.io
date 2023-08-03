@@ -1,16 +1,20 @@
 main:
-  - title: "Management"
-    url: /mgmt
-  - title: "Leadership"
-    url: /leadership
-  - title: "Personal Development"
-    url: /personal-dev
-  - title: "Reading"
-    url: /reading
-  - title: "Archive"
-    url: /archive
   - title: "About"
     url: /about
+  - title: "Reading"
+    url: /reading
+  - title: "Leadership"
+    url: /leadership
+  - title: "Management"
+    url: /mgmt
+  - title: "Software Engineering"
+    url: /swe
+  - title: "Personal Development"
+    url: /personal-dev
+  - title: "Archive"
+    url: /archive
+
+leadership:
 
 mgmt:
   - title: "Management"
@@ -38,5 +42,16 @@ mgmt:
     children:
       - title: "Personal Planning"
         url: /mgmt/self/personal-planning
+
+swe:
+  - title: "Software Engineering"
+    url: /swe
+  - title: "DevOps"
+    url: /swe/devops
+    children:
+    - title: "Continuous Delivery"
+      url: /swe/devops/continuous-delivery
+  - title: "Cloud Computing"
+    url: /swe/cloud-computing
 
 personal-dev:
