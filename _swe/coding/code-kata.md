@@ -1,6 +1,6 @@
 ---
 title: Code Kata
-permalink: /coding/code-kata
+permalink: /swe/coding/code-kata
 ---
 
 *Code Kata* is a programming exercise that helps software developers improve their coding skills through practice and repetition.

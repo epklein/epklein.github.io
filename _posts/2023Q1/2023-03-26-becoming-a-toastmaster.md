@@ -1,6 +1,6 @@
 ---
 title: Becoming a Toastmaster
-categories: [Leadership, Personal Development]
+categories: [Personal]
 tags: [Toastmasters]
 ---
 
