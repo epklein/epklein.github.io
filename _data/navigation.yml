@@ -50,7 +50,7 @@ swe:
     url: /swe/devops
     children:
     - title: "Continuous Delivery"
-      url: /swe/devops/continuous-delivery
+      url: /swe/devops/cd
   - title: "Cloud Computing"
     url: /swe/cloud-computing
   - title: "Coding"
