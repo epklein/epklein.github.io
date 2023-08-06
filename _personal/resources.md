@@ -37,7 +37,7 @@ The tools I use to write, monitor and promote this blog:
 
 ### Mentoring
 
-- [ADPList](adplist.org): A free mentoring community
+- [ADPList](https://adplist.org): A free mentoring community
 - [The Mentoring Club](https://www.mentoring-club.com): Another mentoring community
 - [Plato](https://www.platohq.com/): Plato is a community for Engineering Leaders
 
