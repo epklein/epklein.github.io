@@ -59,3 +59,8 @@ swe:
       url: /swe/coding/code-kata
 
 personal-dev:
+  - title: "Personal Development"
+    url: "/personal-dev"
+    children:
+    - title: "Mentoring"
+      url: "/personal-dev/mentoring"

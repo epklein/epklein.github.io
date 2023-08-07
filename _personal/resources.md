@@ -20,9 +20,3 @@ The tools I use to write, monitor and promote this blog:
 - [Google Analytics](https://analytics.google.com): Web analytics tool for site traffic and user behavior
 - [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters): Tools for monitoring and maintaining a website's presence in Google and Microsoft Bing
 - [Tinyletter](https://app.tinyletter.com): A simple tool for creating personal newsletters
-
-### Mentoring
-
-- [ADPList](https://adplist.org): A free mentoring community
-- [The Mentoring Club](https://www.mentoring-club.com): Another mentoring community
-- [Plato](https://www.platohq.com/): Plato is a community for Engineering Leaders

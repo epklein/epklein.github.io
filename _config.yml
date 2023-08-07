@@ -281,7 +281,7 @@ collections:
       - self/self-mgmt-daily-planning.md
       - self/self-mgmt-weekly-retro.md
       - self/self-mgmt-monthly-retro.md
-  
+
   swe:
     output: true
     order:
@@ -289,6 +289,12 @@ collections:
       - devops.md
       - devops/continuous-delivery.md
       - cloud-computing.md
+
+  personal-dev:
+    output: true
+    order:
+      - personal-dev.md
+      - mentoring.md
 
   books:
     output: true
@@ -337,6 +343,16 @@ defaults:
       sidebar:
         nav: "swe"
 
+  # _personal_dev
+  - scope:
+      path: ""
+      type: personal_dev
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "personal-dev"
+  
   # _books
   - scope:
       path: ""
