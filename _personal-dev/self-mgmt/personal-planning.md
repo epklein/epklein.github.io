@@ -10,10 +10,10 @@ I try to follow the [GTD method](https://gettingthingsdone.com/) to get myself o
 
 There are some routines I have incorporated into my planning process.
 
-- [Weekly Planning](/mgmt/self/weekly-planning): Every Monday, first thing in the morning;
-- [Daily Planning](/mgmt/self/daily-planning): Fast daily routine to adapt the weekly plan;
-- [Weekly Retro](/mgmt/self/weekly-retro): Every Friday, at the end of the day, I run a retrospective of the week;
-- [Monthly Retro](/mgmt/self/monthly-retro): In the last Friday of the month, I run a retrospective for the month.
+- [Weekly Planning](/personal-dev/self-mgmt/weekly-planning): Every Monday, first thing in the morning;
+- [Daily Planning](/personal-dev/self-mgmt/daily-planning): Fast daily routine to adapt the weekly plan;
+- [Weekly Retro](/personal-dev/self-mgmt/weekly-retro): Every Friday, at the end of the day, I run a retrospective of the week;
+- [Monthly Retro](/personal-dev/self-mgmt/monthly-retro): In the last Friday of the month, I run a retrospective for the month.
 
 ## Time Management Techniques
 

@@ -13,7 +13,7 @@ This page is a collection of resources I consider relevant about personal develo
 
 There are many tools & skills to consider for Personal Development:
 
-- [Self-Management](/mgmt/self): It refers to our ability to manage our behavior and actions to achieve personal and professional goals
+- [Self-Management](/personal-dev/self-mgmt): It refers to our ability to manage our behavior and actions to achieve personal and professional goals
 - [Career Development](/personal-dev/career-dev): It encompasses the actions, decisions, and planning involved in managing our professional growth
 - [Mentoring](/personal-dev/mentoring): It is a collaborative process, a knowledge-sharing relationship where an experienced individual, the mentor, provides guidance, support, and wisdom to a less experienced individual, the mentee
 

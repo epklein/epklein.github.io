@@ -62,7 +62,7 @@ personal-dev:
     - title: "Mentoring"
       url: "/personal-dev/mentoring"
   - title: "Self Management"
-    url: /mgmt/self
+    url: /personal-dev/self-mgmt
     children:
       - title: "Personal Planning"
-        url: /mgmt/self/personal-planning
+        url: /personal-dev/self-mgmt/personal-planning

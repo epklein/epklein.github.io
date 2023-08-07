@@ -28,5 +28,5 @@ Regarding my personal life and career development, I refer to my projects in my 
 
 ---
 
-- Right after those first steps, I run my [daily planning routine](/mgmt/self/daily-planning) as usual.
-- This is part of my [personal planning process](/mgmt/self/personal-planning).
+- Right after those first steps, I run my [daily planning routine](/personal-dev/self-mgmt/daily-planning) as usual.
+- This is part of my [personal planning process](/personal-dev/self-mgmt/personal-planning).
