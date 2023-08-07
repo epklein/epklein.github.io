@@ -1,6 +1,7 @@
 ---
 title: Retrospectiva Mensal
-permalink: /mgmt/self/monthly-retro
+permalink: /personal-dev/self-mgmt/monthly-retro
+redirect_from: /mgmt/self/monthly-retro
 published: false
 ---
 

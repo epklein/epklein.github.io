@@ -1,6 +1,7 @@
 ---
 title: Weekly Planning
-permalink: /mgmt/self/weekly-planning
+permalink: /personal-dev/self-mgmt/weekly-planning
+redirect_from: /mgmt/self/weekly-planning
 ---
 
 Every Monday morning, I run a weekly planning ritual. This is important to reflect on what comes ahead and prioritize projects and tasks, not just live on autopilot mode.

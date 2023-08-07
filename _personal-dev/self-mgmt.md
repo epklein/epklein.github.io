@@ -1,6 +1,7 @@
 ---
 title: Self Management
-permalink: /mgmt/self
+permalink: /personal-dev/self-mgmt
+redirect_from: /mgmt/self
 toc: true
 toc_sticky: true
 ---

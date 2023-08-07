@@ -37,11 +37,6 @@ mgmt:
       url: /mgmt/people/one-on-ones
   - title: "Team Management"
     url: /mgmt/team
-  - title: "Self Management"
-    url: /mgmt/self
-    children:
-      - title: "Personal Planning"
-        url: /mgmt/self/personal-planning
 
 swe:
   - title: "Software Engineering"
@@ -67,4 +62,7 @@ personal-dev:
     - title: "Mentoring"
       url: "/personal-dev/mentoring"
   - title: "Self Management"
-    url : "/mgmt/self"
+    url: /mgmt/self
+    children:
+      - title: "Personal Planning"
+        url: /mgmt/self/personal-planning

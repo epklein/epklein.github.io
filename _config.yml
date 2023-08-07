@@ -275,12 +275,6 @@ collections:
       - people/ppl-mgmt-delegation.md
       - people/ppl-mgmt-one-on-ones.md
       - team-management.md
-      - self-management.md
-      - self/self-mgmt-personal-planning.md
-      - self/self-mgmt-weekly-planning.md
-      - self/self-mgmt-daily-planning.md
-      - self/self-mgmt-weekly-retro.md
-      - self/self-mgmt-monthly-retro.md
 
   swe:
     output: true
@@ -296,6 +290,12 @@ collections:
       - personal-dev.md
       - career-dev.md
       - mentoring.md
+      - self-mgmt.md
+      - self-mgmt/personal-planning.md
+      - self-mgmt/weekly-planning.md
+      - self-mgmt/daily-planning.md
+      - self-mgmt/weekly-retro.md
+      - self-mgmt/monthly-retro.md
 
   books:
     output: true
