@@ -16,7 +16,7 @@ A typical Software Engineering (SWE) career ladder:
 - Principal: They guide the technical direction of the company;
 - Distinguished and Fellow: Such levels may exist in large organizations. Like Principals, they guide the technical vision of the organization. Usually there is no standardized way to achieve this.
 
-For each level in the ladder, companies define a set of expectations. Engineers may take them as reference for [personal development](/personal-development), and those expectations are usually evaluated in [performance review cycles](/performance-review-cycle).
+For each level in the ladder, companies define a set of expectations. Engineers may take them as reference for [personal development](/personal-dev), and those expectations are usually evaluated in [performance review cycles](/performance-review-cycle).
 
 ## Progression Frameworks
 

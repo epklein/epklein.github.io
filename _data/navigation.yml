@@ -62,5 +62,9 @@ personal-dev:
   - title: "Personal Development"
     url: "/personal-dev"
     children:
+    - title: "Career Development"
+      url: "/personal-dev/career-dev"
     - title: "Mentoring"
       url: "/personal-dev/mentoring"
+  - title: "Self Management"
+    url : "/mgmt/self"
