@@ -30,4 +30,4 @@ Reviewing my journals and next activities is usually quick, no more than 10 minu
 
 ---
 
-- This is part of my [personal planning process](/mgmt/self/personal-planning).
+- This is part of my [personal planning process](/personal-dev/self-mgmt/personal-planning).

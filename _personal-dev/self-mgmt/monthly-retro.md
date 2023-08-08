@@ -15,4 +15,4 @@ Reflexão sobre os processos de Feedback e reconhecimento da equipe. Tenho dado 
 
 ----
 
-- This is part of my [personal planning process](/mgmt/self/personal-planning).
+- This is part of my [personal planning process](/personal-dev/self-mgmt/personal-planning).
