@@ -15,6 +15,7 @@ This page is a collection of personal resources. All this content is not visible
 - [goodreads](https://www.goodreads.com/user/show/29886397-eduardo-klein)
 - [Medium](https://medium.com/@epklein)
 - [Linktree](https://linktr.ee/epklein)
+- [The Mentoring Club](https://www.mentoring-club.com/the-mentors/eduardo-klein)
 
 ## Images
 
