@@ -1,6 +1,6 @@
 ---
 title: Daily Planning
-permalink: /personal-def/self-mgmt/daily-planning
+permalink: /personal-dev/self-mgmt/daily-planning
 redirect_from: /mgmt/self/daily-planning
 ---
 

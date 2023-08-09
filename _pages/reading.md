@@ -13,7 +13,7 @@ I have also separate reading lists in the main topics I write about in this blog
 
 - {% include books/an-elegant-puzzle.md %}
 - *[The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)* by Camille Fournier
-- *[Numbers don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
+- *[Numbers Don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
 - *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
 
 ## Reading Recommendations
