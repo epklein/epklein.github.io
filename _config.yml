@@ -125,7 +125,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/epklein"
-    - label: "The Mentoring Club"
+    - label: "Mentor at ADPList"
+      icon: "fas fa-fw fa-user-circle"
+      url: "https://adplist.org/mentors/eduardo-p-klein"
+    - label: "Mentor at TMC"
       icon: "fas fa-fw fa-user-circle"
       url: "https://www.mentoring-club.com/the-mentors/eduardo-klein"
 
