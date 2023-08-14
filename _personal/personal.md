@@ -1,5 +1,5 @@
 ---
-title: Eduardo Klein's personal content
+title: Eduardo Klein's personal resources
 permalink: /personal
 toc: true
 toc_sticky: true
@@ -8,24 +8,21 @@ author_profile: true
 
 This page is a collection of personal resources. All this content is not visible on the site, although it is public.
 
-## Profiles
+- **Pages**: [Bookmarks](/bookmarks) / [Profile](/profile)
 
-- [LinkedIn](https://www.linkedin.com/in/eduardopklein/)
-- [Twitter](https://twitter.com/eduardopklein)
-- [goodreads](https://www.goodreads.com/user/show/29886397-eduardo-klein)
-- [Medium](https://medium.com/@epklein)
-- [Linktree](https://linktr.ee/epklein)
-- [The Mentoring Club](https://www.mentoring-club.com/the-mentors/eduardo-klein)
+## Mentoring
 
-## Images
+The tools I use to mentor people on online platforms
 
-![2023 at VTEX](/_personal/photos/2023-06-VTEX-256.png) 
-![2019 at Nelogica](/_personal/photos/2019-02-NELO-256.png) 
-![2018 at Ecoland](/_personal/photos/ecoland-2018-256.jpg) 
-![2017 at Venice](/_personal/photos/venice-2017-256.jpg)
+- [The Mentoring Club](https://www.mentoring-club.com/): A mentoring platform
+- [ADPList](https://app.adplist.org/): Another mentoring platform
+- [Mentoring Room](https://meet.google.com/ufp-jpqe-kre): My Google Meet personal mentoring room
 
-![2023 at VTEX](/_personal/photos/2023-06-VTEX-1.jpg)
+## Blogging
 
-![2023 at VTEX](/_personal/photos/2023-06-VTEX-2.jpg)
+The tools I use to write, monitor and promote this blog:
 
-![2019 at Nelogica](/_personal/photos/2019-02-NELOGICA.png)
+- [Google Analytics](https://analytics.google.com): Web analytics tool for site traffic and user behavior
+- [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters): Tools for monitoring and maintaining a website's presence in Google and Microsoft Bing
+- [Tinyletter](https://app.tinyletter.com): A simple tool for creating personal newsletters
+
