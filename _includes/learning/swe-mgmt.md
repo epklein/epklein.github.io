@@ -2,6 +2,7 @@
 
 ### Books
 
+- {% include books/an-elegant-puzzle.md %}
 - {% include books/accelerate.md %}
 
 ### Blogs & Newsletters

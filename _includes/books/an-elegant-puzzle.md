@@ -1,1 +1,1 @@
-*[An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)* by Will Larson.
+*[An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)*, by [Will Larson](https://lethain.com/about/). An excellent book for software engineering leaders, one full of actionable strategies and clear examples, which significantly helps me in my work as a software engineering manager. The best I've read on the subject so far.
