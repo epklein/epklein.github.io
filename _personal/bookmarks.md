@@ -11,7 +11,7 @@ All this content is not visible on the site, although it is public.
 ## Engineering Management
 
 - [ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager): A public GitHub repository with resources for Engineering Managers
-
+- [Resources for Engineering Managers](https://www.notonlycode.org/engineering-manager-resources/): A curated collection of books, tools, and other resources for engineering managers, by Gregory Witek
 ## Blogging
 
 The tools I use to write, monitor and promote this blog:
