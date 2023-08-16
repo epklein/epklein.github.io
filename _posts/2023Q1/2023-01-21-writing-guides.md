@@ -7,7 +7,7 @@ excerpt: Writing guides is an effective approach to support your teams in handli
 
 When supporting teams in the many [software engineering](/swe) disciplines, we often help them define approaches to handling specific challenges. Writing them down on documents is an effective way to scale this process.
 
-In his book [An Elegant Puzzle](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle), [Will Larson](https://lethain.com/) defines such documents as *strategies*, and he shares a lightweight structure that helps us define clear *strategies* for our teams.
+In his book [An Elegant Puzzle](/book/an-elegant-puzzle), [Will Larson](https://lethain.com/) defines such documents as *strategies*, and he shares a lightweight structure that helps us define clear *strategies* for our teams.
 
 In his own words,
 
