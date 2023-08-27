@@ -4,29 +4,27 @@ permalink: /personal-dev/self-mgmt/daily-planning
 redirect_from: /mgmt/self/daily-planning
 ---
 
-I have two main purposes with my daily planning routine that I run every morning. First, to do a self reflection about the day. Second, to adjust the plan of my daily activities. The process is broken in 3 pieces, as follows.
+Every day, I run a brief daily planning routine. I have two main purposes with it: First, to do a self-reflection for the day; second, to plan the day ahead and adapt the [week plan](/personal-dev/self-mgmt/weekly-planning). The process is broken into three steps, as follows.
 
 ## Review today's history
 
-I'm a fan of journaling for long. This is the moment of my day where I review past events. It is like this day in my history. It makes me feel good to remember special moments, personal and professional achievements, the development of my chieldren, travelling notes and so on.
+I've been a big fan of journaling for long. This is the step of my routine when I review past events. This day in my history. It makes me feel good to remember special moments, personal and professional achievements, the development of my children, traveling notes, and so on.
 
-I review both my personal and my professional journals. Yeah, I keep both separated.
-
-I write that of course in software. Currently I use [Obsidian](https://obsidian.md/) as my journal and note-taking app.
+I review both my personal and professional journals. I write that in software. Currently, I use [Obsidian](https://obsidian.md/) as my journal and note-taking app.
 
 ## Review next activities
 
-This is the moment where I review my agenda and next actions in my todo list, and plan what I'll address during the day. Currently I use [Google Calendar](https://calendar.google.com) and [Todoist](https://todoist.com) as tools for that.
+This is the step when I review my agenda and next actions from my to-do list and plan what I'll address during the day. Currently, I use [Google Calendar](https://calendar.google.com) and [Todoist](https://todoist.com) as tools for that.
 
-I may also take a look at the pending activities in my teams' boards. Usually a Kanban board in a tool such as Jira, Trello, etc.
+I may also look at the pending activities on my teams' boards - usually a Kanban board in a tool such as Jira, Trello, etc.
 
 ## Review communications
 
-First moment of the day where I check my e-mail and messaging softwares. I get up to date with that, follow-up on messages or create tasks in one of my todo lists in Todoist.
+The first moment of the day when I check my e-mail and messaging tools. I get up to date with that, follow up on messages, or create tasks in one of my to-do lists.
 
 <br />
 
-Reviewing my journals and next activities is usually quick, no more than 10 minutes. Reviewing communications may get a bit longer depending of the needs found there. I have a 30 minutes closed in my schedule every morning for this daily planning routine, but I almost never use the whole slot for it.
+Reviewing my journals and next actions is usually quick, no more than 10 minutes. Reviewing communications may get a bit longer depending on the needs found there. I have 30 minutes closed in my schedule every morning for this daily planning routine, but I rarely use the whole slot for it.
 
 ---
 
