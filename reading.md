@@ -11,7 +11,7 @@ I also have separate reading lists for the main topics I write about in this blo
 
 ## Currently Reading
 
-- *[The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)* by Camille Fournier
+- *[The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)*: A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier
 - *[Numbers Don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
 - *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
 
@@ -22,6 +22,8 @@ I also have separate reading lists for the main topics I write about in this blo
 - {% include books/how-to-win-friends-and-influence-people.md %}
 - {% include books/an-elegant-puzzle.md %}
 
+*You can also find my reading recommendations on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=recommended-books)*.
+
 ### Blogs & Newsletters
 
 - {% include blogs/the-pragmatic-engineer.md %}
@@ -31,9 +33,8 @@ I also have separate reading lists for the main topics I write about in this blo
 
 ## Reading List
 
-Books that are next on my reading list
+Books that are next on my reading list:
 
-- [The Manager's Path](https://www.amazon.com.br/Managers-Path-Leaders-Navigating-English-ebook/dp/B06XP3GJ7F): A Guide for Tech Leaders Navigating Growth and Change, by Camille Fournier
 - {% include books/become-an-effective-swe-manager.md %}
 
 ## Books I've Read
@@ -45,4 +46,4 @@ Books that are next on my reading list
 {% endfor %}
 </ul>
 
-Check the full list of books I've read [here](/books-read).
+Those are the last five books I've read. Check the full list [here](/books-read).
