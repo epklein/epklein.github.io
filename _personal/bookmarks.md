@@ -14,7 +14,7 @@ All this content is not visible on the site, although it is public.
 - [Resources for Engineering Managers](https://www.notonlycode.org/engineering-manager-resources/): A curated collection of books, tools, and other resources for engineering managers, by Gregory Witek
 ## Blogging
 
-The tools I use to write, monitor and promote this blog:
+The tools I use to write, monitor, and promote this blog:
 
 - [Google Analytics](https://analytics.google.com): Web analytics tool for site traffic and user behavior
 - [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters): Tools for monitoring and maintaining a website's presence in Google and Microsoft Bing
@@ -24,7 +24,9 @@ The tools I use to write, monitor and promote this blog:
 
 ### Books
 
-- [keyvanakbary / learning-notes / books](https://github.com/keyvanakbary/learning-notes/tree/master/books): A public GitHub repository with great book summaries, including some I've read and love.
+- [Addy Osmani's recommended reads](https://www.goodreads.com/review/list/14088621?shelf=recommend-reads): Recommended reading from engineering leader and author [Addy Osmany](https://addyosmani.com/)
+- [Gergely Orosz](https://blog.pragmaticengineer.com/my-reading-list/): Recommended reading from [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/about) newsletter author, [Gergely Orosz](https://blog.pragmaticengineer.com/about/)
+- [keyvanakbary / learning-notes / books](https://github.com/keyvanakbary/learning-notes/tree/master/books): A public GitHub repository with great book summaries, including some I've read and love
 
 ## Ted Talks
 
