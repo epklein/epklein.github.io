@@ -1,7 +1,7 @@
 ---
-title: Delivering results over being right
-categories: 
-tags: 
+title: Delivering Results over Being Right
+categories: [Personal Development, People Skills]
+tags: [Communication, Influence, Effectiveness]
 excerpt: A reflection on how delivering results is more important than being right.
 ---
 
