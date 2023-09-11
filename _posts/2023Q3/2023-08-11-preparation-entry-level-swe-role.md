@@ -1,5 +1,5 @@
 ---
-title: Preparation for an entry-level software engineering role
+title: Preparation for an Entry-Level Software Engineering Role
 categories: [Mentoring]
 tags: [SWE Career]
 excerpt: Advice for a young graduate preparing for entry-level roles at tech companies
