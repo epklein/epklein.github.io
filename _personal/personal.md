@@ -9,6 +9,7 @@ author_profile: true
 This page is a collection of personal resources. All this content is not visible on the site, although it is public.
 
 - **Pages**: [Bookmarks](/bookmarks) / [Profile](/profile)
+- **Personal**: [Finance](/personal/finance)
 
 ## Mentoring
 
