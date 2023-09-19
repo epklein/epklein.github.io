@@ -12,7 +12,13 @@ I am an **experienced leader in developing and empowering new leaders while effe
 
 I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Channel Management* team, which falls under the *Merchant Journey*. My team is responsible for developing and maintaining solutions that enable VTEX merchants to sell through external marketplaces. The team is distributed across many states in Brazil and South America, and I'm working remotely from my hometown.
 
-I also have previous experience in software development within **the financial market at [Nelogica](/about/nelogica)** and **mobile device management at [Mobiltec](/about/mobiltec)**.
+I also have previous experience in software development within the financial market at [Nelogica](/about/nelogica) and mobile device management at [Mobiltec](/about/mobiltec).
+
+## Mentorship
+
+<p>I'm available for mentorship at <a rel="me" href="https://www.mentoring-club.com/the-mentors/eduardo-klein" target="_blank">The Mentoring Club</a> and <a rel="me" href="https://adplist.org/mentors/eduardo-p-klein" target="_blank">ADPList</a>.</p>
+
+<p>Reach me out if you want any support!</p>
 
 ## Strengths
 

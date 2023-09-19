@@ -109,13 +109,16 @@ analytics:
 author:
   name             : "Eduardo Klein"
   avatar           : "/_personal/photos/2023-06-VTEX-256.png"
-  bio              : "Software engineering manager <nobr>@ VTEX</nobr>"
+  bio              : "Engineering Manager <nobr>@ VTEX</nobr>"
   location         : "Porto Alegre, Brazil"
   email            : contato@eduklein.com.br
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eduardopklein"
+    - label: "The Mentoring Club"
+      icon: "fas fa-fw fa-user-circle"
+      url: "https://www.mentoring-club.com/the-mentors/eduardo-klein"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/eduardopklein"
@@ -125,12 +128,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/epklein"
-    - label: "Mentor at ADPList"
-      icon: "fas fa-fw fa-user-circle"
-      url: "https://adplist.org/mentors/eduardo-p-klein"
-    - label: "Mentor at TMC"
-      icon: "fas fa-fw fa-user-circle"
-      url: "https://www.mentoring-club.com/the-mentors/eduardo-klein"
 
 # Site Footer
 footer:
