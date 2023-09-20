@@ -1,16 +1,16 @@
 main:
   - title: "About"
     url: /about
-  - title: "Reading"
-    url: /reading
   - title: "Leadership"
     url: /leadership
   - title: "Management"
     url: /mgmt
-  - title: "Software Engineering"
+  - title: "Software Eng"
     url: /swe
-  - title: "Personal Development"
+  - title: "Personal Dev"
     url: /personal-dev
+  - title: "Reading"
+    url: /reading
   - title: "Archive"
     url: /archive
 
@@ -41,6 +41,11 @@ mgmt:
 swe:
   - title: "Software Engineering"
     url: /swe
+    children:
+    - title: "Design"
+      url: /swe/sdlc/design
+    - title: "Deployment"
+      url: /swe/sdlc/deployment
   - title: "DevOps"
     url: /swe/devops
     children:

@@ -1,1 +1,0 @@
-[DevOps](/swe/devops) is a combination of culture, practices, and tools that integrates and automates software development and operational processes so that companies can plan, develop, deliver, and operate faster and reliably.
