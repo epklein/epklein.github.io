@@ -1,1 +1,1 @@
-[Irrational exuberance](https://lethain.com), a newsletter written by [Will Larson](https://lethain.com/), author of [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) and [Staff Engineer](https://lethain.com/staff-engineer/).
+[Irrational exuberance](https://lethain.com), a newsletter written by {% include people/will-larson.md %}, author of [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) and [Staff Engineer](https://lethain.com/staff-engineer/).

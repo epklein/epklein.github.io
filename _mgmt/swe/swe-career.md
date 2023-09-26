@@ -22,9 +22,9 @@ For each level in the ladder, companies define a set of expectations. Engineers 
 
 Some interesting resources covering career ladders in the tech industry:
 
-- [progression.fyi](https://progression.fyi/): *progression.fyi is currently a collection of open source and public ‘progression frameworks’, examples of the tools that thousands of managers in tech are building for their teams to ensure that they feel valued at work*
-- [Engineering Career Paths at Big Tech and High-Growth Startups](https://newsletter.pragmaticengineer.com/p/engineering-career-paths): An Issue of the Pragmatic Engineer Newsletter, by Gergely Orosz, covering the most common levels and career paths for engineers at big tech
-- [Designations, levels and calibration](https://lethain.com/perf-management-system): An interesting article about career ladders and performance management by [Will Larson](https://lethain.com)
+- [progression.fyi](https://progression.fyi/): *progression.fyi is currently a collection of open source and public ‘progression frameworks’, examples of the tools that thousands of managers in tech are building for their teams to ensure that they feel valued at work*.
+- [Engineering Career Paths at Big Tech and High-Growth Startups](https://newsletter.pragmaticengineer.com/p/engineering-career-paths): An Issue of the Pragmatic Engineer Newsletter, by Gergely Orosz, covering the most common levels and career paths for engineers at big tech.
+- [Designations, levels and calibration](https://lethain.com/perf-management-system): An interesting article about career ladders and performance management by {% include people/will-larson.md %}.
 
 ## Climbing the Ladder
 

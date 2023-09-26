@@ -1,0 +1,1 @@
+[James Stanier](https://www.linkedin.com/in/jstanier) (Director of Engineering at Shopify)

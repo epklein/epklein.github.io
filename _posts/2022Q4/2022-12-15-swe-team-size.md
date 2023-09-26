@@ -9,13 +9,15 @@ The right size of a software engineering team and the number of engineers an Eng
 
 The [Scrum Guide](https://scrumguides.org/scrum-guide.html#scrum-team) states that "*The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people*". The Two-Pizza Teams, coined by [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos) at [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)), also says that "*We try to create teams that are no larger than can be fed by two pizzas*", which I guess can't feed more than 8 or 9 people.
 
-A more accurate answer depends on how the team operates. For example, teams at big tech are responsible for innovation, keeping the lights on, on-call processes, among other responsibilities. By the way, those teams are usually [not running the Scrum framework to manage projects](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) anyway.
+We could probably find other recommendations that are aligned with the previous two, probably backed by research from organization behavior, cognitive science, and social dynamics.
+
+Anyway, an accurate answer probably does not exist. Choosing a team size that fits your organization's needs depend on how the organization and the team operates, or are expected to operate. For example, teams at big tech are responsible for innovation, keeping the lights on, on-call processes, among other responsibilities. In other companies, the reality may be much different.
 
 The truth is, this question has been puzzling me for a while. I feel I've been in both extremes of this *dilemma*: Small teams that lack skills and are highly impacted by vacation, on-call, sick leave, etc., and big teams that get too complex to manage, lose focus easier, and don't adapt fast. Both usually don't perform as expected.
 
 Being in the EM's seat, having a small team impels you to act hands-on with your engineers, whereas, with a big team, you can't properly support all engineers the way you wish. Neither helps your career development as an Engineering Manager.
 
-In his book [An Elegant Puzzle](/book/an-elegant-puzzle), [Will Larson](https://lethain.com/) offers, from his experience, **a playbook on sizing teams at big tech**, which I feel is well aligned with my perceptions.
+In his book *[An Elegant Puzzle](/book/an-elegant-puzzle)*, {% include people/will-larson.md %} offers, from his experience, **a playbook on sizing teams at big tech**, which I feel is well aligned with my perceptions.
 
 From his playbook, we can get valuable insights:
 
@@ -29,3 +31,10 @@ From his playbook, we can get valuable insights:
 4. **Small teams (fewer than four members) are not considered teams**
 
 This is a simple set of principles that can guide the way we organize teams effectively.
+
+## Further reading
+
+Some further reading recommendation if you want to elaborate more on the subject:
+
+- [Sizing Engineering Teams](https://lethain.com/sizing-engineering-teams/), written by {% include people/will-larson.md %}
+- [How Many Direct Reports Should a Manager Have?](https://www.theengineeringmanager.com/qa/how-many-direct-reports-should-a-manager-have/), written by {% include people/james-stanier.md %}

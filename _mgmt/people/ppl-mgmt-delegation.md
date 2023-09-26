@@ -26,7 +26,7 @@ He brings the idea that delegating effectively to empower teams is a factor of u
 
 Another way to see delegation is that of a process of many levels. You choose the appropriate level of responsibility you delegate to someone.
 
-In *[Become an Effective Software Engineering Manager](https://www.goodreads.com/book/show/50363684-become-an-effective-software-engineering-manager)*, [James Stanier](https://www.linkedin.com/in/jstanier) shares the following scale of delegation to understand where we are and where we can go in the delegation process.
+In *[Become an Effective Software Engineering Manager](https://www.goodreads.com/book/show/50363684-become-an-effective-software-engineering-manager)*, {% include people/james-stanier.md %} shares the following scale of delegation to understand where we are and where we can go in the delegation process.
 
 ![The scale of delegation. Become an Effective Software Engineering Manager, by James Stanier](/images/mgmt-delegation-james-stanier.png "Become an Effective Software Engineering Manager, by James Stanier")
 
