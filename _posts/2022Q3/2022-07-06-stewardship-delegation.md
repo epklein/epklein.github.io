@@ -4,7 +4,7 @@ categories: [People Management]
 tags: [Delegation]
 ---
 
-[Delegation](/mgmt/people/delegation) is the act of giving someone else, or a group of people, authority or responsibility for something. There are many techniques for delegating properly; the best approach may depend on the context.
+[Delegation](/mgmt/people/delegation) is the ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively. There are many techniques for delegating properly; the best approach may depend on the context.
 
 In [managing software engineering teams](/mgmt/swe), I prefer a delegation approach focused on results instead of methods. This takes more time and energy to see results but develops people's abilities and scales in the long run.
 
@@ -17,4 +17,4 @@ A straightforward approach focused on results is the **stewardship delegation**,
 > - **Accountability**: Set up the standards of performance that will be used in evaluating the results and the specific times when reporting and evaluation will take place.
 > - **Consequences**: Specify what will happen, both good and bad, as a result of the evaluation.
 
-Food for thought: I don't usually use this process by the book in my daily work, but I like to reflect on those five areas when delegating a project or activity to an engineer.
+I don't usually use this process by the book in my daily work, but I like to reflect on those five areas when delegating a project or activity to an engineer.
