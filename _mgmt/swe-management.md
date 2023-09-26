@@ -5,11 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-On this page I share resources about **Software Engineering  Management**. But what is is it exactly? Well, I don't have a formal definition for it, but I see it as:
-
-> The application of [management](/mgmt) activities focused on the development and maintenance of software.
- 
-Do you have a better definition for it? Please let me know!
+On this page I share resources about Software Engineering Management, which I see as **the application of [management](/mgmt) activities focused on the development and maintenance of software**.
 
 ## Responsibilities
 

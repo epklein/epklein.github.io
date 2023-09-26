@@ -1,0 +1,1 @@
+[The Engineering Manager](https://www.theengineeringmanager.com/) is written by [James Stanier](https://www.linkedin.com/in/jstanier), Director of Engineering at Shopify ant author of *[Become an Effective Software Engineering Manager](https://www.goodreads.com/book/show/50363684-become-an-effective-software-engineering-manager)*.
