@@ -316,7 +316,7 @@ defaults:
       type: posts
     values:
       layout: post
-      author_profile: false
+      author_profile: true
       read_time: true
       show_date: true
       comments: false # true
