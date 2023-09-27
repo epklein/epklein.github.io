@@ -5,9 +5,9 @@ toc: true
 toc_sticky: true
 ---
 
-Here I share my current reading list, as well as my book recommendations. I also put together the top blogs and newsletters I like to follow to keep up to date.
+My current reading list, as well as my book recommendations. I also put together the top blogs and newsletters I like to follow to keep up to date.
 
-I also have separate reading lists for the main topics I write about in this blog, such as [leadership](/leadership), [management](/mgmt), and [software engineering management](/mgmt/swe), among others.
+I also have separate reading lists for the main topics I write about in this blog; Just access a main page from the top menu and navigate to the Learning section.
 
 ## Currently Reading
 
@@ -15,7 +15,9 @@ I also have separate reading lists for the main topics I write about in this blo
 - *[Numbers Don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
 - *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
 
-## Reading Recommendations
+*You can also find my updated list on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=currently-reading)*.
+
+## Recommendations
 
 ### Books
 
@@ -36,6 +38,7 @@ I also have separate reading lists for the main topics I write about in this blo
 Books that are next on my reading list:
 
 - {% include books/become-an-effective-swe-manager.md %}
+- {% include books/effective-remote-work.md %}
 
 ## Books I've Read
 

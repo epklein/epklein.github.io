@@ -1,0 +1,1 @@
+*[Effective Remote Work](https://www.goodreads.com/book/show/59425223-effective-remote-work-for-yourself-your-team-and-your-company)* by {% include people/james-stanier.md %}.
