@@ -6,7 +6,7 @@ toc_sticky: true
 author_profile: true
 ---
 
-This page is a collection of profile information. All this content is not visible on the site, although it is public.
+{% include disclaimer-not-visible-content.md %}
 
 ## Profiles
 

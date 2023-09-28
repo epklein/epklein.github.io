@@ -6,10 +6,12 @@ toc_sticky: true
 author_profile: true
 ---
 
-This page is a collection of personal resources. All this content is not visible on the site, although it is public.
+{% include disclaimer-not-visible-content.md %}
 
-- **Pages**: [Bookmarks](/bookmarks) / [Profile](/profile)
-- **Personal**: [Finance](/personal/finance)
+## Personal Pages
+
+- [Profile](/profile)
+- [Bookmarks](/bookmarks)
 
 ## Mentoring
 
@@ -27,3 +29,11 @@ The tools I use to write, monitor and promote this blog:
 - [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters): Tools for monitoring and maintaining a website's presence in Google and Microsoft Bing
 - [Tinyletter](https://app.tinyletter.com): A simple tool for creating personal newsletters
 - [Grammarly](https://app.grammarly.com): A writing assistance tool that I use to write the content of this blog. I use Grammarly app, as well as its integrations to VSCode, Google Docs and Microsoft Office
+- [kramdown quick reference](https://kramdown.gettalong.org/quickref.html): It helps me write all the content for this website
+
+## Finance
+
+- [Status Invest](https://statusinvest.com.br/): A Brazilian platform designed for individual investors, that provides tools and information tailored to the Brazilian Stock Market, as well as to the American stock market.
+- [Info Money](https://www.infomoney.com.br/): A Brazilian website that focuses on financial news, stock market data, and other economic information.
+- [Indicators by Debit](https://debit.com.br/tabelas/indicadores-economicos.php): Offers tables with important indicators from the Brazilian economy. You can also project those indicators along time.
+- [Oceans14](https://www.oceans14.com.br): A platform for investors who seek for information about the Brazilian stock market. Some useful reports I like is the [Bovespa historical P/E](https://www.oceans14.com.br/acoes/historico-pl-bovespa) and [investor's participation](https://www.oceans14.com.br/acoes/participacao-investidores-b3).
