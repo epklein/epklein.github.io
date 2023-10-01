@@ -275,9 +275,10 @@ collections:
       - swe-management.md
       - swe/swe-career.md
       - people-management.md
-      - people/ppl-mgmt-communication.md
-      - people/ppl-mgmt-delegation.md
-      - people/ppl-mgmt-one-on-ones.md
+      - people/performance-management.md
+      - people/communication.md
+      - people/delegation.md
+      - people/one-on-ones.md
       - team-management.md
 
   swe:

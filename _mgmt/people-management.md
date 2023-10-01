@@ -24,7 +24,7 @@ Skills I believe are important for a manager to develop include:
 - Feedback;
 - Conflict resolution;
 
-## People Management Processes
+## People Processes
 
 Inside a business there are a variety of processes a manager needs to get involved when managing people, such as:
 
@@ -32,8 +32,7 @@ Inside a business there are a variety of processes a manager needs to get involv
 - **Onboarding**: A comprehensive integration program for new employees, aimed at making them feel welcome, informed, and prepared for their new roles.
 - **Developing**: Fostering employee growth and skill enhancement through training, mentorship, and professional development opportunities.
     - Conducting regular [one-on-one meetings](/mgmt/people/one-on-ones) is a widely recognized management practice that nurtures meaningful connections with employees and facilitates their ongoing growth and development.
-- **Evaluating**: Continuously monitoring, assessing, and providing feedback on an employee's performance, goals, and skills to ensure alignment with organizational objectives.
-    - A [performance review cycle](/performance-review-cycle) is a periodic evaluation of an employee's work performance, aimed at promoting growth, development, and alignment with organizational goals.
+- **Evaluating**: Also known as [Performance Management](/mgmt/people/performance), it is the process of continuously monitoring, assessing, and providing feedback on an employee's performance, goals, and skills to ensure alignment with organizational objectives.
 - **Engaging**: Creating a positive work environment that fosters employee commitment, motivation, and connection to the organization.
 
 ## Other Resources
