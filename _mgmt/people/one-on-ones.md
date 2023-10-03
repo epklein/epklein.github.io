@@ -6,6 +6,7 @@ toc_label: "One-on-one Meetings"
 toc_sticky: true
 # an old blog post that was expanded on this page
 redirect_from: /one-on-one-meetings
+redirect_from: /one-on-one-meetings/
 ---
 
 A one-on-one is an individual meeting that a manager keeps to connect regularly to everyone that directly reports to him. It is a powerful tool for professional development. Some benefits of running one-on-ones include:
