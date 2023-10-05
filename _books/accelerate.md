@@ -24,7 +24,7 @@ It uncovers 24 capabilities, which are classified into the following 5 categorie
 
 The book then explores each capability and details the research findings. The following diagrams show the overall research program.
 
-![Accelerate: Overall Research Program](/images/books/accelerate-overall-research-program.png)
+![Accelerate: Overall Research Program](/images/books/accelerate-overall-research-program.webp)
 
 ## In the blog
 
