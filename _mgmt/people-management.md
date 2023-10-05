@@ -11,6 +11,18 @@ Throughout my career I've seen in practice or studied various approaches and sty
 
 The resources available on this page are informally classified as I gather and organize information. I strive to cover the most important topics in detail on specific pages and share my experiences about people management in the [blog](/blog).
 
+## Managing Individuals
+
+As managers, our influence on each team member significantly affects the overall team performance. So it is always important to consider the individuals.
+
+The main activities when managing individuals include:
+
+- Establishing a relationship with new reports;
+- Conducting regular [one-on-one meetings](/mgmt/people/one-on-ones);
+- Providing consistent feedback on career growth, progress towards goals, and areas of improvement;
+- Recognizing and praising achievements;
+- Identifying and facilitating learning opportunities for their development.
+
 ## People Skills
 
 We hear a lot about *soft skills* in businesses. These are interpersonal or people skills needed to connect to other people, to interact effectively and harmoniously with them. By developing such skills, you can influence others and expand your circle of influence, impacting more people to achieve greater results.
@@ -22,7 +34,7 @@ Skills I believe are important for a manager to develop include:
 - [Delegation](/mgmt/people/delegation): the ability to assign tasks or responsibility to individuals, and to empower and trust them to complete work effectively;
 - Emotional Intelligence;
 - Feedback;
-- Conflict resolution;
+- Conflict resolution.
 
 ## People Processes
 
