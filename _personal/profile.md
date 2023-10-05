@@ -19,8 +19,8 @@ author_profile: true
 
 ## Images
 
-![2023 at VTEX](/_personal/photos/2023-06-VTEX-256.png) 
-![2019 at Nelogica](/_personal/photos/2019-02-NELO-256.png) 
+![2023 at VTEX](/_personal/photos/2023-06-VTEX-256.jpg) 
+![2019 at Nelogica](/_personal/photos/2019-02-NELO-256.jpg) 
 ![2018 at Ecoland](/_personal/photos/ecoland-2018-256.jpg) 
 ![2017 at Venice](/_personal/photos/venice-2017-256.jpg)
 
@@ -28,4 +28,4 @@ author_profile: true
 
 ![2023 at VTEX](/_personal/photos/2023-06-VTEX-2.jpg)
 
-![2019 at Nelogica](/_personal/photos/2019-02-NELOGICA.png)
+![2019 at Nelogica](/_personal/photos/2019-02-NELOGICA.jpg)
