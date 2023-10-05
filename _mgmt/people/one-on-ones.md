@@ -51,6 +51,15 @@ It is nice to ask questions that stimulates the conversation. Some questions tha
 - What challenges or roadblocks do you need help with?
 - How can I help you?
 
+### Starting a New Relationship
+
+When you take new people as direct reports, you should consider a different approach to get to know the new person. Some interesting questions include:
+
+- What makes one-on-ones valuable for you?
+- Do you have any career goals that I should know about, to help you achieve them?
+- Are there any manager behaviors that you dislike?
+- Anything relevant since you've joined, good or bad, that I should know about?
+
 ### Topics for Discussion
 
 There are many relevant topics to cover during one-one-ones. Some of them will be discussed more frequently than others.
