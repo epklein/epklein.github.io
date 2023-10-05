@@ -16,6 +16,8 @@ author_profile: true
 
 ## Management
 
+- [Lara Hogan website](https://larahogan.me/): A website full of management and leadership resources I want to explore better
+
 ## SWE Management
 
 - [Addy Osmani's recommended reads](https://www.goodreads.com/review/list/14088621?shelf=recommend-reads): Recommended reading from engineering leader and author [Addy Osmany](https://addyosmani.com/)
