@@ -9,7 +9,7 @@ The Eisenhower Matrix is a straightforward and popular time management tool that
 
 When you categorize your activities into four quadrants, with the help of the matrix, you can quickly identify what you should prioritize first. Let's take a look at the matrix:
 
-![The Time Management Matrix](/images/posts/2023-02-27-eisenhower-matrix/the-time-management-matrix.png "The Time Management Matrix, by Stephen Covey.")
+![The Time Management Matrix](/images/posts/2023-02-27-eisenhower-matrix/the-time-management-matrix.webp "The Time Management Matrix, by Stephen Covey.")
 
 The two factors that define an activity, as you can see, are *urgent* and *important*. *Urgent* means that the activity requires immediate attention. They are usually visible and press on us. *Importance* has to do with results; if the activity is important to you, it contributes to your mission, your values, your high priority goals.
 
