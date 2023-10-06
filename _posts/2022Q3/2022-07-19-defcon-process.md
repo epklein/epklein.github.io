@@ -2,6 +2,7 @@
 title: DEFCON Process
 categories: [Software Engineering]
 tags: [Deployment, VTEX Way]
+excerpt: An established protocol to guide deployment routines.
 ---
 
 At VTEX, teams have autonomy in the execution of their deployments into production. Teams also have different deployment cadences. Some may deploy many times a day, while others may deploy less frequently. **In order to provide stability to the whole VTEX platform, there are some processes and tools implemented to support the engineering team. One of those being the DEFCON process.**

@@ -2,6 +2,7 @@
 title: Software Delivery Performance Metrics
 categories: [DevOps]
 tags: [Delivery]
+excerpt: Results from the State of DevOps 2021 Report.
 ---
 
 Research from [DORA](https://www.devops-research.com) (DevOps Research & Assessment) has validated four metrics that measure software delivery performance. According to the study, companies that exhibit exceptional organizational performance excel in these metrics:
