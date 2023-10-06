@@ -15,7 +15,7 @@ You can improve your chances of getting your next role by carefully searching fo
 
 [Don't Miss Your Next Role!](https://www.scarletink.com/using-your-brain-while-job-hunting/) is a great blog post by [Dave Anderson](https://www.linkedin.com/in/scarletink/), an ex-Amazon Tech Director, that I highly recommend. You may also take advantage of [reverse interviewing](https://github.com/viraptor/reverse-interview/tree/master) to understand the company, position, leadership, etc., to learn if a particular position fits your career goals.
 
-## On the blog
+## Related Posts
 
 **Software Engineering Career**
 

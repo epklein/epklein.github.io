@@ -33,7 +33,7 @@ Some key practices and approaches to software engineering include:
 
 - **Reactive Architecture**: {% include def-reactive-architecture.md %}
 
-**On the blog**
+**Related Posts**
 
 {% for post in site.tags['Software Architecture'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
 {% endfor %}
