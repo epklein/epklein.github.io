@@ -1,6 +1,8 @@
 ---
 title: Continuous Delivery
 permalink: /swe/devops/cd
+toc: true
+toc_sticky: true
 ---
 
 Continuous Delivery (CD) is at the heart of [DevOps](/swe/devops) and is one of the fundamental software engineering practices that modern companies use to deliver software *quickly* and *reliably*. 
@@ -27,7 +29,7 @@ To implement CD, we must create the following foundations:
 
 ## Related Posts
 
-{% for post in site.tags['Continuous Delivery'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.tags['Continuous Delivery'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}
 
 ## Recommended Reading

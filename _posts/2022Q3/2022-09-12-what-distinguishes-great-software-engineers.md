@@ -2,6 +2,7 @@
 title: What Distinguishes Great Software Engineers?
 categories: [SWE Management]
 tags: [SWE Career, Research]
+excerpt: The key traits of top software engineers, based on a comprehensive 2019 research study.
 ---
 
 Recently I read the article "[What Distinguishes Great Software Engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)" ([Springer link](https://doi.org/10.1007/s10664-019-09773-y)), published in 2019 by Paul Luo Li, Amy J. Ko, and Andrew Begel, which **synthesizes their findings of the key characteristics that distinguishes great software engineers**.

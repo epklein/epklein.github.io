@@ -36,5 +36,5 @@ There are tons of references online on how to develop yourself as a software eng
 
 ## Related Posts
 
-{% for post in site.tags['SWE Career'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.tags['SWE Career'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}

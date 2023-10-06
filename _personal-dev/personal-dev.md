@@ -5,13 +5,11 @@ toc: true
 toc_sticky: true
 ---
 
-Personal Development is **the ongoing process of self-awareness and self-improvement** in which we seek to enhance skills and knowledge, develop our careers, improve our quality of life, etc.
+*The ongoing process of self-awareness and self-improvement in which we seek to enhance skills and knowledge, develop our careers, improve our quality of life, and more.*
 
-This page is a collection of resources I consider relevant about personal development.
+## Personal Development Resources
 
-## Dimensions
-
-There are many tools & skills to consider for Personal Development:
+In the ever-evolving journey of personal development, there are countless skills to be mastered and useful tools to be explored. Bellow is a collection of resources I share on this website, handpicked to support and inspire your growth journey.
 
 - [Self-Management](/personal-dev/self-mgmt): It refers to our ability to manage our behavior and actions to achieve personal and professional goals
 - [Career Development](/personal-dev/career-dev): It encompasses the actions, decisions, and planning involved in managing our professional growth
@@ -19,7 +17,7 @@ There are many tools & skills to consider for Personal Development:
 
 ## Related Posts
 
-{% for post in site.categories['Personal Development'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.categories['Personal Development'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}
 
 ## Learning

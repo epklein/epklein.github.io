@@ -1,6 +1,7 @@
 ---
 title: "Accelerate: The Science of Lean Software and DevOps"
 categories: [Books, Lean Software, DevOps]
+excerpt: A summary of the book Accelerate, written by Nicole Forsgren, Jez Humble, and Gene Kim.
 ---
 
 Today I finished reading *[Accelerate](/book/accelerate)*, a book about [DevOps](/swe/devops) and Lean Software Development.

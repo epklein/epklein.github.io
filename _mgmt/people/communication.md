@@ -40,7 +40,7 @@ Watch the video I shared in a blog post about [Effective Communication](/effecti
 
 ## Related Posts
 
-{% for post in site.tags['Communication'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.tags['Communication'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}
 
 ## Learning

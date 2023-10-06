@@ -17,7 +17,7 @@ You can improve your chances of getting your next role by carefully searching fo
 
 ## Related Posts
 
-**Software Engineering Career**
+### Software Engineering Career
 
-{% for post in site.tags['SWE Career'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.tags['SWE Career'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}

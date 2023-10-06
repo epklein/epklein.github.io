@@ -2,6 +2,7 @@
 title: Performance Review Cycle
 categories: [Performance Management]
 tags: [Performance Evaluation, SWE Career, VTEX Way]
+excerpt: An overview of the Performance Review Cycle process.
 ---
 
 Here at VTEX, the **Tech Org** is currently running the *Performance Review Cycle* for 2022/H2. We run it twice a year.

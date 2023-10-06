@@ -123,7 +123,7 @@ I've written a blog post about [taking notes of one-on-ones](/taking-notes-of-on
 
 ## Related Posts
 
-{% for post in site.tags['One-on-one'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.tags['One-on-one'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}
 
 ## Recommended Reading

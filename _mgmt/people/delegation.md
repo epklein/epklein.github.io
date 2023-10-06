@@ -49,7 +49,7 @@ There are many tools that support the delegation process. Some popular include:
 
 There are much more to say about delegation, many techniques on how to delegate properly, and the best approach may depend on the context. You can read more about some techniques on how to delegate in the *blog*, under the [Delegation](/tags#delegation) tag.
 
-{% for post in site.tags['Delegation'] %}- {{ post.date | date: "%B %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>
+{% for post in site.tags['Delegation'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}
 
 ## Recommended Reading
