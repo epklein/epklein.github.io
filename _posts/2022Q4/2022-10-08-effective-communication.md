@@ -10,7 +10,7 @@ How we deliver the message - the words we choose, our rhetoric, our body languag
 
 Recently I came across this interesting video on *The Power of Words*, from 2015 [Toastmasters International](https://www.toastmasters.org/) public speaking champion [Mohammed Qahtani](https://www.linkedin.com/in/mohammed-qahtani-08b90931/). It is a 3-minute video that I highly recommend you watch.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qasE4ecA57Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="qasE4ecA57Y" provider="youtube" %}
 
 <br />
 
