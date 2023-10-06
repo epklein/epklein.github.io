@@ -63,13 +63,12 @@ swe:
 personal-dev:
   - title: "Personal Development"
     url: "/personal-dev"
-    children:
-    - title: "Career Development"
-      url: "/personal-dev/career-dev"
-    - title: "Mentoring"
-      url: "/personal-dev/mentoring"
   - title: "Self Management"
     url: /personal-dev/self-mgmt
     children:
       - title: "Personal Planning"
         url: /personal-dev/self-mgmt/personal-planning
+  - title: "Career Development"
+    url: "/personal-dev/career-dev"
+  - title: "Mentoring"
+    url: "/personal-dev/mentoring"
