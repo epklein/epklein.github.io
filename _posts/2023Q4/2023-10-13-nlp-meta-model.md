@@ -2,7 +2,7 @@
 title: NLP Meta model
 categories: [Coaching, People Skills]
 tags: [NLP, Communication]
-excerpt: "Reverse engineering communication to get information that is deleted, distorted, or generalized."
+excerpt: "An NLP model designed to enhance communication by addressing its deletions, distortions and generalizations."
 ---
 
 Throughout our lives, from childhood and education to work and relationships, we develop our mental models — our unique perceptions of the world. However, due to the limitations of language, we struggle to effectively communicate and interpret these varied, and sometimes even conflicting, mental models. This is fundamentally why we encounter so much problem and noise in communication, as captured by the following quote:

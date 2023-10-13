@@ -2,7 +2,7 @@
 title: Writing Guides to Support Your Teams
 categories: [Team Management]
 tags: [Communication, Influence]
-excerpt: Writing guides is an effective approach to support your teams in handling specific challenges.
+excerpt: An effective asynchronous communication approach to support your teams in handling specific challenges.
 ---
 
 When supporting teams in the many [software engineering](/swe) disciplines, we often help them define approaches to handling specific challenges. Writing them down on documents is an effective way to scale this process.
