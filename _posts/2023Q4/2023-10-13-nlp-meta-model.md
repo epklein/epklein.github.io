@@ -2,14 +2,14 @@
 title: NLP Meta model
 categories: [Coaching, People Skills]
 tags: [NLP, Communication]
-excerpt: "An NLP model designed to enhance communication by addressing its deletions, distortions and generalizations."
+excerpt: "A neuro-linguistic programming (NLP) tool designed to enhance communication by addressing its deletions, distortions and generalizations."
 ---
 
 Throughout our lives, from childhood and education to work and relationships, we develop our mental models — our unique perceptions of the world. However, due to the limitations of language, we struggle to effectively communicate and interpret these varied, and sometimes even conflicting, mental models. This is fundamentally why we encounter so much problem and noise in communication, as captured by the following quote:
 
 > Between what I say and what you understand, there's what I meant to say and what you think I said.
 
-This underscores why communication is paramount in leadership and management, and  the reason I maintain a [dedicated page on the subject of communication](/mgmt/people/communication).
+This underscores why communication is paramount in [leadership](/leadership) and [management](/mgmt), and the reason I maintain a [dedicated page on the subject of communication](/mgmt/people/communication).
 
 An essential tool for enhancing interpersonal communication, and even the internal dialogue we have with ourselves, is the meta model patterns of communication. Originating from Neuro-linguistic programming (NLP), these patterns allow us to reverse engineer communication, uncovering information that might be deleted, distorted, or generalized.
 

@@ -6,9 +6,21 @@ toc_label: "Communication"
 toc_sticky: true
 ---
 
-Communication is **the ability to convey information clearly, listen actively, and adapt one's communication style to suit different situations and audiences**.
+*The ability to convey information clearly, listen actively, and adapt one's communication style to suit different situations and audiences.*
 
 This page is a collection of resources I consider relevant to effective communication.
+
+## Neuro-linguistic programming
+
+Neuro-linguistic programming (NLP) is a psychological approach that focuses on analyzing strategies employed by successful individuals and applying these strategies to communication, [personal development](/personal-dev), and psychotherapy. It was first developed by [Richard Bandler](https://en.wikipedia.org/wiki/Richard_Bandler) and [John Grinder](https://en.wikipedia.org/wiki/John_Grinder).
+
+It's important to note that NLP has faced criticism and is often labeled as pseudoscience due to a lack of scientific validation.
+
+Despite this, I have an NLP background (holding an NLP Practitioner certification) and believe that it offers valuable tools to enhance communication. This is the reason I explore it on the site.
+
+{% assign sorted_posts = site.tags['NLP'] | sort: "title" %}
+{% for post in sorted_posts %}- <b><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
+{% endfor %}
 
 ## Mediums of Communication
 
@@ -40,7 +52,7 @@ Watch the video I shared in a blog post about [Effective Communication](/effecti
 
 ## Related Posts
 
-{% for post in site.tags['Communication'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
+{% for post in site.tags['Communication'] %}{% unless post.tags contains 'NLP' %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}{% endunless %}
 {% endfor %}
 
 ## Learning
