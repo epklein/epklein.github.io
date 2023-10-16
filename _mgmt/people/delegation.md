@@ -7,12 +7,26 @@ toc_sticky: true
 
 Delegation is **the ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively**.
 
-<!-- Write about responsibility x accountability.  The first you may delegate, but the second you don't -->
-<!-- Write about some frameworks for leveling delegation. Delegation x Control -->
+In [managing software engineering teams](/mgmt/swe), I favor a delegation approach focused on the desired results rather than on the specific methods and steps required to achieve them. It takes more time and energy to see results, but develops people abilities and scales in the long run.
 
-In [managing software engineering teams](/mgmt/swe), I prefer a delegation approach focused on the results instead of methods. Which takes more time and energy to see results, but develops people abilities and scales in the long run.
+A key concept I consider crucial is understanding that **delegating is not a binary process**; it's not simply something you do or don't do. Instead, it **it is multifaceted process that you can navigate in many levels**. Successfully steering through these levels can be transformative. It allows you to allocate more time to meaningful work without loosing control. Furthermore, it fosters expertise and autonomy in others, setting the stage to improve team performance and greater organizational impact.
 
-At a higher level, I think it is important to understand that **delegating is not a binary process**, that you do or you don't do. In fact **it is a process that you can navigate in many levels**, as you can see in the following two models.
+The following are a few concepts that are useful to better navigate the delegation process.
+
+## Responsibility x Accountability
+
+**Responsibility is the obligation to complete specific tasks or projects**, typically based on the individual's role.
+
+On the other hand, **accountability is the state of being answerable for the outcomes of those tasks and projects**. It encompasses the consequences, both positive and negative, for the outcomes.
+
+The general principle is: **You can delegate responsibility, but you cannot delegate accountability**.
+
+You cannot blame your team for the failure of a project for which you were held accountable by your management. Simply put, your team's failure is also your failure.
+
+Thus, when delegating, keep the following in mind:
+
+- **Set up for success**: Consider the maturity of your team. Determine the appropriate level of delegation to ensure their success and employ the right tools to facilitate it. In subsequent sections I will provide guidance on this.
+- **Establish accountability**: While you retain overall accountability, clearly define the standards of performance for the delegated task or project. Communicate the expectations, and specify the consequences, both positive and negative, based on the evaluation of results.
 
 ## Maturity x Authority
 
@@ -43,7 +57,7 @@ There are many tools that support the delegation process. Some popular include:
 
 - **SMART model**: A model to delegate tasks that are based on the five words that compose the acronym: Specific, measurable, agreed upon, realistic, and time-based.
 - **RACI matrix**: A responsibility assignment matrix that helps in clarifying roles. It stands for responsible, accountable, consulted, and informed.
-- **Stewardship delegation**: An approach that establishes up-front mutual understanding and commitment regarding expectations in five areas: desired results, guidelines, resources, accountability, and consequences. I've written about it in [this post](/stewardship-delegation).
+- **[Stewardship delegation](/stewardship-delegation)**: A delegation approach focused on results that establishes up-front mutual understanding and commitment regarding expectations in five areas: desired results, guidelines, resources, accountability, and consequences. <!-- This is the blog post excerpt -->
 
 ## Related Posts
 

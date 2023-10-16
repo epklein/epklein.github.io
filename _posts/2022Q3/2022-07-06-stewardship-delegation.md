@@ -2,6 +2,7 @@
 title: Stewardship Delegation
 categories: [People Management]
 tags: [Delegation]
+excerpt: "A delegation approach focused on results that establishes up-front mutual understanding and commitment regarding expectations in five areas: desired results, guidelines, resources, accountability, and consequences."
 ---
 
 [Delegation](/mgmt/people/delegation) is the ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively. There are many techniques for delegating properly; the best approach may depend on the context.

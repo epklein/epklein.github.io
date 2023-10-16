@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-Team management refers to the coordination of a group of individuals in order to achieve common goals. This process involves various functions, such as communication, delegation, motivation, and conflict resolution to ensure that team members work together effectively and efficiently.
+Team management refers to the coordination of a group of individuals in order to achieve common goals. This process involves various functions, such as [communication](/mgmt/people/communication), [delegation](/mgmt/people/delegation), motivation, and conflict resolution to ensure that team members work together effectively and efficiently.
 
 ## Practices
 
