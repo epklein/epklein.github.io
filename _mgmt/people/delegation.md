@@ -25,8 +25,10 @@ You cannot blame your team for the failure of a project for which you were held 
 
 Thus, when delegating, keep the following in mind:
 
-- **Set up for success**: Consider the maturity of your team. Determine the appropriate level of delegation to ensure their success and employ the right tools to facilitate it. In subsequent sections I will provide guidance on this.
+- **Set up for success**: Consider the maturity of your team. Determine the appropriate level of delegation to ensure their success and employ the right tools to facilitate it. In subsequent sections I provide guidance on this.
 - **Establish accountability**: While you retain overall accountability, clearly define the standards of performance for the delegated task or project. Communicate the expectations, and specify the consequences, both positive and negative, based on the evaluation of results.
+
+You cannot delegate your accountability, but you can and should set accountability with your team.
 
 ## Maturity x Authority
 
