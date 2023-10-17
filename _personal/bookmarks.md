@@ -8,12 +8,6 @@ author_profile: true
 
 {% include disclaimer-not-visible-content.md %}
 
-## Leadership
-
-### Youtube videos
-
-- [Science of Persuasion](https://www.youtube.com/watch?v=cFdCzN7RYbw): The six universal principles of persuasion, named reciprocity, scarcity, authority, consistency, liking, consensus.
-
 ## Management
 
 - [Lara Hogan website](https://larahogan.me/): A website full of management and leadership resources I want to explore better

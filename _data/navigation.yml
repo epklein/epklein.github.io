@@ -33,6 +33,8 @@ mgmt:
       url: /mgmt/people/communication
     - title: "Delegation"
       url: /mgmt/people/delegation
+    - title: "Persuasion"
+      url: /mgmt/people/persuasion
     - title: "Performance Mgmt"
       url: /mgmt/people/performance
     - title: "One-on-ones"
