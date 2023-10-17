@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-Delegation is **the ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively**.
+*The ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively.*
 
 In [managing software engineering teams](/mgmt/swe), I favor a delegation approach focused on the desired results rather than on the specific methods and steps required to achieve them. It takes more time and energy to see results, but develops people abilities and scales in the long run.
 
@@ -49,7 +49,7 @@ In *[Become an Effective Software Engineering Manager](https://www.goodreads.com
 From [The Situational Leadership model](https://en.wikipedia.org/wiki/Situational_leadership_theory) we have another scale that I like, in which we adjust the delegation style to the following four levels:
 
 - **Telling**: Giving specific instructions and closely supervising performance.
-- **Selling**: Providing direction and using persuasion.
+- **Selling**: Providing direction and using [persuasion](/mgmt/people/persuasion).
 - **Participating**: Sharing ideas and facilitating the decision-making process.
 - **Delegating**: Turning over responsibility for decisions and execution.
 
@@ -68,7 +68,6 @@ There are much more to say about delegation, many techniques on how to delegate 
 {% for post in site.tags['Delegation'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}
 
-## Recommended Reading
+## Learning
 
-- [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0), by Jurgen Appelo.
-- [The 7 Habits of Highly Effective People](/book/the-7-habits-of-highly-effective-people) by Stephen Covey.
+{% include learning/delegation.md %}
