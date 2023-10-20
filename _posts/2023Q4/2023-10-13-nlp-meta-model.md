@@ -5,23 +5,23 @@ tags: [NLP, Communication]
 excerpt: "A neuro-linguistic programming (NLP) tool designed to enhance communication by addressing its deletions, distortions and generalizations."
 ---
 
-Throughout our lives, from childhood and education to work and relationships, we develop our mental models — our unique perceptions of the world. However, due to the limitations of language, we struggle to effectively communicate and interpret these varied, and sometimes even conflicting, mental models. This is fundamentally why we encounter so much problem and noise in communication, as captured by the following quote:
+Throughout our lives, from childhood and education to work and relationships, we develop our mental models — our unique perceptions of the world. However, due to the limitations of language, we struggle to effectively communicate and interpret these varied, and sometimes even conflicting, mental models. This is fundamentally why we encounter so much noise in communication, as captured by the following quote:
 
 > Between what I say and what you understand, there's what I meant to say and what you think I said.
 
-This underscores why communication is paramount in [leadership](/leadership) and [management](/mgmt), and the reason I maintain a [dedicated page on the subject of communication](/mgmt/people/communication).
+This underscores why communication is paramount in [leadership](/leadership) and [management](/mgmt), which is the reason I maintain a [dedicated page on the subject of communication](/mgmt/people/communication).
 
-An essential tool for enhancing interpersonal communication, and even the internal dialogue we have with ourselves, is the meta model patterns of communication. Originating from Neuro-linguistic programming (NLP), these patterns allow us to reverse engineer communication, uncovering information that might be deleted, distorted, or generalized.
+An essential tool for enhancing interpersonal communication, and even the internal dialogue we have with ourselves, is the meta model patterns of communication. Originating from Neuro-linguistic programming (NLP), these patterns allow us to reverse engineer communication, uncovering information that might be deleted, distorted, or generalized, in the language of NLP.
 
 # The Meta Model
 
 The NLP meta model is a set of questions designed to specify information and to challenge and expand the limits of someone's mental model. It responds to the deletions, distortions, and generalizations in our mental models and our communication.
 
-Every time we capture events and perceptions from our surroundings, we are partially consciously, but mostly unconsciously, processing a lot of information. According to NLP, to handle and make sense of it, our brains use some filters and, just after that, our thoughts are formed. Those filters are:
+Every time we capture events and perceptions from our surroundings, we are partially consciously, but mostly unconsciously, processing a lot of information. According to NLP, to handle and make sense our experience, our brains use some filters and, just after that, our thoughts are formed. Those filters are:
 
-- **Deletion**, or when we selectively focus our attention on certain aspects of our experience and exclude others.
-- **Distortion**, or the ability to add or remove parts of what is perceived to give it logical, aesthetic, or ethical meaning.
-- **Generalization**, or the ability to learn quickly from a few experiences.
+- **Deletion**: When we selectively focus our attention on certain aspects of our experience and exclude others.
+- **Distortion**: The ability to add or remove parts of what is perceived to give it logical, aesthetic, or ethical meaning.
+- **Generalization**: The ability to learn quickly from a few experiences.
 
 The following table summarizes the NLP Meta Model:
 
@@ -37,10 +37,10 @@ The following table summarizes the NLP Meta Model:
 
 A few examples of how to challenge language patterns, expand someone's mental model, and recover lost information:
 
-**1. Mind Reading**: Claiming to know someone else's internal state
-- Example: "He doesn't care about me"
+**1. Mind Reading**: Claiming to know someone else's inner mental state
+- Example: "He doesn't care to this project"
 - Challenge: How do you know he doesn't care?
-- Goal: Identify the criteria used to suppose the internal state of another person
+- Goal: Identify the criteria used to suppose what someone else thinks.
 
 **2. Comparative Deletion**: A comparison in which the starting point for comparison is not stated
 - Example: "It is better to say nothing"
