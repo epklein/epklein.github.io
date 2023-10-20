@@ -9,7 +9,7 @@ Mobiltec was founded in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegr
 
 ![Mobiltec logo](/images/about/mobiltec.png "Mobiltec logo")
 
-- Website: [http://www.mobiltec.com.br](htts://www.mobiltec.com.br)
+- Website: [https://www.mobiltec.com.br](https://www.mobiltec.com.br)
 - LinkedIn: [https://www.linkedin.com/company/52455](https://www.linkedin.com/company/52455)
 
 ## My experience at Mobiltec

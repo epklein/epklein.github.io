@@ -286,6 +286,7 @@ collections:
     output: true
     order:
       - swe.md
+      - swe-sdlc.md
       - sdlc/design.md
       - sdlc/deployment.md
       - swe-devops.md

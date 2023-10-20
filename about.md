@@ -18,6 +18,14 @@ I also have previous experience in software development within the financial mar
 
 <p>I'm available for mentorship at <a rel="me" href="https://www.mentoring-club.com/the-mentors/eduardo-klein" target="_blank">The Mentoring Club</a> and <a rel="me" href="https://adplist.org/mentors/eduardo-p-klein" target="_blank">ADPList</a>.</p>
 
+My mentoring topics include:
+
+- Leadership & Management
+- Software Engineering Management
+- Agile & Lean processes
+- Team and Project Management
+- Career Advice
+
 <p>Reach me out if you want any support!</p>
 
 ## Strengths
@@ -28,10 +36,10 @@ I also have previous experience in software development within the financial mar
 
 ## Skills
 
-- [DevOps](/swe/devops), Lean, Agile, Software Development Lifecycle
+- [DevOps](/swe/devops), Lean, Agile, [Software Development Lifecycle](/swe/sdlc)
 - Software Architecture, [Cloud Computing](swe/cloud-computing), Resilience, Performance, Scalability, Monitoring, Observability
 - Product Development, Roadmap Planning, MVP, Backlog Management
-- People Development, Performance Management, [One-on-ones](/mgmt/people/one-on-ones), PDP, PIP
+- People Development, [Performance Management](/mgmt/people/performance), [One-on-ones](/mgmt/people/one-on-ones), PDP, PIP
 - OKRs, KPIs
 
 ## Experience

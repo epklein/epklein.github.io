@@ -45,6 +45,8 @@ mgmt:
 swe:
   - title: "Software Engineering"
     url: /swe
+  - title: "SDLC"
+    url: /swe/sdlc
     children:
     - title: "Design"
       url: /swe/sdlc/design
@@ -57,10 +59,8 @@ swe:
       url: /swe/devops/cd
   - title: "Cloud Computing"
     url: /swe/cloud-computing
-  - title: "Coding"
-    children:
-    - title: "Code Kata"
-      url: /swe/coding/code-kata
+#  - title: "Coding"
+#    url: /swe/coding
 
 personal-dev:
   - title: "Personal Development"
