@@ -17,3 +17,7 @@ A few references:
 
 - [DesignDocs.dev](https://www.designdocs.dev)
 - [https://blog.pragmaticengineer.com/rfcs-and-design-docs](https://blog.pragmaticengineer.com/rfcs-and-design-docs)
+
+## Useful links
+
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101): [Sahn Lam](https://www.linkedin.com/in/sahnlam/) from [ByteByteGo](https://bytebytego.com/) explains complex systems using visuals and simple terms.
