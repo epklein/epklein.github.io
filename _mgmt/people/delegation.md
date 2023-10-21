@@ -9,7 +9,7 @@ toc_sticky: true
 
 In [managing software engineering teams](/mgmt/swe), I favor a delegation approach focused on the desired results rather than on the specific methods and steps required to achieve them. It takes more time and energy to see results, but develops people abilities and scales in the long run.
 
-A key concept I consider crucial is understanding that **delegating is not a binary process**; it's not simply something you do or don't do. Instead, it **it is multifaceted process that you can navigate in many levels**. Successfully steering through these levels can be transformative. It allows you to allocate more time to meaningful work without loosing control. Furthermore, it fosters expertise and autonomy in others, setting the stage to improve team performance and greater organizational impact.
+A key concept I consider crucial is understanding that **delegating is not a binary process**; it's not simply something you do or don't do. Delegation is not the same as abdication. Instead, it **it is multifaceted process that you can navigate in many levels**. Successfully steering through these levels can be transformative. It allows you to allocate more time to meaningful work without loosing control. Furthermore, it fosters expertise and autonomy in others, setting the stage to improve team performance and greater organizational impact.
 
 The following are a few concepts that are useful to better navigate the delegation process.
 
