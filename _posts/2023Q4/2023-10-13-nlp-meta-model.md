@@ -1,5 +1,5 @@
 ---
-title: NLP Meta model
+title: NLP Meta-Model
 categories: [Coaching, People Skills]
 tags: [NLP, Communication]
 excerpt: "A neuro-linguistic programming (NLP) tool designed to enhance communication by addressing its deletions, distortions and generalizations."
@@ -11,11 +11,11 @@ Throughout our lives, from childhood and education to work and relationships, we
 
 This underscores why communication is paramount in [leadership](/leadership) and [management](/mgmt), which is the reason I maintain a [dedicated page on the subject of communication](/mgmt/people/communication).
 
-An essential tool for enhancing interpersonal communication, and even the internal dialogue we have with ourselves, is the meta model patterns of communication. Originating from Neuro-linguistic programming (NLP), these patterns allow us to reverse engineer communication, uncovering information that might be deleted, distorted, or generalized, in the language of NLP.
+An essential tool for enhancing interpersonal communication, and even the internal dialogue we have with ourselves, is the meta-model patterns of communication. Originating from Neuro-linguistic programming (NLP), these patterns allow us to reverse engineer communication, uncovering information that might be deleted, distorted, or generalized, in the language of NLP.
 
-# The Meta Model
+# The Meta-Model
 
-The NLP meta model is a set of questions designed to specify information and to challenge and expand the limits of someone's mental model. It responds to the deletions, distortions, and generalizations in our mental models and our communication.
+The NLP meta-model is a set of questions designed to specify information and to challenge and expand the limits of someone's mental model. It responds to the deletions, distortions, and generalizations in our mental models and our communication.
 
 Every time we capture events and perceptions from our surroundings, we are partially consciously, but mostly unconsciously, processing a lot of information. According to NLP, to handle and make sense our experience, our brains use some filters and, just after that, our thoughts are formed. Those filters are:
 
@@ -23,7 +23,7 @@ Every time we capture events and perceptions from our surroundings, we are parti
 - **Distortion**: The ability to add or remove parts of what is perceived to give it logical, aesthetic, or ethical meaning.
 - **Generalization**: The ability to learn quickly from a few experiences.
 
-The following table summarizes the NLP Meta Model:
+The following table summarizes the NLP Meta-Model:
 
 | Deletions                     | Distortions         | Generalizations                |
 | ----------------------------- | ------------------- | ------------------------------ |
@@ -47,10 +47,24 @@ A few examples of how to challenge language patterns, expand someone's mental mo
 - Challenge: Better than what specifically?
 - Goal: Identify the comparison criteria used
 
+## Meta-Model Questions
+
+A list of questions useful to specify and clarify information and to open up someone's model of the world:
+
+- How? What? When? Where? Who specifically?
+- Who says? According to Whom?
+- Everybody? Always? Never? Nobody? Nothing? All? No one?
+- What do you mean by that?
+- Compared to whom? Compared to what?
+- How do you know?
+- What stops you? What would happen if you could?
+- What would happen if you did? What would happen if you didn’t?
+
 ## Further reading
 
-If you want to learn more about the Meta Model, consider the following as a starting point.
+If you want to learn more about the meta-model, consider the following as a starting point.
 
+- [The Ultimate Introduction to NLP](https://www.goodreads.com/book/show/17259397-the-ultimate-introduction-to-nlp)
 - [https://www.anilthomasnlp.com/post/the-nlp-meta-model](https://www.anilthomasnlp.com/post/the-nlp-meta-model)
 - [https://www.nlpworld.co.uk/nlp-training-meta-model/](https://www.nlpworld.co.uk/nlp-training-meta-model/)
 - [https://nlpsure.com/nlp-meta-model/](https://nlpsure.com/nlp-meta-model/)
