@@ -26,7 +26,7 @@ I also have separate reading lists for the main topics I write about in this blo
 
 *You can also find my reading recommendations on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=recommended-books)*.
 
-### Blogs & Newsletters
+### Blogs and Newsletters
 
 - {% include blogs/the-pragmatic-engineer.md %}
 - {% include blogs/scarlet-ink.md %}
