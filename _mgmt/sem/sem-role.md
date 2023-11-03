@@ -21,7 +21,7 @@ At their core, SEMs are responsible for leading teams of software engineers (SWE
 
 <!-- ### Engineering Leader by Camille Fournier -->
 
-When reading The Manager's Path, written by {% include people/camille-fournier.md %}, I found the following description for the Engineering Leader role, which is the leader of a team.
+When reading [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path), written by {% include people/camille-fournier.md %}, I found the following description for the Engineering Leader role, which is the leader of a team.
 
 The description is useful for engineering managers who want to understand their place and want to develop skills, as it covers all the basics of the role.
 
