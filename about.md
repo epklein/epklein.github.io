@@ -32,7 +32,7 @@ My mentoring topics include:
 
 - **[Team Management](/mgmt/team)**: Create multidisciplinary and autonomous teams in a collaborative environment that promotes continuous learning;
 - **[People Management](/mgmt/people/)**: Focus on the development of individuals and their careers through coaching, mentoring, and training;
-- **[Software Engineering Management](/mgmt/swe/)**: Broad experience in the entire software development lifecycle, from defining initiatives and projects to rollout and monitoring.
+- **[Software Engineering Management](/mgmt/sem/)**: Broad experience in the entire software development lifecycle, from defining initiatives and projects to rollout and monitoring.
 
 ## Skills
 

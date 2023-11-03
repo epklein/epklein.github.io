@@ -272,8 +272,9 @@ collections:
     output: true
     order:
       - management.md
-      - swe-management.md
-      - swe/swe-career.md
+      - sem-management.md
+      - sem/swe-role.md
+      - sem/swe-career.md
       - people-management.md
       - people/communication.md
       - people/delegation.md

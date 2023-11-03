@@ -101,7 +101,7 @@ Some interesting topics you may consider exploring during one-on-ones:
 **For Software Engineers**
 
 - Challenge them to assess and develop relevant hard and soft skills to grow in their careers;
-- You may use frameworks and tips from my [SWE career](/mgmt/swe/swe-career) page;
+- You may use frameworks and tips from my [SWE career](/mgmt/sem/swe-career) page;
 
 ## Taking Notes
 

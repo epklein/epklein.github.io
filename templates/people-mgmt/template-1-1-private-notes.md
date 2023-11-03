@@ -13,7 +13,7 @@ permalink: /mgmt/people/template-one-on-one-private-notes
 - She loves to play guitar!
 
 ## Career
-- [Career Track](/mgmt/swe/template-career-track)
+- [Career Track](/mgmt/sem/template-career-track)
 - [Shared one-on-one document](/mgmt/people/template-one-on-one-shared-document)
 
 ### History
@@ -27,7 +27,7 @@ permalink: /mgmt/people/template-one-on-one-private-notes
 
 ### 2022-09-21 - Release problems
 
-Alice didn't monitor her last deploy properly, and it caused a high error rate when it went to production. Because of that, we took 2 hours to rollback to our previous version. It was not the first time, so I need to define clearer expectations and have a candid conversation about this incident.
+Alice didn't monitor her last deployment properly, and it caused a high error rate when it went to production. Because of that, we took 2 hours to roll back to our previous version. It was not the first time, so I need to define clearer expectations and have a candid conversation about this incident.
 
 ### 2022-08-01
 

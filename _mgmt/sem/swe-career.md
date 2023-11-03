@@ -1,11 +1,11 @@
 ---
 title: Software Engineering Career Ladders
-permalink: /mgmt/swe/swe-career
+permalink: /mgmt/sem/swe-career
 toc: true
 toc_sticky: true
 ---
 
-In the tech industry we use progression frameworks (or '*career ladders*') to guide the development of engineers' careers.
+In the tech industry, we use progression frameworks (or '*career ladders*') to guide the development of engineers' careers.
 
 A **career ladder** usually consists of **Designations** (Software Engineer, Product Manager, etc.), **Levels**, and **Expectations**, to measure, develop, and evaluate performance.
 

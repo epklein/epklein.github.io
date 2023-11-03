@@ -19,12 +19,14 @@ leadership:
 mgmt:
   - title: "Management"
     url: /mgmt
-  - title: "SWE Management"
+  - title: "Software Engineering"
     url: /mgmt/swe
     children:
-    - title: Career
-      url: /mgmt/swe/swe-career
-  - title: "People Management"
+    - title: SEM Role
+      url: /mgmt/sem/sem-role
+    - title: SWE Career
+      url: /mgmt/sem/swe-career
+  - title: "People"
     url: /mgmt/people
     children: 
     - title: "Leadership"
@@ -39,7 +41,7 @@ mgmt:
       url: /mgmt/people/performance
     - title: "One-on-ones"
       url: /mgmt/people/one-on-ones
-  - title: "Team Management"
+  - title: "Team"
     url: /mgmt/team
 
 swe:
