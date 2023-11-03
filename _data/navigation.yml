@@ -20,7 +20,7 @@ mgmt:
   - title: "Management"
     url: /mgmt
   - title: "Software Engineering"
-    url: /mgmt/swe
+    url: /mgmt/sem
     children:
     - title: SEM Role
       url: /mgmt/sem/sem-role
