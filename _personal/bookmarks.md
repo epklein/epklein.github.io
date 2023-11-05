@@ -14,10 +14,10 @@ author_profile: true
 
 ## SWE Management
 
+- [Gergely Orosz' reading list](https://blog.pragmaticengineer.com/my-reading-list/): Recommended reading from [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/about) newsletter author, [Gergely Orosz](https://blog.pragmaticengineer.com/about/)
 - [Addy Osmani's recommended reads](https://www.goodreads.com/review/list/14088621?shelf=recommend-reads): Recommended reading from engineering leader and author [Addy Osmany](https://addyosmani.com/)
-- [Gergely Orosz](https://blog.pragmaticengineer.com/my-reading-list/): Recommended reading from [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/about) newsletter author, [Gergely Orosz](https://blog.pragmaticengineer.com/about/)
-- [ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager): A public GitHub repository with resources for Engineering Managers
-- [Resources for Engineering Managers](https://www.notonlycode.org/engineering-manager-resources/): A curated collection of books, tools, and other resources for engineering managers, by Gregory Witek
+- [ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager): A public GitHub repository with resources, compiled by [Ryan Burgess](https://www.linkedin.com/in/ryanburgess/)
+- [Resources for Engineering Managers](https://www.notonlycode.org/engineering-manager-resources/): A curated collection of books, tools, and other resources by [Gregory Witek](https://www.linkedin.com/in/gwitek/)
 
 ## Software Eng
 

@@ -5,13 +5,13 @@ tags: [SWE Career, Research]
 excerpt: The key traits of top software engineers, based on a comprehensive 2019 research study.
 ---
 
-Recently I read the article "[What Distinguishes Great Software Engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)" ([Springer link](https://doi.org/10.1007/s10664-019-09773-y)), published in 2019 by Paul Luo Li, Amy J. Ko, and Andrew Begel, which **synthesizes their findings of the key characteristics that distinguishes great software engineers**.
+Recently I read the article "[What Distinguishes Great Software Engineers?](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf)" ([Springer link](https://doi.org/10.1007/s10664-019-09773-y)), published in 2019 by Paul Luo Li, Amy J. Ko, and Andrew Begel, which **synthesizes their findings of the key characteristics that distinguish great software engineers**.
 
 Their research covered 54 attributes of a [previous study](https://digital.lib.washington.edu/researchworks/handle/1773/37160) and concluded that:
 
 > the top five distinguishing characteristics of great engineers are writing good code, adjusting behaviors to account for future value and costs, practicing informed decision-making, avoiding making others’ jobs harder, and learning continuously.
 
-For a **software engineering manager**, I think that is also **a great reference of what skills to help teams develop**.
+For a [software engineering manager](/mgmt/sem/sem-role), I think that is also **a great reference of what skills to help teams develop**.
 
 Let's jump to the must-have characteristics identified by their research, which surveyed 1926 expert engineers:
 

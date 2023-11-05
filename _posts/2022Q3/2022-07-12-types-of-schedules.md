@@ -7,7 +7,7 @@ There is this great article, "[Maker's schedule, manager's schedule](http://www.
 
 Managers typically schedule their activities in hourly blocks to make their schedules more efficient, whereas individual contributors are more productive in their tasks by using bigger blocks of focus time, such as half a day or a whole day.
 
-As a software engineering manager, I think it is important to take both into account, from different perspectives.
+As a [software engineering manager](/mgmt/sem/sem-role), I think it is important to take both into account, from different perspectives.
 
 Firstly, I have my schedule organized into blocks of an hour or even less, so that I can handle leadership sync meetings, one-on-one meetings, team rituals, demos, etc. That's typically a manager's schedule. But I also need to block out bigger chunks of time, to get more complex activities done. I usually allocate two or three chunks of time (at least 2-hours long) in my schedule to focus on such activities. By the way, I also like the concept of batching, as [explained by Tim Ferriss](https://www.youtube.com/watch?v=ghVdzAeX0bg).
 

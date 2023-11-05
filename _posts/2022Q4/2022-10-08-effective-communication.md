@@ -26,7 +26,7 @@ According to {% include people/james-stanier.md %}, from *[Become an effective s
 
 > Remember that as a manager, your word has weight as it doesn't only come from you: it comes from an established position in the company's org chart. As a manager you represent yourself, your team, and your company as a whole. Be a role model for those around you.
 
-In my experience as a software engineering manager, I see that, by communicating effectively, you shape your team's behavior, impact their morale, and directly support them in developing their careers. And it is true the other way around; managers will struggle with poor communication.
+In my experience as a [software engineering manager](/mgmt/sem/sem-role), I see that, by communicating effectively, you shape your team's behavior, impact their morale, and directly support them in developing their careers. And it is true the other way around; managers will struggle with poor communication.
 
 ## Communication at VTEX
 

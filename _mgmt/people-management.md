@@ -7,7 +7,7 @@ toc_sticky: true
 
 The goal of people management is to achieve results through others. To accomplish this we must lead and develop people. While it may sound simple, it requires a broad skill set that includes effective communication, leadership, and influence.
 
-Throughout my career I've seen in practice or studied various approaches and styles for managing people and teams. Some I believe are helpful for managers, while others I don't. On this page I share what I've learned along the way that has worked for me in my context as a software engineering manager.
+Throughout my career I've seen in practice or studied various approaches and styles for managing people and teams. Some I believe are helpful for managers, while others I don't. On this page I share what I've learned along the way that has worked for me in my context as a [software engineering manager](/mgmt/sem/sem-role).
 
 The resources available on this page are informally classified as I gather and organize information. I strive to cover the most important topics in detail on specific pages and share my experiences about people management in the [blog](/blog).
 

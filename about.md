@@ -6,7 +6,7 @@ toc_sticky: true
 author_profile: true
 ---
 
-My name is **Eduardo Klein**, and I am a Brazilian **software engineering manager** and a proud **husband and father of two**. I live with my family in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), Brazil.
+My name is **Eduardo Klein**, and I am a Brazilian **[software engineering manager](/mgmt/sem/sem-role)** and a proud **husband and father of two**. I live with my family in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), Brazil.
 
 I am an **experienced leader in developing and empowering new leaders while effectively managing multiple teams**, including distributed ones, within collaborative environments, and consistently **delivering results by leveraging Lean, Agile, and DevOps practices**.
 

@@ -10,7 +10,7 @@ permalink: /book/an-elegant-puzzle
 
 ## Summary
 
-An excellent book for software engineering leaders, one full of actionable strategies and clear examples, which significantly helps me in my work as a software engineering manager.
+An excellent book for software engineering leaders, one full of actionable strategies and clear examples, which significantly helps me in my work as a [software engineering manager](/mgmt/sem/sem-role).
 
 The book is organized into the following chapters:
 

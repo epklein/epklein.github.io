@@ -18,4 +18,4 @@ On this page, I share resources about Software Engineering Management, which I s
 
 ## Learning
 
-{% include learning/swe-mgmt.md %}
+{% include learning/sem-mgmt.md %}

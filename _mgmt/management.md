@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-This page is a collection of resources about **management**. I don't cover everything about such a broad discipline; I would certainly fail to attempt to do so. Instead, I focus on relevant topics from my experience as a software engineering manager.
+This page is a collection of resources about **management**. I don't cover everything about such a broad discipline; I would certainly fail to attempt to do so. Instead, I focus on relevant topics from my experience as a [software engineering manager](/mgmt/sem/sem-role).
 
 **Consider this my management playbook**; my current, best understanding of how to manage **people**, **processes**, and **software development** within tech companies.
 
