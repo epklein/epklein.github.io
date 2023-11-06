@@ -2,7 +2,7 @@
 title: Preparation for an Entry-Level Software Engineering Role
 categories: [Mentoring]
 tags: [SWE Career]
-excerpt: Advice for a young graduate preparing for entry-level roles at tech companies
+excerpt: Advice for a young graduate preparing for entry-level roles at tech companies.
 ---
 
 This month I embarked on a new journey as a mentor at [The Mentoring Club](https://www.mentoring-club.com/) and [ADPList](https://adplist.org), online platforms that connect experienced professionals with individuals seeking [mentorship](/personal-dev/mentoring). Both platforms are based on the idea of giving back to the community and helping professionals navigate the challenges they face in their careers.
