@@ -1,0 +1,1 @@
+[Gergely Orosz](https://blog.pragmaticengineer.com) (Author of [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) and Advisor)
