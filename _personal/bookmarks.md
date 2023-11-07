@@ -8,6 +8,8 @@ author_profile: true
 
 {% include disclaimer-not-visible-content.md %}
 
+<!-- ## Leadership -->
+
 ## Management
 
 - [Lara Hogan website](https://larahogan.me/): A website full of management and leadership resources I want to explore better
@@ -19,9 +21,12 @@ author_profile: true
 - [ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager): A public GitHub repository with resources, compiled by [Ryan Burgess](https://www.linkedin.com/in/ryanburgess/)
 - [Resources for Engineering Managers](https://www.notonlycode.org/engineering-manager-resources/): A curated collection of books, tools, and other resources by [Gregory Witek](https://www.linkedin.com/in/gwitek/)
 
-## Software Eng
+<!-- ## Software Eng -->
 
 ## Personal Dev
+
+### Communication
+- [A Guide to Public Speaking for Software Engineers](https://careercutler.substack.com/p/a-guide-to-public-speaking-for-software)
 
 ### Ted Talks
 
