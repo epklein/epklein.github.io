@@ -5,6 +5,10 @@
 - {% include books/how-to-win-friends-and-influence-people.md %}
 - {% include books/radical-candor.md %}
 
+### Articles & Blog posts
+
+- [The Minto Pyramid](https://untools.co/minto-pyramid): The Minto Pyramid Principle is a communication technique that structures information in a pyramid format, beginning with the most important overarching ideas (the conclusion) and subsequently breaking them down into supporting arguments and details.
+
 <!-- Listening -->
 
 <!-- Watching -->
