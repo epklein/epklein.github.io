@@ -3,7 +3,7 @@ title: 'Template: Individual Development Plan'
 permalink: /personal-dev/template-individual-development-plan
 ---
 
-*A template of how to document an Individual Development Plan (IDP), as described in [this blog post](/career-development-step-by-step)*.
+*A template of how to document an Individual Development Plan (IDP), as described in [this blog post](/career-development-approach)*.
 *You can download a spreadsheet of this template [here](/files/IDP-template.xlsx) or copy the following structure into a document*.
 
 # Individual Development Plan
