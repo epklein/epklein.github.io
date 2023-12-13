@@ -33,7 +33,7 @@ There are tons of references online on how to develop yourself as a software eng
 - [StaffEng](https://staffeng.com/): A collection of [stories](https://staffeng.com/stories) from folks who reached a Staff-plus engineering role, and [guides](https://staffeng.com/guides/) for reaching and succeeding at such roles
 - [What makes an effective software engineer?](https://leaddev.com/personal-development/what-makes-effective-software-engineer) by [Addy Osmani](https://addyosmani.com), published at [LeadDev](https://leaddev.com)
 - [The product-minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer), by {% include people/gergely-orosz.md %}
-- [Becoming a go-to person gets you promoted. Here's how to do it as a software engineer.](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you) by [Jordan Cutler](https://careercutler.substack.com/)
+- [Becoming a go-to person gets you promoted](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you) by [Jordan Cutler](https://careercutler.substack.com/)
 
 ## Related Posts
 
