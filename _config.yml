@@ -106,10 +106,6 @@ analytics:
     tracking_id          : "G-MWDW3CZ449"
     anonymize_ip         : false
 
-# Mailchimp
-head_scripts:
-  - /assets/js/mailchimp.js
-
 # Site Author
 author:
   name             : "Eduardo Klein"
