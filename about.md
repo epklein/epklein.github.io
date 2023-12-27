@@ -10,6 +10,8 @@ My name is **Eduardo Klein**, and I am a Brazilian **[software engineering manag
 
 I am an **experienced leader in developing and empowering new leaders while effectively managing multiple teams**, including distributed ones, within collaborative environments, and consistently **delivering results by leveraging Lean, Agile, and DevOps practices**.
 
+<p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://us13.list-manage.com/contact-form?u=ebb7cc2c07def0788b46dbb03&form_id=4bb26633174b45534110899b2097f27f" target="_blank">Send a Message</a></p>
+
 I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Channel Management* team, which falls under the *Merchant Journey*. My team is responsible for developing and maintaining solutions that enable VTEX merchants to sell through external marketplaces. The team is distributed across many states in Brazil and South America, and I'm working remotely from my hometown.
 
 I also have previous experience in software development within the financial market at [Nelogica](/about/nelogica) and mobile device management at [Mobiltec](/about/mobiltec).
