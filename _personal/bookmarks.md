@@ -13,15 +13,20 @@ author_profile: true
 ## Management
 
 - [Lara Hogan website](https://larahogan.me/): A website full of management and leadership resources I want to explore better
+- [The Remote Playbook](https://learn.gitlab.com/allremote/remote-playbook): GitLab's playbook on remote work
 
 ## SWE Management
 
 - [Gergely Orosz' reading list](https://blog.pragmaticengineer.com/my-reading-list/): Recommended reading from {% include people/gergely-orosz.md %}
 - [Addy Osmani's recommended reads](https://www.goodreads.com/review/list/14088621?shelf=recommend-reads): Recommended reading from engineering leader and author [Addy Osmany](https://addyosmani.com/)
-- [ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager): A public GitHub repository with resources, compiled by [Ryan Burgess](https://www.linkedin.com/in/ryanburgess/)
+- [ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager): A public GitHub repository with resources compiled by [Ryan Burgess](https://www.linkedin.com/in/ryanburgess/)
 - [Resources for Engineering Managers](https://www.notonlycode.org/engineering-manager-resources/): A curated collection of books, tools, and other resources by [Gregory Witek](https://www.linkedin.com/in/gwitek/)
 
-<!-- ## Software Eng -->
+## Software Eng
+
+### Modeling
+
+- [Excalidraw](https://excalidraw.com/): A simple and powerful tool to create diagrams and sketches
 
 ## Personal Dev
 
