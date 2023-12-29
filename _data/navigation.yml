@@ -24,8 +24,6 @@ mgmt:
     children:
     - title: SEM Role
       url: /mgmt/sem/sem-role
-    - title: SWE Career
-      url: /mgmt/sem/swe-career
   - title: "People"
     url: /mgmt/people
     children: 
@@ -47,6 +45,8 @@ mgmt:
 swe:
   - title: "Software Engineering"
     url: /swe
+  - title: "Career Development"
+    url: /swe/career-dev
   - title: "SDLC"
     url: /swe/sdlc
     children:

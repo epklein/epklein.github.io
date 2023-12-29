@@ -5,7 +5,6 @@ toc: true
 toc_label: "One-on-one Meetings"
 toc_sticky: true
 # an old blog post that was expanded on this page
-redirect_from: /one-on-one-meetings
 redirect_from: /one-on-one-meetings/
 ---
 
