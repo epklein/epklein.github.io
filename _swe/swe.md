@@ -11,6 +11,7 @@ It is a systematic, disciplined approach to applying engineering principles to t
 
 ## Resources
 
+- [Career Development](/swe/career-dev): Resources for software engineers to manage their careers to achieve personal and professional goals.
 - [Software Development Lifecycle (SDLC)](/swe/sdlc): A systematic process that guides teams and organizations in delivering high-quality software.
 - [DevOps](/swe/devops): A combination of culture, practices, and tools that integrates and automates software development and operational processes so that companies can plan, develop, deliver, and operate faster and reliably.
 - [Cloud Computing](/swe/cloud-comuting): The on-demand availability of computer resources online, through the internet, without the need of management of physical infrastructure by the consumer.
