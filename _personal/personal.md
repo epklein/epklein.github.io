@@ -40,7 +40,7 @@ The tools I use to write, monitor, and promote this blog:
 
 ## Toastmasters
 
-As a Toastmaster, I use the following links to participate in meetings and learning resources.
+As a Toastmaster, I use the following links to participate in meetings and access learning resources.
 
 - [Toastmasters International](https://www.toastmasters.org/): The nonprofit educational organization that builds confidence and teaches public speaking skills through a worldwide network of clubs that meet online and in person.
 - [Nós Toastmasters Club](https://toastmastersbrasil.org/regiao/regiao-sul/nos-toastmasters/): I'm a member of this club.
