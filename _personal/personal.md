@@ -23,7 +23,7 @@ The tools I use to mentor people on online platforms
 
 ## Blogging
 
-The tools I use to write, monitor and promote this blog:
+The tools I use to write, monitor, and promote this blog:
 
 - [Google Analytics](https://analytics.google.com): Web analytics tool for site traffic and user behavior
 - [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters): Tools for monitoring and maintaining a website's presence in Google and Microsoft Bing
@@ -37,3 +37,11 @@ The tools I use to write, monitor and promote this blog:
 - [Info Money](https://www.infomoney.com.br/): A Brazilian website that focuses on financial news, stock market data, and other economic information.
 - [Indicators by Debit](https://debit.com.br/tabelas/indicadores-economicos.php): Offers tables with important indicators from the Brazilian economy. You can also project those indicators along time.
 - [Oceans14](https://www.oceans14.com.br): A platform for investors who seek for information about the Brazilian stock market. Some useful reports I like is the [Bovespa historical P/E](https://www.oceans14.com.br/acoes/historico-pl-bovespa) and [investor's participation](https://www.oceans14.com.br/acoes/participacao-investidores-b3).
+
+## Toastmasters
+
+As a Toastmaster, I use the following links to participate in meetings and learning resources.
+
+- [Toastmasters International](https://www.toastmasters.org/): The nonprofit educational organization that builds confidence and teaches public speaking skills through a worldwide network of clubs that meet online and in person.
+- [Nós Toastmasters Club](https://toastmastersbrasil.org/regiao/regiao-sul/nos-toastmasters/): I'm a member of this club.
+- [Easy Speak](https://easy-speak.org/): Many clubs and districts, including Nós Toastmasters, use this platform to manage and coordinate meetings and other activities.
