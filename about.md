@@ -12,7 +12,7 @@ I am an **experienced leader in developing and empowering new leaders while effe
 
 <p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://us13.list-manage.com/contact-form?u=ebb7cc2c07def0788b46dbb03&form_id=4bb26633174b45534110899b2097f27f" target="_blank">Send a Message</a></p>
 
-I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Channel Management* team, which falls under the *Merchant Journey*. My team is responsible for developing and maintaining solutions that enable VTEX merchants to sell through external marketplaces. The team is distributed across many states in Brazil and South America, and I'm working remotely from my hometown.
+I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Marketplaces* business vertical, which falls under the *Merchant organization* and has the mission to maximize our clients' presence across marketplaces. My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their entire marketplace experience. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
 
 I also have previous experience in software development within the financial market at [Nelogica](/about/nelogica) and mobile device management at [Mobiltec](/about/mobiltec).
 
@@ -48,7 +48,7 @@ My mentoring topics include:
 
 **Engineering Manager at VTEX** <nobr>(from May 2021 to date)</nobr>
 
-{% include about/experience-vtex-em-to-date.md %}
+{% include about/experience-vtex-sr-em-to-date.md %}
 
 *[Expanded version](/about/vtex)*
 
