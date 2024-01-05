@@ -8,11 +8,17 @@ author_profile: true
 
 My name is **Eduardo Klein**, and I am a Brazilian **[software engineering manager](/mgmt/sem/sem-role)** and a proud **husband and father of two**. I live with my family in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), Brazil.
 
-I am an **experienced leader in developing and empowering new leaders while effectively managing multiple teams**, including distributed ones, within collaborative environments, and consistently **delivering results by leveraging Lean, Agile, and DevOps practices**.
+I am a **software engineering leader** with over 20 years of experience in the technology industry.
+
+In my career, I have held various engineering management positions, where I managed multiple teams, including distributed ones. **I focus on developing and empowering software engineers and emerging leaders**.
+
+I am committed to fostering **collaborative environments and learning-oriented organizations**. My approach involves guiding teams to consistently **deliver results by leveraging Lean, Agile, and DevOps practices**.
 
 <p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://us13.list-manage.com/contact-form?u=ebb7cc2c07def0788b46dbb03&form_id=4bb26633174b45534110899b2097f27f" target="_blank">Send a Message</a></p>
 
-I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Marketplaces* business vertical, which falls under the *Merchant organization* and has the mission to maximize our clients' presence across marketplaces. My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their entire marketplace experience. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
+I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Marketplace* business vertical, which falls under the *Merchant organization* and has the mission to maximize our clients' presence across marketplaces.
+
+My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their entire marketplace experience. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
 
 I also have previous experience in software development within the financial market at [Nelogica](/about/nelogica) and mobile device management at [Mobiltec](/about/mobiltec).
 
@@ -22,13 +28,15 @@ I also have previous experience in software development within the financial mar
 
 My mentoring topics include:
 
-- Leadership & Management
+- Leadership and Management
 - Software Engineering Management
-- Agile & Lean processes
+- Agile and Lean processes
 - Team and Project Management
 - Career Advice
 
-<p>Reach me out if you want any support!</p>
+Reach me out if you want any support!
+
+<p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://www.mentoring-club.com/the-mentors/eduardo-klein" target="_blank">The Mentoring Club</a></p>
 
 ## Strengths
 
