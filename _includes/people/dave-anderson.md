@@ -1,0 +1,1 @@
+[Dave Anderson](https://www.linkedin.com/in/scarletink/) (former Amazon GM and Tech Director and author of [Scarlet Ink](https://www.scarletink.com/)).

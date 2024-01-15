@@ -5,11 +5,16 @@
 - {% include books/an-elegant-puzzle.md %}
 - {% include books/accelerate.md %}
 
+<!-- ### Websites -->
+<!-- ### Blog Posts and Articles -->
+
 ### Blogs & Newsletters
 
 - {% include blogs/the-pragmatic-engineer.md %}
 - {% include blogs/the-engineering-manager.md %}
 - {% include blogs/addy-osmani.md %}
+
+<!-- ### People to Follow -->
 
 <!-- Listening -->
 
