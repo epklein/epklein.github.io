@@ -1,5 +1,5 @@
 ---
-title: Reasons people get laid off
+title: Reasons People Get Laid Off
 categories: [Tech Industry]
 tags: [Layoffs]
 excerpt: "A summary of the HBR.org article 5 Reasons People Get Laid Off, by Marlo Lyons."
