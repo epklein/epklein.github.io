@@ -10,16 +10,21 @@ I read the book long ago, but I still see it as a great reference for leaders an
 
 The process goes through 7 habits, from attaining independence to interdependence and then to continuous improvement, as follows:
 
-1. **Independence** (private victory)
-   - Habit 1: Be proactive
-   - Habit 2: Begin with the end in mind
-   - Habit 3: Put first things first
-2. **Interdependence** (public victory)
-   - Habit 4: Think win-win
-   - Habit 5: Seek first to understand, then to be understood
-   - Habit 6: Synergize
-3. **Renewal**
-   - Habit 7: Sharpen the saw
+## 1. Independence (private victory)
+
+- Habit 1: **Be proactive**: Focus on what you can control and take responsibility for your actions rather than blaming others or the situation.
+- Habit 2: **Begin with the end in mind**: Define clear visions and values for your personal and professional life to guide your actions; visualize the outcomes you desire and shape your actions to achieve them.
+- Habit 3: **Put first things first**: Invest time in initiatives aligned to your values and goals; prioritize tasks based on importance, not urgency.
+
+## 2. Interdependence (public victory)
+
+- Habit 4: **Think win-win**: Adopt a mindset that seeks mutual benefit in all human interactions, aiming for beneficial solutions for all involved.
+- Habit 5: **Seek first to understand, then to be understood**: Listen empathetically to others before expressing your own views to create open and trusting communications.
+- Habit 6: **Synergize**: Value and leverage the strengths of others through effective teamwork, producing better results than individuals working alone.
+
+## 3. Renewal
+
+- Habit 7: **Sharpen the saw**: Regularly renew and strengthen yourself physically, mentally, emotionally, and spiritually to maintain and enhance your effectiveness.
 
 ## In the blog
 
