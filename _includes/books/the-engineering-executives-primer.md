@@ -1,0 +1,1 @@
+*[The Engineering Executive's Primer: Impactful Technical Leadership](https://www.goodreads.com/book/show/199699997-the-engineering-executive-s-primer)*, by {% include people/will-larson.md %}.
