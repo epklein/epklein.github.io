@@ -12,9 +12,9 @@ I have separate reading lists for the main topics I write about in the [blog](/)
 ## Currently Reading
 
 - *[Numbers Don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
-- *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
 - *[Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)* by Martin Kleppmann
 - *[1984](https://www.goodreads.com/book/show/61439040-1984)* by George Orwell
+- [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) by Donella H. Meadows
 
 *You can also find my updated list on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=currently-reading)*.
 
