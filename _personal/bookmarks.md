@@ -15,6 +15,10 @@ author_profile: true
 - [Lara Hogan website](https://larahogan.me/): A website full of management and leadership resources I want to explore better
 - [The Remote Playbook](https://learn.gitlab.com/allremote/remote-playbook): GitLab's playbook on remote work
 
+### Systems Thinking
+
+- [Insight Maker](https://insightmaker.com/): A free, web-based platform that allows users to model systems directly in their browser.
+
 ## SWE Management
 
 - [Gergely Orosz' reading list](https://blog.pragmaticengineer.com/my-reading-list/): Recommended reading from {% include people/gergely-orosz.md %}
