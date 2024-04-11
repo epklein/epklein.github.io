@@ -32,6 +32,10 @@ author_profile: true
 
 - [Excalidraw](https://excalidraw.com/): A simple and powerful tool to create diagrams and sketches
 
+## Training
+
+- [GraphQL by Washington Developer](https://www.youtube.com/playlist?list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j): A Youtube course on GraphQL (in Portuguese). I saved this course recommendation but didn't watch it yet.
+
 ## Personal Dev
 
 ### Communication
