@@ -37,7 +37,8 @@ The tools I use to write, monitor, and promote this blog:
 - [Info Money](https://www.infomoney.com.br/): A Brazilian website that focuses on financial news, stock market data, and other economic information.
 - [Indicators by Debit](https://debit.com.br/tabelas/indicadores-economicos.php): Offers tables with important indicators from the Brazilian economy. You can also project those indicators over time.
 - [Oceans14](https://www.oceans14.com.br): A platform for investors seeking information about the Brazilian stock market. Some useful reports I like are the [Bovespa historical P/E](https://www.oceans14.com.br/acoes/historico-pl-bovespa) and [investor's participation](https://www.oceans14.com.br/acoes/participacao-investidores-b3).
-- [S&P 500 Historical P/E](https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart): A chart that shows the historical P/E ratio for the S&P 500.
+- [Macrotrends](https://www.macrotrends.net/): A research platform for long term investors that offers financial and economical historical data.
+- [Multpl](https://www.multpl.com/): Financial and economical data from the US, including the [S&P 500 PE ratio](https://www.multpl.com/s-p-500-pe-ratio) and [S&P 500 Dividend Yield](https://www.multpl.com/s-p-500-dividend-yield).
 - [CompaniesMarketCap.com](https://companiesmarketcap.com/): A website that ranks and provides financial information on companies based on their market capitalization.
 
 ## Toastmasters
