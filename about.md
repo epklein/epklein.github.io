@@ -16,7 +16,7 @@ I am committed to fostering **collaborative environments and learning-oriented o
 
 <p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://us13.list-manage.com/contact-form?u=ebb7cc2c07def0788b46dbb03&form_id=4bb26633174b45534110899b2097f27f" target="_blank">Send a Message</a></p>
 
-I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Marketplace* business vertical, which falls under the *Merchant organization* and has the mission to maximize our clients' presence across marketplaces.
+I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Marketplace* product vertical, which falls under the *Merchant organization* and has the mission to maximize our clients' presence across marketplaces.
 
 My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their entire marketplace experience. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
 
