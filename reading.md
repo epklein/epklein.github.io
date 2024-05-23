@@ -13,8 +13,8 @@ I have separate reading lists for the main topics I write about in the [blog](/)
 
 - *[Numbers Don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
 - *[Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)* by Martin Kleppmann
-- *[1984](https://www.goodreads.com/book/show/61439040-1984)* by George Orwell
-- [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) by Donella H. Meadows
+- *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* by Donella H. Meadows
+- *[The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)* by Benjamin Graham
 
 *You can also find my updated list on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=currently-reading)*.
 
