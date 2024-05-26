@@ -7,7 +7,7 @@ toc_sticky: true
 
 *The ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively.*
 
-In [managing software engineering teams](/mgmt/swe), I favor a delegation approach focused on the desired results rather than on the specific methods and steps required to achieve them. It takes more time and energy to see results, but develops people abilities and scales in the long run.
+In [managing software engineering teams](/mgmt/sem), I favor a delegation approach focused on the desired results rather than on the specific methods and steps required to achieve them. It takes more time and energy to see results, but develops people abilities and scales in the long run.
 
 A key concept I consider crucial is understanding that **delegating is not a binary process**; it's not simply something you do or don't do. Delegation is not the same as abdication. Instead, it **it is multifaceted process that you can navigate in many levels**. Successfully steering through these levels can be transformative. It allows you to allocate more time to meaningful work without loosing control. Furthermore, it fosters expertise and autonomy in others, setting the stage to improve team performance and greater organizational impact.
 

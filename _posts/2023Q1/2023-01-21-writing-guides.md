@@ -1,7 +1,7 @@
 ---
 title: Writing Guides to Support Your Teams
 categories: [Team Management]
-tags: [Communication, Influence]
+tags: [Communication, SWE Strategy]
 excerpt: An effective asynchronous communication approach to support your teams in handling specific challenges.
 ---
 
@@ -32,8 +32,8 @@ You may write as many as you want. For a development squad, in my perspective, s
 
 According to the author, a good *strategy* consists of:
 
-1. *Diagnosis*: It is the theory describing the challenge at hand - its factors and constraints - and a problem statement;
-2. *Policies*: Those are the policies that we will apply to address the challenge. It describes the general approach that we take to tackle the problem;
-3. *Actions*: Those are the specific steps that we implement to address the challenge.
+1. *Diagnosis*: The theory describing the challenge at hand, including its factors and constraints, alongwith a problem statement;
+2. *Guiding Policies*: These are the policies that will be applied to address the challenge. They describe the general approach taken to tackle the problem;
+3. *Actions*: These are the specific steps implemented to address the challenge.
 
 This process is quite similar to how a doctor treats a patient. First, he names the disease or pathology (diagnosis of the problem); Second, he considers the therapeutic approach for it (guiding policy); Finally, he prescribes therapy or medication (actions to be taken).

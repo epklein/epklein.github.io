@@ -14,7 +14,7 @@ This page is a collection of resources about **management**. I don't cover every
 I've grouped management activities into the following components:
 
 <!-- Systems health / Technical Vision -->
-- [SWE Management](/mgmt/swe): The management practices focused on the development and maintenance of software.
+- [SWE Management](/mgmt/sem): The management practices focused on the development and maintenance of software.
 <!-- People Development / Stakeholder Management -->
 - [People Management](/mgmt/people): The goal of managing people is to achieve results through others. To do this, we must develop people, delegate tasks, communicate effectively, etc.
 <!-- Team growth / Team Productivity / Business Impact -->

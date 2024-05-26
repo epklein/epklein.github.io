@@ -2,7 +2,7 @@
 title: Progressive Deployments
 categories: [Software Engineering, SWE Management]
 tags: [Deployment, Delivery]
-excerpt: "Strategies to execute successful progressive deployments"
+excerpt: "Strategies to execute successful progressive deployments."
 ---
 
 Rolling out a product or improvement involves deploying and launching new features or updates to an existing user base. This is an integral part of operating any digital platform.

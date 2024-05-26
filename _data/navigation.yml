@@ -24,6 +24,8 @@ mgmt:
     children:
     - title: SEM Role
       url: /mgmt/sem/sem-role
+    - title: SWE Strategy
+      url: /mgmt/sem/swe-strategy
   - title: "People"
     url: /mgmt/people
     children: 

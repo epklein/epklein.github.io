@@ -7,7 +7,7 @@ excerpt: "A delegation approach focused on results that establishes up-front mut
 
 [Delegation](/mgmt/people/delegation) is the ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively. There are many techniques for delegating properly; the best approach may depend on the context.
 
-In [managing software engineering teams](/mgmt/swe), I prefer a delegation approach focused on results instead of methods. This takes more time and energy to see results but develops people's abilities and scales in the long run.
+In [managing software engineering teams](/mgmt/sem), I prefer a delegation approach focused on results instead of methods. This takes more time and energy to see results but develops people's abilities and scales in the long run.
 
 A straightforward approach focused on results is the **stewardship delegation**, shared by Stephen Covey in his best-seller book *[The 7 Habits of Highly Effective People](/book/the-7-habits-of-highly-effective-people)*.
 

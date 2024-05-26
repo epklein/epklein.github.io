@@ -274,7 +274,8 @@ collections:
     order:
       - management.md
       - sem-management.md
-      - sem/swe-role.md
+      - sem/sem-role.md
+      - sem/swe-strategy.md
       - people-management.md
       - people/communication.md
       - people/delegation.md
