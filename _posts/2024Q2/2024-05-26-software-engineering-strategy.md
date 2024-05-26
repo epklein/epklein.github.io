@@ -1,5 +1,5 @@
 ---
-title: Software Engineering Strategy
+title: Developing Software Engineering Strategies
 categories: [SWE Management]
 tags: [Communication, SWE Strategy]
 excerpt: "A high-level plan or approach designed to achieve specific objectives in software engineering teams and projects."
