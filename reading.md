@@ -15,6 +15,7 @@ I have separate reading lists for the main topics I write about in the [blog](/)
 - *[Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)* by Martin Kleppmann
 - *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* by Donella H. Meadows
 - *[The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)* by Benjamin Graham
+- {% include books/the-engineering-executives-primer.md %}
 
 *You can also find my updated list on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=currently-reading)*.
 
@@ -24,7 +25,6 @@ Books that are next on my reading list:
 
 - {% include books/become-an-effective-swe-manager.md %}
 - {% include books/effective-remote-work.md %}
-- {% include books/the-engineering-executives-primer.md %}
 
 ## Recommendations
 
