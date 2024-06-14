@@ -1,7 +1,6 @@
 ---
 title: Personal Planning
 permalink: /personal-dev/self-mgmt/personal-planning
-redirect_from: /mgmt/self/personal-planning
 ---
 
 I try to follow the [GTD method](https://gettingthingsdone.com/) to get myself organized, but I also use some other techniques together with it.

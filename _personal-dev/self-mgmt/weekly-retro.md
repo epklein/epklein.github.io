@@ -1,7 +1,6 @@
 ---
 title: Weekly Retrospective
 permalink: /personal-dev/self-mgmt/weekly-retro
-redirect_from: /mgmt/self/weekly-retro
 ---
 
 In the end of my friday at work, I write a brief summary of my week at work. That is about myself and my team.

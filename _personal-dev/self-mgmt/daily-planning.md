@@ -1,7 +1,6 @@
 ---
 title: Daily Planning
 permalink: /personal-dev/self-mgmt/daily-planning
-redirect_from: /mgmt/self/daily-planning
 ---
 
 Every day, I run a brief daily planning routine. I have two main purposes with it: First, to do a self-reflection for the day; second, to plan the day ahead and adapt the [week plan](/personal-dev/self-mgmt/weekly-planning). The process is broken into three steps, as follows.
