@@ -1,6 +1,7 @@
 ---
 title: 'Template: One-on-one Shared Document'
 permalink: /mgmt/people/template-one-on-one-shared-document
+classes: wide
 ---
 
 *A template of how I take notes during [one-on-ones](/mgmt/people/one-on-ones), as described in [this blog post](/taking-notes-of-one-on-ones)*.

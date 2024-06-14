@@ -1,6 +1,6 @@
 ---
 title: People Routines
-permalink: /mgmt/people-routines
+permalink: /mgmt/people/people-routines
 published: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 'Template: One-on-one Private Notes'
 permalink: /mgmt/people/template-one-on-one-private-notes
+classes: wide
 ---
 
 *A template of how I take personal notes about a direct report, as described in [this blog post](/taking-notes-of-one-on-ones)*.

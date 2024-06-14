@@ -269,21 +269,6 @@ compress_html:
 # Collections
 collections:
   
-  mgmt:
-    output: true
-    order:
-      - management.md
-      - sem-management.md
-      - sem/sem-role.md
-      - sem/swe-strategy.md
-      - people-management.md
-      - people/communication.md
-      - people/delegation.md
-      - people/persuasion.md
-      - people/performance-management.md
-      - people/one-on-ones.md
-      - team-management.md
-
   swe:
     output: true
     order:
@@ -337,10 +322,9 @@ defaults:
       layout: single
       author_profile: false
 
-  # _mgmt
+  # mgmt
   - scope:
-      path: ""
-      type: mgmt
+      path: "mgmt"
     values:
       layout: single
       author_profile: false

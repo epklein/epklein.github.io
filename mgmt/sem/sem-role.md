@@ -1,8 +1,6 @@
 ---
 title: The Software Engineering Manager Role
 permalink: /mgmt/sem/sem-role
-toc: false
-toc_sticky: true
 ---
 
 A Software Engineering Manager (SEM) is a multifaceted role, blending the technical expertise of a seasoned software engineer with the leadership and strategic skills of a manager.

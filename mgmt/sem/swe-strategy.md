@@ -1,7 +1,7 @@
 ---
 title: Software Engineering Strategy
 permalink: /mgmt/sem/swe-strategy
-toc: false
+toc: true
 toc_sticky: true
 ---
 
