@@ -269,19 +269,6 @@ compress_html:
 # Collections
 collections:
   
-  swe:
-    output: true
-    order:
-      - swe.md
-      - swe-career-dev.md
-      - swe-sdlc.md
-      - sdlc/design.md
-      - sdlc/deployment.md
-      - swe-devops.md
-      - devops/continuous-delivery.md
-      - swe-cloud-computing.md
-      - coding/code-kata.md
-
   books:
     output: true
 
@@ -318,10 +305,9 @@ defaults:
       sidebar:
         nav: "mgmt"
 
-  # _swe
+  # swe
   - scope:
-      path: ""
-      type: swe
+      path: "swe"
     values:
       layout: single
       author_profile: false
