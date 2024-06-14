@@ -3,6 +3,7 @@ title: Reading
 permalink: /reading
 toc: true
 toc_sticky: true
+author_profile: true
 ---
 
 I share my current reading list and book recommendations on this page. I also put together the top blogs and newsletters I like to follow to stay up to date.

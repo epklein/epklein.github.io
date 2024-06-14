@@ -1,6 +1,8 @@
 ---
 title: Books I've read
 permalink: /books-read
+author_profile: true
+classes: wide
 ---
 
 This is a chronological list of books I've read. For a collection of my currently reading list and reading recommendations, check [this page](/reading).
