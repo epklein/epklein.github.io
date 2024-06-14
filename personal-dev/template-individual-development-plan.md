@@ -1,6 +1,7 @@
 ---
 title: 'Template: Individual Development Plan'
 permalink: /personal-dev/template-individual-development-plan
+classes: wide
 ---
 
 *A template of how to document an Individual Development Plan (IDP), as described in [this blog post](/career-development-approach)*.
@@ -38,8 +39,8 @@ permalink: /personal-dev/template-individual-development-plan
 | Action Plan | Timeline | Measure of Success | Resources |
 | --- | --- | --- | --- |
 | 1. Advance in Toastmasters' pathways | EOF H1 | At least one monthly speech at the club | |
-| 2. Improve my writing strategy | EOF Q1 | Read *On Writing Well* | Book copy |
-|  | EOF H1 | Apply its principles on my texts | |
+| 2. Improve my writing strategy | EOF Q1 | Read *On Writing Well* | A copy of the book |
+|  | EOF H1 | Apply its principles to my texts | |
 | 3. Keep improving in the English language | Quarterly | Two conversational classes per week | |
 
 ### Objective 2: Summary
