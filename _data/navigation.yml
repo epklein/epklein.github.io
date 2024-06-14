@@ -29,8 +29,6 @@ mgmt:
   - title: "People"
     url: /mgmt/people
     children: 
-    - title: "Leadership"
-      url: /leadership
     - title: "Communication"
       url: /mgmt/people/communication
     - title: "Delegation"
