@@ -5,7 +5,7 @@ classes: wide
 author_profile: true
 ---
 
-Mobiltec was founded in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), Brazil, in 2003. The company provides mobile device management (MDM) solutions for enterprises.
+Mobiltec was founded in 2003 in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), Brazil. The company provides mobile device management (MDM) solutions for enterprises.
 
 ![Mobiltec logo](/images/about/mobiltec.png "Mobiltec logo")
 
@@ -26,7 +26,7 @@ At Mobiltec, I had the privilege of working under the guidance of the most excep
 
 I led development teams of software products and projects, collaborating with customers and teams at all stages of the software development lifecycle, from conception to the system's operation in the production environment.
 
-During the years, I actively participated in driving all organizational transformations within the company, having a key role in adopting agile development methodologies, lean development practices, and more.
+During the years, I actively drove all organizational transformations within the company, having a key role in adopting agile development methodologies, lean development practices, and more.
 
 <!--
 Liderei as equipes de desenvolvimento de produtos e projetos de software, colaborando com clientes e equipes em todas as etapas do ciclo de desenvolvimento de software, desde a concepção até a operação do sistema no ambiente de produção.

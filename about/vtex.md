@@ -5,7 +5,7 @@ classes: wide
 author_profile: true
 ---
 
-VTEX was founded in [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), Brazil, in 2000. The company's focus is a digital commerce platform (PaaS) for enterprises. The international expansion started in 2013, first in Latam, later in North America, Europe, and then globally.
+VTEX was founded in 2000 in [Rio de Janeiro](https://en.wikipedia.org/wiki/Rio_de_Janeiro), Brazil. The company's focus is a digital commerce platform (PaaS) for enterprises. The international expansion started in 2013, first in Latam, later in North America, Europe, and then globally.
 
 When I joined VTEX, the company was structuring the IPO on the [New York Stock Exchange](https://www.nyse.com/) (NYSE). The company went public on July 21st, 2021, under the stock quote [VTEX](https://www.nyse.com/quote/XNYS:VTEX).
 

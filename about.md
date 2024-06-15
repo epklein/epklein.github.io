@@ -10,13 +10,13 @@ My name is **Eduardo Klein**, and I am a Brazilian **[software engineering manag
 
 I am a **software engineering leader** with over 20 years of experience in the technology industry.
 
-In my career, I have held various engineering management positions, where I managed multiple teams, including distributed ones. **I focus on developing and empowering software engineers and emerging leaders**.
+In my career, I have held various engineering management positions, managing multiple teams, including distributed ones. **I focus on developing and empowering software engineers and engineering managers**.
 
 I am committed to fostering **collaborative environments and learning-oriented organizations**. My approach involves guiding teams to consistently **deliver results by leveraging Lean, Agile, and DevOps practices**.
 
 <p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://us13.list-manage.com/contact-form?u=ebb7cc2c07def0788b46dbb03&form_id=4bb26633174b45534110899b2097f27f" target="_blank">Send a Message</a></p>
 
-I work for **[VTEX](/about/vtex) in the digital commerce industry**. I serve as the head of engineering for the *Marketplace* product vertical, which falls under the *Merchant organization* and has the mission to maximize our clients' presence across marketplaces.
+I work for **[VTEX](/about/vtex) in the digital commerce industry**. I am the engineering leader for the *Marketplace* product vertical, which falls under the *Commerce Organization* and aims to maximize our clients' marketplace operations.
 
 My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their entire marketplace experience. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
 
@@ -34,7 +34,7 @@ My mentoring topics include:
 - Team and Project Management
 - Career Advice
 
-Reach me out if you want any support!
+Reach out to me if you want any support!
 
 <p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://www.mentoring-club.com/the-mentors/eduardo-klein" target="_blank">The Mentoring Club</a></p>
 
