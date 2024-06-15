@@ -16,7 +16,10 @@ The choice of a particular SDLC model depends on many factors, but the main goal
 - **Development**: Consists in writing, integrating and revising code to transform the design into a functional software application.
 - **Testing**: Consists in evaluating the software against specified requirements to identify and fix defects and ensure quality.
 - **[Deployment](/swe/sdlc/deployment)**: Consists in releasing the software to a target environment, making it accessible to end users.
-## Related Posts
+
+ <!-- ## Related Posts-->
+<!--{% for post in site.tags['SDLC'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}-->
+<!--{% endfor %}-->
 
 ## Recommended Reading
 

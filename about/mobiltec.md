@@ -24,7 +24,7 @@ At Mobiltec, I had the privilege of working under the guidance of the most excep
 
 ### Software Development Manager <nobr>(from Jan 2009 to Jan 2019)</nobr>
 
-I led development teams of software products and projects, collaborating with customers and teams at all stages of the software development lifecycle, from conception to the system's operation in the production environment.
+I led development teams of software products and projects, collaborating with customers and teams at all stages of the [software development lifecycle](/swe/sdlc), from conception to the system's operation in the production environment.
 
 During the years, I actively drove all organizational transformations within the company, having a key role in adopting agile development methodologies, lean development practices, and more.
 

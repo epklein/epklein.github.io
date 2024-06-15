@@ -1,0 +1,1 @@
+[Refactoring](https://refactoring.fm) is a great newsletter written by [Luca Rossi](https://www.linkedin.com/in/lucaronin/) with great content to help [software engineering managers](/sem/sem-role) and software engineers *write great software and work well with humans*.

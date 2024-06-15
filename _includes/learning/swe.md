@@ -9,7 +9,11 @@
 - [Google Engineering Practices](https://google.github.io/eng-practices/)
 
 <!-- ### Blog Posts and Articles -->
-<!-- ### Blogs & Newsletters -->
+
+### Blogs & Newsletters
+
+- {% include blogs/refactoring.md %}
+
 <!-- ### People to Follow -->
 
 <!-- Listening -->

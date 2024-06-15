@@ -11,6 +11,7 @@
 ### Blogs & Newsletters
 
 - {% include blogs/the-pragmatic-engineer.md %}
+- {% include blogs/refactoring.md %}
 - {% include blogs/the-engineering-manager.md %}
 - {% include blogs/addy-osmani.md %}
 

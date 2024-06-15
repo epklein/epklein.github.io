@@ -40,6 +40,7 @@ Books that are next on my reading list:
 ### Blogs and Newsletters
 
 - {% include blogs/the-pragmatic-engineer.md %}
+- {% include blogs/refactoring.md %}
 - {% include blogs/scarlet-ink.md %}
 - {% include blogs/irrational-exuberance.md %}
 - {% include sites/paul-graham-essays.md %}
