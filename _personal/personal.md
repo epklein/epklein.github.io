@@ -17,9 +17,9 @@ author_profile: true
 
 The tools I use to mentor people on online platforms
 
-- [The Mentoring Club](https://www.mentoring-club.com/): A mentoring platform
-- [ADPList](https://app.adplist.org/): Another mentoring platform
-- [Mentoring Room](https://meet.google.com/ufp-jpqe-kre): My Google Meet personal mentoring room
+- [The Mentoring Club](https://www.mentoring-club.com): A free mentoring community.
+- [ADPList](https://adplist.org): Another free mentoring community.
+- [Mentoring Room](https://meet.google.com/ufp-jpqe-kre): My Google Meet personal mentoring room.
 
 ## Blogging
 
