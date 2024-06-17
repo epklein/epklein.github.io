@@ -7,9 +7,9 @@ excerpt: "A summary of the HBR.org article 5 Reasons People Get Laid Off, by Mar
 
 The beginning of 2024 has witnessed a resurgence of layoffs in the tech industry, catching many by surprise. Once again, employees are afraid and uncertain about their futures. The pressing question on everyone's mind is: Which company will make the next cut, and who will be affected?
 
-Today, I came across an insightful article on [HBR.org](https://hbr.org) titled [5 Reasons People Get Laid Off](https://hbr.org/2024/01/5-reasons-people-get-laid-off) by Marlo Lyons. This article offers valuable insights, and I highly recommend you give it a read.
+Today, I came across an insightful article on [HBR.org](https://hbr.org) titled [5 Reasons People Get Laid Off](https://hbr.org/2024/01/5-reasons-people-get-laid-off) by Marlo Lyons. This article offers valuable insights, and I highly recommend you read it.
 
-Understanding why layoffs occur can empower us to take proactive steps to safeguard our careers and mitigate some of the associated stress. With this in mind, I'd like to share and summarize some key insights from the article.
+Understanding why layoffs occur can empower us to proactively safeguard our careers and mitigate some of the associated stress. With this in mind, I'd like to share and summarize some key insights from the article.
 
 Here are a few reasons why people get laid off:
 
@@ -37,7 +37,7 @@ In most tech companies, particularly in software engineering roles, the job inhe
 > 
 > Employees must realize their manager’s perception means everything. So even if you think you’re doing a great job, if your manager doesn’t agree, you could be deemed a poor performer and be on the chopping block.
 
-I believe this one is particularly relevant for software engineering roles, as it accounts for many terminations I've observed in the tech industry's post-pandemic layoffs. It appears to be the primary criterion used by senior leadership.
+This one is particularly relevant for software engineering roles, as it accounts for many terminations I've observed in the tech industry's post-pandemic layoffs. It appears to be the primary criterion used by senior leadership.
 
 I've witnessed competent engineers who had one performance cycle rated 'below expectations' being selected for layoffs. Under normal circumstances, these individuals might have been placed on a Performance Improvement Plan (PIP) and given a chance to improve.
 
