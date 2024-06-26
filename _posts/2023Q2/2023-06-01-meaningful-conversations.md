@@ -1,8 +1,9 @@
 ---
-title: Enjoy Better Conversations
+title: Essential Tips for Meaningful Conversations
 categories: [Leadership, People Skills]
 tags: [Communication]
 excerpt: Three essential tips to improve communication and impact daily interactions.
+redirect_from: /enjoy-better-conversations
 ---
 
 Effective [communication](/leadership/communication) is a skill that is underrated yet highly impactful in our daily interactions.
