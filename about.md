@@ -1,7 +1,6 @@
 ---
-title: Sobre
+title: About Me
 permalink: /about
-lang: pt
 toc: true
 toc_sticky: true
 author_profile: true
