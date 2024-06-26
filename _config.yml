@@ -298,7 +298,7 @@ defaults:
 
   # mgmt
   - scope:
-      path: "mgmt"
+      path: "_pages/mgmt"
     values:
       layout: single
       author_profile: false
@@ -307,7 +307,7 @@ defaults:
 
   # swe
   - scope:
-      path: "swe"
+      path: "_pages/swe"
     values:
       layout: single
       author_profile: false
@@ -316,7 +316,7 @@ defaults:
 
   # personal-dev
   - scope:
-      path: "personal-dev"
+      path: "_pages/personal-dev"
     values:
       layout: single
       author_profile: false
