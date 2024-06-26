@@ -15,6 +15,18 @@ main:
     url: /archive
 
 leadership:
+  - title: "Leadership"
+    url: /leadership
+    children: 
+    - title: "Leadership Styles"
+      url: /leadership/styles
+  - title: "Communication"
+    url: /leadership/communication
+    children: 
+    - title: "Mediums of Communication"
+      url: /leadership/communication/mediums
+    - title: "Neuro-Linguistic Programming"
+      url: /leadership/communication/nlp
 
 mgmt:
   - title: "Management"
@@ -29,8 +41,6 @@ mgmt:
   - title: "People"
     url: /mgmt/people
     children: 
-    - title: "Communication"
-      url: /mgmt/people/communication
     - title: "Delegation"
       url: /mgmt/people/delegation
     - title: "Persuasion"

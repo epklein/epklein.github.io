@@ -1,7 +1,7 @@
 ---
 title: Delivering Results over Being Right
 categories: [Personal Development, People Skills]
-tags: [Communication, Influence, Effectiveness]
+tags: [Effectiveness, Influence]
 excerpt: Some thoughts on how delivering results is more important than being right.
 ---
 
@@ -31,7 +31,7 @@ I've learned along the way that we need to shift how we think about exploring an
 - As a leader inside a company, maximize results in this order: First, your company's results, then your team's results, and only after that, your own results.
 
 ### Begin always with the end in mind
-- The outcome is more important then the steps to get there. You may compromise first to achieve more outstanding results.
+- The outcome is more important than the steps to get there. You may compromise first to achieve more outstanding results.
 - Win people over to your way of thinking. Let the other person make a great deal of the talking, even feel that your idea is theirs.
 
 ### To be a great leader, you must learn how to handle other people.

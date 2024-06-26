@@ -1,7 +1,7 @@
 ---
 title: Developing Software Engineering Strategies
 categories: [SWE Management]
-tags: [Communication, SWE Strategy]
+tags: [Written Communication, SWE Strategy]
 excerpt: "A high-level plan or approach designed to achieve specific objectives in software engineering teams and projects."
 ---
 
@@ -11,7 +11,7 @@ My first introduction to this topic was through the excellent book *[An Elegant 
 
 In essence, a software engineering strategy consists of the following components:
 
-1. **Diagnosis**: The theory describing the challenge at hand, including its factors and constraints, alongwith a problem statement;
+1. **Diagnosis**: The theory describing the challenge at hand, including its factors and constraints, along with a problem statement;
 2. **Guiding Policies**: These are the policies that will be applied to address the challenge. They describe the general approach taken to tackle the problem;
 3. **Actions**: These are the specific steps implemented to address the challenge.
 
@@ -22,4 +22,4 @@ From my experience, I have found software engineering strategies useful in two c
 
 I have also been writing a dedicated page called [Software Engineering Strategy](/mgmt/sem/swe-strategy) on this website, where I document the key learnings, insights, and resources that I find useful in my journey to deeply understand this topic.
 
-I hope you find it helpful as well. Please feel free to reach out if you have any questions or comments about software engineering strategy.
+I hope you find it helpful as well. Please feel free to reach out if you have any questions or comments about software engineering strategies.

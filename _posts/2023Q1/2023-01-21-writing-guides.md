@@ -1,7 +1,7 @@
 ---
 title: Writing Guides to Support Your Teams
 categories: [Team Management]
-tags: [Communication, SWE Strategy]
+tags: [Written Communication, SWE Strategy]
 excerpt: An effective asynchronous communication approach to support your teams in handling specific challenges.
 ---
 

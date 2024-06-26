@@ -1,7 +1,7 @@
 ---
 title: Effective Communication
 categories: [Leadership, People Skills]
-tags: [Communication, VTEX Way]
+tags: [Communication, Verbal Communication, Nonverbal Communication, VTEX Way]
 ---
 
 The way we communicate with other people has a big impact on the effectiveness of the message we want to deliver.
@@ -14,7 +14,7 @@ Recently I came across this interesting video on *The Power of Words*, from 2015
 
 <br />
 
-In a leadership position, effective [communication](/mgmt/people/communication) is an important ability to develop. Just to enlighten you a bit about the positive impact you can create with it:
+In a leadership position, effective [communication](/leadership/communication) is an important ability to develop. Just to enlighten you a bit about the positive impact you can create with it:
 - You can improve performance;
 - You can help your circle of influence to overcome difficult situations;
 - You can expand your circle of influence;
@@ -36,4 +36,4 @@ Short-term results with no regard for such foundations even qualify as poor perf
 
 <br />
 
-If you want to expand your influence, impact other people's lives, or grow in your career as a leader, then you must invest in your [communication](/mgmt/people/communication) skills.
+If you want to expand your influence, impact other people's lives, or grow in your career as a leader, then you must invest in your [communication](/leadership/communication) skills.

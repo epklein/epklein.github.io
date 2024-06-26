@@ -4,7 +4,7 @@ categories: [Personal]
 tags: [Toastmasters]
 ---
 
-This month I joined the [Toastmasters International](https://www.toastmasters.org) organization to pursue my development in [communication](/mgmt/people/communication) and [leadership](/leadership). I joined the [Nós Toastmasters Club](https://www.toastmasters.org/Find-a-Club/04830452-04830452), a group from my hometown, Porto Alegre.
+This month I joined the [Toastmasters International](https://www.toastmasters.org) organization to pursue my development in [communication](/leadership/communication) and [leadership](/leadership). I joined the [Nós Toastmasters Club](https://www.toastmasters.org/Find-a-Club/04830452-04830452), a group from my hometown, Porto Alegre.
 
 Toastmasters International is a non-profit educational organization that operates clubs around the world to help individuals develop their communication and leadership skills. It provides a supportive and positive environment for individuals to practice public speaking, improve communication skills, and develop leadership abilities.
 

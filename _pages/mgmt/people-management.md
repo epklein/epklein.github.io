@@ -30,7 +30,7 @@ We hear a lot about *soft skills* in businesses. These are interpersonal or peop
 Skills I believe are important for a manager to develop include:
 
 - [Leadership](/leadership): The ability to inspire, influence and guide other people towards the accomplishment of common goals and objectives;
-- [Communication](/mgmt/people/communication): The ability to convey information clearly, listen actively, and adapt one's communication style to suit different situations and audiences;
+- [Communication](/leadership/communication): The ability to convey information clearly, listen actively, and adapt one's communication style to suit different situations and audiences;
 - [Delegation](/mgmt/people/delegation): The ability to assign tasks or responsibility to an individual or a group of people, empower them to make decisions, and trust them to complete work effectively;
 - [Persuasion](/mgmt/people/persuasion): The process of convincing someone to believe in or do something through reasoning or the use of emotional appeal. It involves influencing one's thoughts, attitudes, intentions, motivations, or behaviors in a specific direction.
 - Emotional Intelligence;

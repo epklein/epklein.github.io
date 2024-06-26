@@ -5,7 +5,7 @@ tags: [Communication]
 excerpt: Three essential tips to improve communication and impact daily interactions.
 ---
 
-Effective [communication](/mgmt/people/communication) is a skill that is underrated yet highly impactful in our daily interactions.
+Effective [communication](/leadership/communication) is a skill that is underrated yet highly impactful in our daily interactions.
 
 It is a challenging skill to master, especially for an introvert like myself. It requires study and intentional practice. I've read many books that cover this topic to better communicate in business.
 
