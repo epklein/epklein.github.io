@@ -83,7 +83,7 @@ This clarity of vision is the compass that will guide all subsequent steps in yo
 Consider the following in this step:
 
 - While your vision of the desired future provides direction, remember it's equally important to remain adaptable. As you grow personally and professionally, your aspirations evolve. Make it a practice to reflect on and revise your vision at least annually.
-- In case of your desired future shift, you must communicate these changes to your manager. Together, you can discuss the implications for your current role and explore a transition plan that aligns with your new objectives.
+- In case of a shift in your desired future, you must communicate these changes to your manager. Together, you can discuss the implications of this change on your current role and explore a transition plan that aligns with your new objectives.
 
 ## Define your development objectives
 
