@@ -1,6 +1,7 @@
 ---
 title: Eduardo Klein's profile information
 permalink: /profile
+search: false
 toc: true
 toc_sticky: true
 author_profile: true

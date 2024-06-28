@@ -1,6 +1,7 @@
 ---
 title: Eduardo Klein's bookmarks
 permalink: /bookmarks
+search: false
 toc: true
 toc_sticky: true
 author_profile: true

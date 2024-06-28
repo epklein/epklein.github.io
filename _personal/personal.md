@@ -1,6 +1,7 @@
 ---
 title: Eduardo Klein's personal resources
 permalink: /personal
+search: false
 toc: true
 toc_sticky: true
 author_profile: true
