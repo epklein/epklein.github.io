@@ -9,6 +9,9 @@ Mentoring is a powerful process that fosters professional development and person
 
 It can be described as **a knowledge-sharing relationship where an experienced individual, the mentor, provides guidance, support, and wisdom to a less experienced individual, the mentee**.
 
+{: .notice--info}
+**Watch out!** Need support? Connect with me at [The Mentoring Club](https://www.mentoring-club.com/the-mentors/eduardo-klein) today!
+
 **The mentor** is an experienced and knowledgeable individual, often senior in age or experience, willing to share insights, experiences, and lessons learned during their journey. The mentor can serve as a guide, a coach, or a challenger.
 
 **The mentee** is often at an earlier stage in their career or specific area of interest. They seek the guidance of a mentor to enhance their skills, improve their confidence, and ultimately achieve their objectives.
