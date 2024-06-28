@@ -14,7 +14,7 @@ In my career, I have held various engineering management positions, managing mul
 
 I am committed to fostering **collaborative environments and learning-oriented organizations**. My approach involves guiding teams to consistently **deliver results by leveraging Lean, Agile, and DevOps practices**.
 
-<p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://us13.list-manage.com/contact-form?u=ebb7cc2c07def0788b46dbb03&form_id=4bb26633174b45534110899b2097f27f" target="_blank">Send a Message</a></p>
+---
 
 I work for **[VTEX](/about/vtex) in the digital commerce industry**. I am the engineering leader for the *Marketplace* product vertical, which falls under the *Commerce Organization* and aims to maximize our clients' marketplace operations.
 
@@ -83,5 +83,5 @@ Reach out to me if you want any support!
 : [MIT Professional Education](https://professionalprograms.mit.edu/) ([Credential](https://www.credential.net/abe5612a-79b9-4462-a562-88f77211fefd))
 - Data Protection Officer (DPO) Certified Professional - LGPD (2019)
 : [ASSESPRO-RS](https://www.assespro-rs.org.br/) ([Credential](https://badgr.io/public/assertions/nAx5jBpqQTOpMDpV1OvYeg))
-- Professional Srum Master - PSM I (2016)
+- Professional Scrum Master - PSM I (2016)
 : [Scrum.org](https://scrum.org/) ([Credential](https://www.scrum.org/user/167525))
