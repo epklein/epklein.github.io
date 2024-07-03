@@ -31,6 +31,7 @@ author_profile: true
 
 ### Modeling
 
+- [Mermaid](https://mermaid.js.org/): A JavaScript based diagramming and charting tool that renders Markdown-inspired textdefinitions to create and modify diagrams dynamically. It has a great [Live Editor](https://mermaid.live/edit) where you can diagram live and download images
 - [Excalidraw](https://excalidraw.com/): A simple and powerful tool to create diagrams and sketches
 
 ## Training
@@ -48,6 +49,7 @@ author_profile: true
 - [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are): Amy's Talk explores the science of 'power posing' and its impact on our confidence.
 
 ## Other Stuff
+
 
 ### Learning
 
