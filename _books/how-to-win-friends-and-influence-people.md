@@ -9,13 +9,11 @@ permalink: /book/how-to-win-friends-and-influence-people
 
 ## Summary
 
-This is one of my favorite books, and I highly recommend it to everyone. I have already read it twice, and it is always worth reading again.
+This is one of my favorite books, and I highly recommend it to everyone. It is a timeless classic that I've read more than once, and it is always worth reading again.
 
-It is a must-read for people who want to develop better personal and professional relationships. It is one of the best-selling books of all time, first published almost a century ago, but it is still a relevant reading about influence.
+It's a must-read for those aiming to improve personal and professional relationships. It is one of the best-selling books of all time, and despite being published almost a century ago, it remains a great lesson about [influence](/tags#influence) and [leadership](/leadership).
 
-It is a great lesson about relationships, [influence](/tags#influence), and, why not, [leadership](/leadership). Leadership is all about influencing other people, and I think Carnegie's lessons are really inspiring.
-
-So, let's jump to its principles.
+Carnegie's lessons on leadership are truly inspiring. So let's jump into its principles.
 
 ### Fundamental techniques in handling people
 
