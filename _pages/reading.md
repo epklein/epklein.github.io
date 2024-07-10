@@ -12,7 +12,6 @@ I have separate reading lists for the main topics I write about in the [blog](/)
 
 ## Currently Reading
 
-- *[Numbers Don't Lie](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie)* by Vaclav Smil
 - *[Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)* by Martin Kleppmann
 - *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* by Donella H. Meadows
 - *[The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)* by Benjamin Graham
