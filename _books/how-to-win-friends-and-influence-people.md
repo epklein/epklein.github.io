@@ -13,7 +13,7 @@ This is one of my favorite books, and I highly recommend it to everyone. It is a
 
 It's a must-read for those aiming to improve personal and professional relationships. It is one of the best-selling books of all time, and despite being published almost a century ago, it remains a great lesson about [influence](/tags#influence) and [leadership](/leadership).
 
-Carnegie's lessons on leadership are truly inspiring. So let's jump into its principles.
+Carnegie's lessons on leadership are truly inspiring. So, let's jump into its principles.
 
 ### Fundamental techniques in handling people
 

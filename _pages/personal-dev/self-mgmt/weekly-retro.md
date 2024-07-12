@@ -3,9 +3,9 @@ title: Weekly Retrospective
 permalink: /personal-dev/self-mgmt/weekly-retro
 ---
 
-In the end of my friday at work, I write a brief summary of my week at work. That is about myself and my team.
+At the end of my workday on Friday, I write a brief summary of my week at work, focusing on myself and my team.
 
-In this summary I try to answer these questions:
+In this summary, I try to answer these questions:
 
 1. **Progress**: What did we achieve this week?
 2. **Problems**: What issues did we face?

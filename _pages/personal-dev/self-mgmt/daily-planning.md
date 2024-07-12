@@ -7,13 +7,13 @@ Every day, I run a brief daily planning routine. I have two main purposes with i
 
 ## Review today's history
 
-I've been a big fan of journaling for long. This is the step of my routine when I review past events. This day in my history. It makes me feel good to remember special moments, personal and professional achievements, the development of my children, traveling notes, and so on.
+I've been a big fan of journaling for long. This is the step of my routine when I review past events for this day in my personal history. It makes me feel good to remember special moments, personal and professional achievements, the development of my children, traveling notes, and so on.
 
-I review both my personal and professional journals. I write that in software. Currently, I use [Obsidian](https://obsidian.md/) as my journal and note-taking app.
+I review both my personal and professional journals, which I write in digital form. Currently, I use [Obsidian](https://obsidian.md/) as my journal and note-taking app.
 
 ## Review next activities
 
-This is the step when I review my agenda and next actions from my to-do list and plan what I'll address during the day. Currently, I use [Google Calendar](https://calendar.google.com) and [Todoist](https://todoist.com) as tools for that.
+This is when I review my agenda and next actions from my to-do list and plan what I'll address during the day. Currently, I use [Google Calendar](https://calendar.google.com) and [Obsidian](https://obsidian.md/) with the [Tasks](https://publish.obsidian.md/tasks) plugin as tools for task management.
 
 I may also look at the pending activities on my teams' boards - usually a Kanban board in a tool such as Jira, Trello, etc.
 
@@ -23,7 +23,7 @@ The first moment of the day when I check my e-mail and messaging tools. I get up
 
 <br />
 
-Reviewing my journals and next actions is usually quick, no more than 10 minutes. Reviewing communications may get a bit longer depending on the needs found there. I have 30 minutes closed in my schedule every morning for this daily planning routine, but I rarely use the whole slot for it.
+Reviewing my journals and next actions is usually quick, no more than 10 minutes. Reviewing communications may get longer depending on the needs found there. I have 30 minutes closed in my schedule every morning for this daily planning routine, but I rarely use the whole slot for it.
 
 ---
 
