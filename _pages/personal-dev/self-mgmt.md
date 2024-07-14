@@ -22,6 +22,7 @@ Some useful methods and frameworks that can be used to boost productivity:
 ## Other resources
 
 - How do you get your work recognized? You may want to write a [brag document](https://jvns.ca/blog/brag-documents/).
+- [How to set Priorities?](https://newsletter.techworld-with-milan.com/p/how-to-set-priorities) A great article by [Milan Milanovic](https://www.linkedin.com/in/milanmilanovic/).
 
 ## Related Posts
 
