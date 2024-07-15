@@ -32,4 +32,4 @@ It is important to take into consideration that:
 
 ---
 
-[^1]: As far as I understand, the matrix was created by Stephen Covey. He refers to it as *The Time Management Matrix*, however. The matrix is widely known as the Eisenhower Matrix, in honor of USA 34º president [Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower), but I don't know by whom and when the matrix was named the Eisenhower Matrix.
+[^1]: As far as I understand, the matrix was created by Stephen Covey. He refers to it as *The Time Management Matrix*, however. The matrix is widely known as the Eisenhower Matrix, in honor of USA 34th President, [Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower), but I don't know by whom and when the matrix was named the Eisenhower Matrix.
