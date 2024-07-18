@@ -28,7 +28,7 @@ classes: wide
 
 ### 2022-09-21 - Release problems
 
-Alice didn't monitor her last deployment properly, and it caused a high error rate when it went to production. Because of that, we took 2 hours to roll back to our previous version. It was not the first time, so I need to define clearer expectations and have a candid conversation about this incident.
+Alice failed to properly monitor her last deployment, which resulted in a high error rate when it was pushed to production. As a result, we spent 2 hours rolling back to the previous version. This was not the first time this happened, so I need to establish clearer expectations and have an open conversation about this incident.
 
 ### 2022-08-01
 

@@ -13,7 +13,7 @@ Persuasion and influence are terms that are often used interchangeably. While do
 
 **Persuasion** is an active process with clear and specific outcomes in mind. It typically involves a direct attempt to change someone's mindset or behavior. This often requires the use of specific techniques, arguments, or appeals tailored to the audience's needs or emotions.
 
-On the other hand we have **influence**, the backbone of [leadership](/leadership). It's a broader, long-term concept that focuses on shaping general perceptions, attitudes, or behaviors over time. Unlike persuasion, influence is a more passive process. It might not involve direct communication or explicit arguments. Instead, influence is often achieved through example, leadership, or establishing a certain ambiance or culture.
+On the other hand, we have influence, which is the backbone of [leadership](/leadership). It's a broader, long-term concept that focuses on shaping general perceptions, attitudes, or behaviors over time. Unlike persuasion, influence is a more passive process. It might not involve direct communication or explicit arguments. Instead, influence is often achieved through example, leadership, or establishing a certain ambiance or culture.
 
 ## Learning
 

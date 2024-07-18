@@ -28,7 +28,7 @@ What I would like to highlight from the method:
 
 Modern productivity advice suggests using the [Eisenhower Matrix](/eisenhower-matrix) to help you prioritize the six most important tasks. I find this idea really useful; I'm a true believer in the Eisenhower Matrix paradigm.
 
-I'd guess Ivy Lee taught Schwab and his team how to prioritize those six tasks to make that big amount of money, but that lesson was probably lost in history.
+I'd guess Ivy Lee taught Schwab and his team how to effectively prioritize those six tasks to make that big amount of money, but that lesson was probably lost in history.
 
 Equivalent in structure, you could prioritize the six most important tasks following other prioritization systems, such as the Value vs. Effort matrix, 1-3-5 rule, 3-3-3 method, etc. 
 
