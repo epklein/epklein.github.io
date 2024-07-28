@@ -272,6 +272,9 @@ collections:
   books:
     output: true
 
+  finance-pt:
+    output: true
+
 # Defaults
 defaults:
 
@@ -340,6 +343,15 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
+
+  # _finance-pt
+  - scope:
+      path: ""
+      type: finance-pt
+    values:
+      layout: finance-pt
+      classes: wide
+      author_profile: true
 
     # _personal
   - scope:
