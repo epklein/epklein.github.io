@@ -1,2 +1,2 @@
 {: .notice--info }
-Este texto é parte de minha [coleção de artigos e textos sobre finanças pessoais](/finance-pt).
+Este texto é parte de minha [coleção de artigos e textos sobre finanças pessoais](/finance-pt). Para receber atualizações sobre finanças pessoais, [clique aqui](https://edu-on-money.ck.page/25983452fa) e assine a minha n*ewsletter*.

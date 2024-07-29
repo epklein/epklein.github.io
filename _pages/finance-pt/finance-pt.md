@@ -16,4 +16,7 @@ Essa página é uma coleção de artigos e textos sobre finanças pessoais. Aqui
 
 Diferente do restante do site, esta seção é escrita em português. Esse conteúdo é direcionado para a comunidade brasileira dado que, como brasileiro, a minha experiência está condicionada as estratégias de investimento e condições econômicas do Brasil.
 
+{: .notice--info }
+Para receber atualizações sobre finanças pessoais, [clique aqui](https://edu-on-money.ck.page/25983452fa) e assine a minha n*ewsletter*.
+
 Boa leitura e boa sorte com suas finaças e investimentos pessoais.
