@@ -28,31 +28,34 @@ The tools I use to write, monitor, and promote this blog:
 
 - [Google Analytics](https://analytics.google.com): Web analytics tool for site traffic and user behavior
 - [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters): Tools for monitoring and maintaining a website's presence in Google and Microsoft Bing
-- [Mailchimp](https://mailchimp.com): An email marketing platform that helps create and manage my audience and my newsletter
-- [Grammarly](https://app.grammarly.com): A writing assistance tool that I use to write the content of this blog. I use the Grammarly app, as well as its integrations to VSCode, Google Docs, and Microsoft Office
+- [ConvertKit](https://convertkit.com): A platform for creators to build your newsletter and manage your audience.
+- Grammarly](https://app.grammarly.com): A writing assistance tool that I use to write the content of this blog. I use the Grammarly app, as well as its integrations to VSCode, Google Docs, and Microsoft Office
 - [kramdown quick reference](https://kramdown.gettalong.org/quickref.html): It helps me write all the content for this website
 
 ## Finance
 
-- [Status Invest](https://statusinvest.com.br/): A Brazilian platform designed for individual investors, that provides tools and information tailored to the Brazilian Stock Market, as well as to the American stock market.
-- [Info Money](https://www.infomoney.com.br/): A Brazilian website that focuses on financial news, stock market data, and other economic information.
-- [Indicators by Debit](https://debit.com.br/tabelas/indicadores-economicos.php): Offers tables with important indicators from the Brazilian economy. You can also project those indicators over time.
-- [Oceans14](https://www.oceans14.com.br): A platform for investors seeking information about the Brazilian stock market. Some useful reports I like are the [Bovespa historical P/E](https://www.oceans14.com.br/acoes/historico-pl-bovespa) and [investor's participation](https://www.oceans14.com.br/acoes/participacao-investidores-b3).
+- [Status Invest](https://statusinvest.com.br/): A platform designed for individual investors that provides tools and information tailored to the Brazilian Stock Market, as well as to the American stock market.
+- [Oceans14](https://www.oceans14.com.br): Another website for investors seeking information about the Brazilian stock market. Some useful reports I like are the [Bovespa historical P/E](https://www.oceans14.com.br/acoes/historico-pl-bovespa) and [investors participation](https://www.oceans14.com.br/acoes/participacao-investidores-b3).
+
+- [Info Money](https://www.infomoney.com.br/): A website focused on financial news, stock market data, and other economic information.
+- [Indicators by Debit](https://debit.com.br/tabelas/indicadores-economicos.php): A website offering tables with important indicators from the Brazilian economy. You can also project those indicators over time.
 
 ### Global
 
+- [ADVFN Monitor](https://br.advfn.com/monitor): A great global stock monitoring tool that tracks global indexes and stock prices. I use it to monitor Bovespa (BR), NASDAQ (USA), and NYSE (USA), as well as crypto coins and others. The free version offers delayed data, but it is enough for my needs.
+
 - [CompaniesMarketCap.com](https://companiesmarketcap.com/): A website that ranks and provides financial information on companies based on their market capitalization.
-- [TheGlobalEconomy.com](https://pt.theglobaleconomy.com/): TheGlobalEconomy.com serves researchers, academics, investors, and others who need reliable economic data on foreign countries. One valuable dataset is the [Stock Market capitalization, percent of GDP](https://www.theglobaleconomy.com/rankings/Stock_market_capitalization/), which correlates to the Buffet Index.
+- [TheGlobalEconomy.com](https://pt.theglobaleconomy.com/): TheGlobalEconomy.com serves researchers, academics, investors, and others who need reliable economic data on foreign countries. One valuable dataset is [Stock Market capitalization as a percent of GDP](https://www.theglobaleconomy.com/rankings/Stock_market_capitalization/), which correlates to the Buffet Index.
 
 ### US Market
 
-- [Current Market Valuation](https://www.currentmarketvaluation.com/): Current Market Valuation tracks various economic models highlighting the current state of the US stock market and broader economy. [The Buffet Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php) is one of its useful charts.
-- [Macrotrends](https://www.macrotrends.net/): A research platform for long term investors.
-- [Multpl](https://www.multpl.com/): Financial and economical data from the US, including the [S&P 500 PE ratio](https://www.multpl.com/s-p-500-pe-ratio) and [S&P 500 Dividend Yield](https://www.multpl.com/s-p-500-dividend-yield).
+- [Current Market Valuation](https://www.currentmarketvaluation.com/): Current Market Valuation tracks various economic models highlighting the current state of the US stock market and the broader economy. [The Buffet Indicator](https://www.currentmarketvaluation.com/models/buffett-indicator.php) is one of its useful charts.
+- [Macrotrends](https://www.macrotrends.net/): A research platform for long-term investors.
+- [Multpl](https://www.multpl.com/): Financial and economic data from the US, including the [S&P 500 PE ratio](https://www.multpl.com/s-p-500-pe-ratio) and [S&P 500 Dividend Yield](https://www.multpl.com/s-p-500-dividend-yield).
 
 ## Toastmasters
 
-As a Toastmaster, I use the following links to participate in meetings and access learning resources.
+As a Toastmaster, I use the following links to attend meetings and access learning resources.
 
 - [Toastmasters International](https://www.toastmasters.org/): The nonprofit educational organization that builds confidence and teaches public speaking skills through a worldwide network of clubs that meet online and in person.
 - [Nós Toastmasters Club](https://toastmastersbrasil.org/regiao/regiao-sul/nos-toastmasters/): I'm a member of this club.
