@@ -29,7 +29,7 @@ The tools I use to write, monitor, and promote this blog:
 - [Google Analytics](https://analytics.google.com): Web analytics tool for site traffic and user behavior
 - [Google Search Console](https://search.google.com/search-console) and [Bing Webmaster Tools](https://www.bing.com/webmasters): Tools for monitoring and maintaining a website's presence in Google and Microsoft Bing
 - [ConvertKit](https://convertkit.com): A platform for creators to build your newsletter and manage your audience.
-- Grammarly](https://app.grammarly.com): A writing assistance tool that I use to write the content of this blog. I use the Grammarly app, as well as its integrations to VSCode, Google Docs, and Microsoft Office
+- [Grammarly](https://app.grammarly.com): A writing assistance tool that I use to write the content of this blog. I use the Grammarly app, as well as its integrations to VSCode, Google Docs, and Microsoft Office
 - [kramdown quick reference](https://kramdown.gettalong.org/quickref.html): It helps me write all the content for this website
 
 ## Finance
