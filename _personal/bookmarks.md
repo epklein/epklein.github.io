@@ -31,12 +31,16 @@ author_profile: true
 
 ### Modeling
 
-- [Mermaid](https://mermaid.js.org/): A JavaScript based diagramming and charting tool that renders Markdown-inspired textdefinitions to create and modify diagrams dynamically. It has a great [Live Editor](https://mermaid.live/edit) where you can diagram live and download images
+- [Mermaid](https://mermaid.js.org/): A JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. It has a great [Live Editor](https://mermaid.live/edit) where you can diagram live and download images
 - [Excalidraw](https://excalidraw.com/): A simple and powerful tool to create diagrams and sketches
+
+### Coding
+
+- [JSON Editor Online](https://jsoneditoronline.org/): A free web-based tool to edit and process your JSON data.
 
 ## Training
 
-- [GraphQL by Washington Developer](https://www.youtube.com/playlist?list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j): A Youtube course on GraphQL (in Portuguese). I saved this course recommendation but didn't watch it yet.
+- [GraphQL by Washington Developer](https://www.youtube.com/playlist?list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j): A YouTube course on GraphQL (in Portuguese). I saved this course recommendation but didn't watch it yet.
 
 ## Personal Dev
 
