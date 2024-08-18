@@ -6,15 +6,14 @@ toc_sticky: true
 author_profile: true
 ---
 
-I share my current reading list and book recommendations on this page. I also put together the top blogs and newsletters I like to follow to stay up to date.
+On this page, I share my current reading list and book recommendations. I also put together the top blogs and newsletters I follow to stay up to date.
 
-I have separate reading lists for the main topics I write about in the [blog](/). Just access a section from the top menu and navigate to the Learning section.
+I have separate reading lists for the main topics I write about in the [blog](/). To access them, visit a section from the top menu and navigate to the Learning section.
 
 ## Currently Reading
 
 - *[Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)* by Martin Kleppmann
 - *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* by Donella H. Meadows
-- *[The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor)* by Benjamin Graham
 - {% include books/the-engineering-executives-primer.md %}
 
 *You can also find my updated list on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=currently-reading)*.
