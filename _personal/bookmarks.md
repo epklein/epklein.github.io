@@ -27,7 +27,7 @@ author_profile: true
 - [ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager): A public GitHub repository with resources compiled by [Ryan Burgess](https://www.linkedin.com/in/ryanburgess/)
 - [Resources for Engineering Managers](https://www.notonlycode.org/engineering-manager-resources/): A curated collection of books, tools, and other resources by [Gregory Witek](https://www.linkedin.com/in/gwitek/)
 
-## Software Eng
+## Software Engineering
 
 ### Modeling
 
@@ -38,8 +38,8 @@ author_profile: true
 
 - [JSON Editor Online](https://jsoneditoronline.org/): A free web-based tool to edit and process your JSON data.
 
-## Training
-
+### Training
+- [roadmap.sh](https://roadmap.sh): A community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
 - [GraphQL by Washington Developer](https://www.youtube.com/playlist?list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j): A YouTube course on GraphQL (in Portuguese). I saved this course recommendation but didn't watch it yet.
 
 ## Personal Dev
@@ -53,7 +53,6 @@ author_profile: true
 - [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are): Amy's Talk explores the science of 'power posing' and its impact on our confidence.
 
 ## Other Stuff
-
 
 ### Learning
 
