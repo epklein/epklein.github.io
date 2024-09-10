@@ -38,6 +38,9 @@ mgmt:
       url: /mgmt/sem/sem-role
     - title: SWE Strategy
       url: /mgmt/sem/swe-strategy
+    - title: Interview Questions
+      url: /mgmt/sem/interview-questions
+   
   - title: "People"
     url: /mgmt/people
     children: 
