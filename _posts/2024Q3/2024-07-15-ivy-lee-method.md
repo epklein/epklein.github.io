@@ -1,6 +1,6 @@
 ---
 title: The Ivy Lee Method for Managing Priorities
-categories: [Self Management, Personal Development]
+categories: [Self-Management, Personal Development]
 tags: []
 excerpt: A productivity method that consists of listing the six most crucial tasks to accomplish the next day and working through each in order of importance.
 ---

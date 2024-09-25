@@ -1,6 +1,6 @@
 ---
 title: Managing Priorities with the Eisenhower Matrix
-categories: [Self Management, Personal Development]
+categories: [Self-Management, Personal Development]
 tags: [Delegation]
 excerpt: The Eisenhower Matrix is a straightforward and popular time management tool that can help you to get organized and execute around priorities.
 ---

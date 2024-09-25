@@ -80,7 +80,7 @@ swe:
 personal-dev:
   - title: "Personal Development"
     url: "/personal-dev"
-  - title: "Self Management"
+  - title: "Self-Management"
     url: /personal-dev/self-mgmt
     children:
       - title: "Personal Planning"

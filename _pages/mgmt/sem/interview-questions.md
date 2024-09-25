@@ -1,5 +1,5 @@
 ---
-title: Interview questions
+title: Interview Questions
 permalink: /mgmt/sem/interview-questions
 toc: true
 toc_sticky: true

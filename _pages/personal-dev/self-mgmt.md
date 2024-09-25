@@ -26,5 +26,5 @@ Some useful methods and frameworks that can be used to boost productivity:
 
 ## Related Posts
 
-{% for post in site.categories['Self Management'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
+{% for post in site.categories['Self-Management'] %}- <b>{{ post.date | date: "%b %e, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b>. {{post.excerpt |strip_html}}
 {% endfor %}
