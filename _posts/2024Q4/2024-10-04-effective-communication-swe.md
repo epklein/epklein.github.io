@@ -9,9 +9,9 @@ Effective communication is vital for successful product development teams in tec
 
 In tech companies, where cross-functional collaboration is crucial, the ability to convey complex ideas clearly is not just a nice-to-have — it’s essential. Effective communication bridges gaps between leadership, product and growth teams, partners, and clients, ensuring alignment and shared understanding. However, many teams struggle to articulate their thoughts or adapt their language to diverse audiences, leading to misunderstandings and inefficiencies.
 
-In this post, I share my perspective on the varying levels of competencies for effective communication within tech companies. By breaking down the competency of effective communication into actionable levels — from beginner to expert — I aim to provide a framework that SEMs can use to assess and develop their team's communication skills.
+In this post, I share my perspective on the varying levels of communication skills for SWEs within tech companies. By breaking down the competency of effective communication into actionable levels — from beginner to expert — I aim to provide a framework that SEMs can use to assess and develop their team's communication skills.
 
-This structure can also be integrated into career ladders, supporting personal development and career progression. It can help SWEs identify growth opportunities and set clear goals, fostering an environment where communication flows freely and product development thrives.
+This structure can also be integrated into career ladders, supporting personal development and career progression. It can help SWEs identify growth opportunities and set clear goals, fostering an environment where communication flows freely, and product development thrives.
 
 ## Effective Communication Expectations and Levels
 
@@ -22,7 +22,7 @@ To make effective communication more tangible, I will describe it through four d
 3. **Clarity**: Conveying information clearly and concisely to prevent confusion.
 4. **Adaptability**: Adjusting communication styles to fit different audiences and contexts.
 
-For each level, I try to establish adequate expectations and provide evidence and examples.
+I try to establish adequate expectations for each level and provide evidence and examples.
 
 ### Beginner
 
