@@ -17,10 +17,10 @@ This structure can also be integrated into career ladders, supporting personal d
 
 To make effective communication more tangible, I will describe it through four dimensions:
 
-1. **Empathy and Perspective-Taking**: Understanding others' feelings and viewpoints.
-2. **Active Listening**: Fully engaging with other people to ensure understanding.
-3. **Clarity**: Conveying information clearly and concisely to prevent confusion.
-4. **Adaptability**: Adjusting communication styles to fit different audiences and contexts.
+1. **Empathy and Perspective-Taking**: Understands and appreciates others' feelings and viewpoints. Empathizes with others to better understand and address their concerns.
+2. **Active Listening**: Fully concentrates on and understands what is being said. Acknowledges the speaker and gives feedback to show understanding.
+3. **Clarity**: Expresses ideas in a straightforward and clear way. Uses precise words and logical sentences. Avoids jargon to minimize misunderstandings.
+4. **Adaptability**: Adjusts communication style for different audiences. Modifies language and tone to ensure the message resonates.
 
 I try to establish adequate expectations for each level and provide evidence and examples.
 
