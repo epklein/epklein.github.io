@@ -31,8 +31,8 @@ author_profile: true
 
 ### Modeling
 
-- [Mermaid](https://mermaid.js.org/): A JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. It has a great [Live Editor](https://mermaid.live/edit) where you can diagram live and download images
-- [Excalidraw](https://excalidraw.com/): A simple and powerful tool to create diagrams and sketches
+- [Mermaid](https://mermaid.js.org/): A JavaScript-based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams. dynamically. It has a great [Live Editor](https://mermaid.live/edit) where you can diagram live and download images.
+- [Excalidraw](https://excalidraw.com/): A simple and powerful tool to create diagrams and sketches.
 
 ### Coding
 
@@ -65,3 +65,8 @@ author_profile: true
 ### Finance
 
 - [The Little Book that Beats the Market](https://www.youtube.com/watch?v=bZfPJCAVQg0): Joel Greenblatt at [Talks at Google](https://www.youtube.com/@talksatgoogle).
+
+## Tools & Utilities
+
+- [Free tools to grow your business](https://www.shopify.com/tools): A bunch of excellent, free tools by Shopify.
+- [Free QR Code generator](https://www.shopify.com/tools/qr-code-generator): Shopify's QR Code generator ([Portuguese version](https://www.shopify.com/br/ferramentas/gerador-de-qr-code), same output).
