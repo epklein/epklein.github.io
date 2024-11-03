@@ -54,3 +54,7 @@ The description is helpful for SEMs who want to understand their place and want 
 - **Learning Engineering Processes**: Shadowing engineers and asking questions helps managers understand coding and deployment processes.
 
 **Acquiring Technical Vocabulary**: Continuous learning and seeking explanations for technical terms are crucial for managers to bridge knowledge gaps.
+
+## Learning
+
+{% include learning/sem-role.md %}
