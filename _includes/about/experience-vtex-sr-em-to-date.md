@@ -7,7 +7,7 @@ The **Marketplace** vertical aims to maximize our clients' presence across marke
 The **Assisted Sales** vertical is dedicated to enhancing customer interactions across various sales channels. We develop solutions that empower VTEX platform merchants to optimize in-store and remote sales experiences, fostering customer satisfaction through innovative sales solutions.
 
 <!--
-Líder de engenharia das verticais de produto de **Marketplace** e **Vendas Assistidas** dentro da equipe de produto da VTEX.
+Líder de engenharia das verticais de produto de **Marketplace** e **Vendas Assistidas** dentro do time de produto da VTEX.
 
 A vertical de **Marketplace** tem como objetivo maximizar a presença de nossos clientes em diversos marketplaces. Desenvolvemos soluções que permitem aos clientes da plataforma VTEX gerenciar toda a sua experiência em marketplaces.
 
