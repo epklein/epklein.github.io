@@ -1,7 +1,15 @@
-<!-- Engineering Leader for the Marketplace product vertical (from Jan 2024 to date) -->
+<!-- Engineering Leader for the Marketplace and Assisted Sales product verticals (from Nov 2024 to date) -->
 
-As the engineering leader for the **Marketplace** product vertical, I lead the engineering teams whose mission is to maximize our clients' presence across marketplaces. We develop solutions that allow VTEX platform merchants to manage their entire marketplace experience, including VTEX marketplaces (*marketplace in*) and external marketplaces (*marketplace out*, previously the Connections team).
+I am the Engineering leader for the **Marketplace** and **Assisted Sales** product verticals inside the VTEX product team.
+
+The **Marketplace** vertical aims to maximize our clients' presence across marketplaces. We develop solutions that allow VTEX platform merchants to manage their entire marketplace experience.
+
+The **Assisted Sales** vertical is dedicated to enhancing customer interactions across various sales channels. We develop solutions that empower VTEX platform merchants to optimize in-store and remote sales experiences, fostering customer satisfaction through innovative sales solutions.
 
 <!--
-Como líder de engenharia da vertical de produto *Marketplace*, lidero os times de engenharia que têm por missão maximizar a presença de nossos clientes em diferentes marketplaces. Desenvolvemos soluções que permitem que os varejistas da plataforma VTEX gerenciem toda a sua experiência de marketplaces, incluindo os marketplaces VTEX (*marketplace in*) e marketplaces externos (*marketplace out*, anteriormente o time de Connections).
+Líder de engenharia das verticais de produto de **Marketplace** e **Vendas Assistidas** dentro da equipe de produto da VTEX.
+
+A vertical de **Marketplace** tem como objetivo maximizar a presença de nossos clientes em diversos marketplaces. Desenvolvemos soluções que permitem aos clientes da plataforma VTEX gerenciar toda a sua experiência em marketplaces.
+
+A vertical de **Vendas Assistidas** é dedicada a aprimorar as interações com os clientes em diversos canais de vendas. Desenvolvemos soluções que capacitam os clientes da plataforma VTEX a otimizar as experiências de vendas presenciais e remotas, promovendo a satisfação do cliente por meio de soluções de vendas inovadoras.
 -->

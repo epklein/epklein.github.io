@@ -16,9 +16,9 @@ I am committed to fostering **collaborative environments and learning-oriented o
 
 ---
 
-I work for **[VTEX](/about/vtex) in the digital commerce industry**. I am the engineering leader for the *Marketplace* product vertical, which falls under the *Commerce Organization* and aims to maximize our clients' marketplace operations.
+I work for **[VTEX](/about/vtex) in the digital commerce industry**. I am the engineering leader for the *Marketplace* and *Assisted Sales* product verticals, which fall under the Commerce Organization.
 
-My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their entire marketplace experience. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
+My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their marketplace and assisted sales experiences. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
 
 I also have previous experience in software development within the financial market at [Nelogica](/about/nelogica) and mobile device management at [Mobiltec](/about/mobiltec).
 

@@ -18,9 +18,13 @@ When I joined VTEX, the company was structuring the IPO on the [New York Stock E
 
 I work for VTEX remotely from [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), my hometown.
 
-### Engineering Manager for the Marketplace product vertical <nobr>(from Jan 2024 to date)</nobr>
+### Engineering Manager for the Marketplace and Assisted Sales product verticals <nobr>(from Nov 2024 to date)</nobr>
 
 {% include about/experience-vtex-sr-em-to-date.md %}
+
+### Engineering Manager for the Marketplace product vertical <nobr>(from Jan 2024 to Oct 2024)</nobr>
+
+{% include about/experience-vtex-sr-em-marketplace.md %}
 
 ### Engineering Manager for the Connections team <nobr>(from May 2021 to Dec 2023)</nobr>
 
