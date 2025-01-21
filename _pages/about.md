@@ -8,11 +8,13 @@ author_profile: true
 
 My name is **Eduardo Klein**, and I am a Brazilian **[software engineering manager](/mgmt/sem/sem-role)** and a proud **husband and father of two**. I live with my family in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), Brazil.
 
-I am a **software engineering leader** with over 20 years of experience in the technology industry.
+With over 20 years of experience in the technology industry, I have sharpened my expertise across digital commerce, finance, and mobile device management. Throughout my career, I have held various engineering management positions, leading multiple teams, including distributed ones. **My focus lies in developing and empowering software engineers and new leaders, fostering their development to create high-performing teams.**
 
-In my career, I have held various engineering management positions, managing multiple teams, including distributed ones. **I focus on developing and empowering software engineers and engineering managers**.
+I am committed to **creating collaborative environments and cultivating learning-oriented organizations**. By leveraging Lean, Agile, and DevOps practices, **I guide teams to consistently deliver results aligned with business objectives, driving meaningful value for the organization**.
 
-I am committed to fostering **collaborative environments and learning-oriented organizations**. My approach involves guiding teams to consistently **deliver results by leveraging Lean, Agile, and DevOps practices**.
+<!-- Com mais de 20 anos de experiência na indústria de tecnologia, aperfeiçoei minha expertise em comércio digital, finanças e gerenciamento de dispositivos móveis. Ao longo da minha carreira, ocupei várias posições de gestão de engenharia, liderando múltiplas equipes, incluindo equipes distribuídas. Meu foco está no desenvolvimento e empoderamento de engenheiros de software e novos líderes, promovendo seu desenvolvimento para criar equipes de alto desempenho. -->
+
+<!-- Sou comprometido em criar ambientes colaborativos e cultivar organizações orientadas para o aprendizado. Através do uso de práticas Lean, Agile e DevOps, guio as equipes para entregar resultados consistentemente alinhados com os objetivos de negócio, gerando valor significativo para a organização. -->
 
 ---
 

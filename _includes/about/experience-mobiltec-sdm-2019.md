@@ -1,11 +1,12 @@
-<!-- Software Development Manager (from Jan 2009 to Jan 2019) -->
+<!-- Software Development Manager (from Jan 2009 to Dec 2018) -->
 
-In the last ten years, I led the entire product development team in Porto Alegre's office, focusing on corporate mobile device management (MDM) solutions.
+Over my sixteen-year tenure at Mobiltec, I have progressively taken on more leadership responsibilities. In the past ten years, I have led our Porto Alegre office's entire product development team, focusing on corporate mobile device management (MDM) solutions.
 
-From my beginnings in 2003 as a developer to my position as a software development manager, I have participated in all organizational transformations, playing a key role in adopting agile methodologies and lean system development practices.
+I began my career at Mobiltec in 2003 as a developer and advanced to the role of software development manager. Throughout my time with the company, I have participated in all organizational transformations, playing a key role in implementing agile methodologies and lean system development practices.
 
 <!--
-Nos últimos 10 anos, liderei toda a equipe de desenvolvimento de produtos no escritório de Porto Alegre, com foco em gestão de computação móvel corporativa (MDM).
+Durante meus dezesseis anos de atuação na Mobiltec, assumi progressivamente responsabilidades de liderança. Nos últimos dez anos, liderei toda a equipe de desenvolvimento de produtos do escritório de Porto Alegre, focando em soluções de gerenciamento de dispositivos móveis corporativos (Mobile Device Management - MDM).
 
-Desde meu início em 2003 como programador até assumir como gerente de desenvolvimento, participei de todas as transformações organizacionais, tendo papel chave na adoção de metodologias ágeis e práticas lean de desenvolvimento de sistemas.
+Iniciei minha carreira na Mobiltec em 2003 como desenvolvedor e progredi para gestão de desenvolvimento de software. Ao longo do meu tempo na empresa, participei de todas as transformações organizacionais, desempenhando um papel fundamental na implementação de metodologias ágeis e práticas de desenvolvimento de sistemas enxutos.
+
 -->
