@@ -43,9 +43,9 @@ The tools I use to write, monitor, and promote this blog:
 ### Global
 
 - [ADVFN Monitor](https://br.advfn.com/monitor): A great global stock monitoring tool that tracks global indexes and stock prices. I use it to monitor Bovespa (BR), NASDAQ (USA), and NYSE (USA), as well as crypto coins and others. The free version offers delayed data, but it is enough for my needs.
-
-- [CompaniesMarketCap.com](https://companiesmarketcap.com/): A website that ranks and provides financial information on companies based on their market capitalization.
+- [MacroMicro](https://en.macromicro.me/): Combining tech and research expertise, MacroMicro empowers everyone to harness data and gain valuable insights into global market trends. The [World Stock Market Capitalization by Country](https://en.macromicro.me/charts/99909/world-total-market-capitalization-of-stock-markets) is a great and updated data source for the stock market capitalization of major economies or exchanges worldwide, including Brazil.
 - [TheGlobalEconomy.com](https://pt.theglobaleconomy.com/): TheGlobalEconomy.com serves researchers, academics, investors, and others who need reliable economic data on foreign countries. One valuable dataset is [Stock Market capitalization as a percent of GDP](https://www.theglobaleconomy.com/rankings/Stock_market_capitalization/), which correlates to the Buffet Index.
+- [CompaniesMarketCap.com](https://companiesmarketcap.com/): A website that ranks and provides financial information on companies based on their market capitalization.
 
 ### US Market
 
