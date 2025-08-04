@@ -18,9 +18,9 @@ I am committed to **creating collaborative environments and cultivating learning
 
 ---
 
-I work for **[VTEX](/about/vtex) in the digital commerce industry**. I am the engineering leader for the *Marketplace* and *Assisted Sales* product verticals, which fall under the Commerce Organization.
+I work for **[VTEX](/about/vtex) in the digital commerce industry**. I am the engineering leader for the **Omnichannel Experiences** product vertical.
 
-My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their marketplace and assisted sales experiences. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
+My teams are responsible for developing and maintaining solutions that enable VTEX platform merchants to manage their omnichannel experiences, which includes marketplace integrations, as well as physical store and live shopping solutions. We are distributed across many states in Brazil and countries in South America, and I work remotely from my hometown.
 
 I also have previous experience in software development within the financial market at [Nelogica](/about/nelogica) and mobile device management at [Mobiltec](/about/mobiltec).
 
@@ -56,7 +56,7 @@ Reach out to me if you want any support!
 
 ## Experience
 
-**Engineering Manager at VTEX** <nobr>(from May 2021 to date)</nobr>
+**Senior Engineering Manager at VTEX** <nobr>(from May 2021 to date)</nobr>
 
 {% include about/experience-vtex-sr-em-to-date.md %}
 

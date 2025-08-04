@@ -18,7 +18,7 @@ When I joined VTEX, the company was structuring the IPO on the [New York Stock E
 
 I work for VTEX remotely from [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), my hometown.
 
-### Engineering Manager for the Marketplace and Assisted Sales product verticals <nobr>(from Nov 2024 to date)</nobr>
+### Senior Engineering Manager for the Omnichannel Experiences product vertical <nobr>(from Nov 2024 to date)</nobr>
 
 {% include about/experience-vtex-sr-em-to-date.md %}
 
