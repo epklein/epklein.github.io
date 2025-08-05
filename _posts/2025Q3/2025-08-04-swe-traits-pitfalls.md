@@ -1,5 +1,5 @@
 ---
-title: The traits and hidden pitfalls in Software Engineering careers
+title: The traits and pitfalls in Software Engineering careers
 categories: [SWE Management, Personal Development, Performance Management]
 tags: [SWE Career, Performance Evaluation]
 excerpt: The typical traits and pitfalls in the career ladder of Software Engineers.
