@@ -1,7 +1,7 @@
 ---
 title: The traits and hidden pitfalls in Software Engineering careers
-categories: [People Skills, Performance Management]
-tags: [Communication, SWE Career, Performance Evaluation]
+categories: [SWE Management, Personal Development, Performance Management]
+tags: [SWE Career, Performance Evaluation]
 excerpt: The typical traits and pitfalls in the career ladder of Software Engineers.
 ---
 
