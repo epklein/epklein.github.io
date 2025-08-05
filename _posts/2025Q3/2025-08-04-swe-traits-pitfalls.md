@@ -118,7 +118,7 @@ Soft Skills
 
 Key takeaways for senior engineers seeking to become Staff Software Engineers
 
-##### Believing they need to allocate time to identify opportunities.
+#### Believing they need to allocate time to identify opportunities.
 
 To become an engineer who identifies business opportunities, one needs to develop situational awareness across the organization, actively listen to pain points expressed by colleagues, partners, and clients, and connect seemingly unrelated problems into larger patterns.
 
