@@ -12,9 +12,11 @@ I have separate reading lists for the main topics I write about in the [blog](/)
 
 ## Currently Reading
 
-- *[Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)* by Martin Kleppmann
 - *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* by Donella H. Meadows
-- {% include books/the-engineering-executives-primer.md %}
+- *[The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation)* by Jonathan Haidt
+- *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
+- *[Noise: A Flaw in Human Judgement](https://www.goodreads.com/book/show/55339408-noise)* by Daniel Kahneman
+- *[Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now)* by Steven Pinker
 
 *You can also find my updated list on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=currently-reading)*.
 
