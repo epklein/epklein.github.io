@@ -13,7 +13,6 @@ I have separate reading lists for the main topics I write about in the [blog](/)
 ## Currently Reading
 
 - *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* by Donella H. Meadows
-- *[The Anxious Generation](https://www.goodreads.com/book/show/171681821-the-anxious-generation)* by Jonathan Haidt
 - *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
 - *[Noise: A Flaw in Human Judgement](https://www.goodreads.com/book/show/55339408-noise)* by Daniel Kahneman
 - *[Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now)* by Steven Pinker
@@ -34,6 +33,7 @@ Books that are next on my reading list:
 - {% include books/how-to-win-friends-and-influence-people.md %}
 - {% include books/the-managers-path.md %}
 - {% include books/an-elegant-puzzle.md %}
+- {% include books/the-anxious-generation.md %}
 
 *You can also find my reading recommendations on [Goodreads](https://www.goodreads.com/review/list/29886397-eduardo-klein?shelf=recommended-books)*.
 

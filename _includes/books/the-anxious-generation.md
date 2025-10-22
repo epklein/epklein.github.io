@@ -1,0 +1,1 @@
+*[The Anxious Generation](/book/the-anxious-generation)*, by [Jonathan Haidt](https://en.wikipedia.org/wiki/Jonathan_Haidt). An essential read exploring how the rise of smartphones and social media has led to a mental health crisis among Generation Z, and what we can do to address it.
