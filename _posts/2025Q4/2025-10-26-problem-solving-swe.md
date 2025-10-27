@@ -7,11 +7,11 @@ excerpt: Understanding problem-solving expectations and levels to build a robust
 
 Problem-solving is at the heart of [software engineering](/swe). Whether debugging a production issue, designing a new system, or optimizing performance, the ability to approach challenges methodically and effectively distinguishes exceptional engineers.
 
-In tech companies, where complexity scales rapidly and novel challenges emerge daily, strong problem-solving skills are non-negotiable. Yet, for many engineers it is challenging to define what "good" problem-solving looks like or how to develop these capabilities systematically. Without a clear framework, it's difficult to assess growth, identify development areas, or set meaningful career goals.
+In tech companies, where complexity scales rapidly and novel challenges emerge daily, strong problem-solving skills are non-negotiable. Yet, for many engineers, it is challenging to define what "good" problem-solving looks like or how to develop these capabilities systematically. Without a clear framework, it's difficult to assess growth, identify development areas, or set meaningful career goals.
 
-In this post I share my perspective on the varying levels of problem-solving competency for software engineers within tech companies. By breaking down this skill into actionable levels — from beginner to expert — I aim to provide a framework that [software engineering managers](/mgmt/sem/sem-role) (SEMs) can use to assess and develop their team's problem-solving capabilities.
+In this post, I share my perspective on the varying levels of problem-solving competency for software engineers within tech companies. By breaking down this skill into actionable levels — from beginner to expert — I aim to provide a framework that [software engineering managers](/mgmt/sem/sem-role) (SEMs) can use to assess and develop their team's problem-solving capabilities.
 
-This is similar to the work I've previously done for [Effective Communication](/effective-communication-swe), which at some point in the future I'll compile together with other skills to form a guide for software engineering competencies.
+This is similar to the work I've previously done for [Effective Communication](/effective-communication-swe), which I'll compile with other skills at some point in the future into a guide for software engineering competencies.
 
 This structure can be integrated into career ladders, supporting personal development and career progression. It can help engineers identify growth opportunities and set clear goals, fostering an environment where challenges are approached confidently and systematically, and product development thrives.
 
@@ -50,7 +50,7 @@ I try to establish adequate expectations for each level and provide evidence and
 
 ### Competent
 
-- **Framework and Tool Proficiency**: Comfortably uses common frameworks and tools to efficiently solve routine problems.
+- **Framework and Tool Proficiency**: Comfortably uses common frameworks and tools to solve routine problems efficiently.
 - **Coding and Design Craftsmanship**: Crafts readable, modular code for moderately complex projects by thoughtfully selecting appropriate data structures, algorithms, and design patterns while ensuring adherence to team conventions.
 - **Architectural Understanding**: Understands basic architectural principles and can contribute to discussions on system components and their interactions.
 - **Analytical Thinking**: Analyzes problems effectively, proposing logical solutions and alternatives.
@@ -113,7 +113,7 @@ I try to establish adequate expectations for each level and provide evidence and
 
 ## Conclusion
 
-Problem-solving forms the foundation of effective software engineering. By focusing on these five dimensions we can create a structured approach to developing these competencies within our teams.
+Problem-solving forms the foundation of effective software engineering. By focusing on these five dimensions, we can create a structured approach to developing these competencies within our teams.
 
 Setting clear expectations for each level of problem-solving proficiency allows [SEMs](/mgmt/sem/sem-role) to guide their teams toward continuous improvement. Like building a utility belt of tools and techniques, developing problem-solving skills is an ongoing journey that requires deliberate practice and regular refinement.
 
