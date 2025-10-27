@@ -2,7 +2,9 @@
 title: The traits and pitfalls in Software Engineering careers
 categories: [SWE Management, Personal Development, Performance Management]
 tags: [SWE Career, Performance Evaluation]
-excerpt: The typical traits and pitfalls in the career ladder of Software Engineers.
+excerpt: What separates engineers who thrive from those who plateau? The key traits to develop and common pitfalls to avoid at each career level.
+toc: true
+tock_sticky: true
 ---
 
 Over the years, I've seen software engineers grow from new hires to trusted technical leaders, but I have also witnessed many competent engineers stall out in their careers, stuck in patterns and behaviors that hold them back.
@@ -114,14 +116,12 @@ Soft Skills
 - **Failing to delegate**: Micromanaging instead of empowering others.
 - **Not adapting to ambiguity**: Struggling with unstructured problems or unclear requirements.
 
-### Takeaways
+## Conclusion
 
-Key takeaways for senior engineers seeking to become Staff Software Engineers
+Career growth in software engineering is rarely about a single breakthrough moment. It is about consistently developing the right traits while avoiding the pitfalls that trap even talented engineers.
 
-#### Believing they need to allocate time to identify opportunities.
+Take a moment to reflect on where you are in your journey. Which skill are you actively cultivating and what may be holding you back? The difference between thriving and plateauing often comes down to this kind of honest self-assessment and deliberate action.
 
-To become an engineer who identifies business opportunities, one needs to develop situational awareness across the organization, actively listen to pain points expressed by colleagues, partners, and clients, and connect seemingly unrelated problems into larger patterns.
+Whether you're a junior engineer looking to make your first step up or a senior engineer aspiring to Staff level influence, the path forward is clearer when you know what to build and what to avoid.
 
-Finding opportunities isn't a separate activity that requires dedicated time blocks — it emerges naturally from being deeply engaged with the work, maintaining curiosity about adjacent systems, and building relationships that reveal hidden challenges.
-
-The most effective Staff Engineers don't compartmentalize "finding time" but rather cultivate a continuous discovery mindset that operates in parallel with their technical contributions.
+Your career is yours to shape. Start with one trait to strengthen or one pitfall to address, and build from there.
