@@ -5,7 +5,7 @@ tags: [Communication, SWE Career, Performance Evaluation]
 excerpt: Understanding communication expectations and levels to enhance team communication and collaboration.
 ---
 
-Effective communication is vital for successful product development teams in tech companies, including software engineering teams. As software engineers (SWEs) and software engineering managers (SEMs), our focus often leans heavily on technical excellence and delivery processes. Yet, without clear communication, great ideas and initiatives can fail.
+Effective communication is vital for successful product development teams in tech companies, including software engineering teams. As software engineers (SWEs) and [software engineering managers](/mgmt/sem/sem-role) (SEMs), our focus often leans heavily on technical excellence and delivery processes. Yet, without clear communication, great ideas and initiatives can fail.
 
 In tech companies, where cross-functional collaboration is crucial, the ability to convey complex ideas clearly is not just a nice-to-have — it’s essential. Effective communication bridges gaps between leadership, product and growth teams, partners, and clients, ensuring alignment and shared understanding. However, many teams struggle to articulate their thoughts or adapt their language to diverse audiences, leading to misunderstandings and inefficiencies.
 
@@ -104,10 +104,10 @@ I try to establish adequate expectations for each level and provide evidence and
 
 - An engineer who leads initiatives across the company, ensuring all stakeholders have a common understanding. 
 
-
-
 ## Conclusion
 
 Effective communication is a multifaceted skill that is crucial for the success of tech teams. By focusing on those four dimensions, we can create a structured approach to developing these competencies within our teams.
 
-Setting clear expectations for each level of communication proficiency allows SEMs to guide their teams toward continuous improvement.
+Setting clear expectations for each level of communication proficiency allows [SEMs](/mgmt/sem/sem-role) to guide their teams toward continuous improvement.
+
+This framework provides engineers with a roadmap for growth, helping them identify where they are, where they want to go, and what skills they need to develop along the way.
