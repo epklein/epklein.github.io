@@ -1,0 +1,1 @@
+*[Thinking in Systems](/book/thinking-in-systems)*, by [Donella H. Meadows](https://en.wikipedia.org/wiki/Donella_Meadows). A foundational guide to understanding complex systems and recognizing patterns and improvement opportunities.

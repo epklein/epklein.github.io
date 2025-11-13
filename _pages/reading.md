@@ -12,7 +12,7 @@ I have separate reading lists for the main topics I write about in the [blog](/)
 
 ## Currently Reading
 
-- *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* by Donella H. Meadows
+- {% include books/thinking-in-systems.md %}
 - *[The Principles of Product Development Flow](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)* by Donald G. Reinertsen
 - *[Noise: A Flaw in Human Judgement](https://www.goodreads.com/book/show/55339408-noise)* by Daniel Kahneman
 - *[Enlightenment Now](https://www.goodreads.com/book/show/35696171-enlightenment-now)* by Steven Pinker
