@@ -1,5 +1,5 @@
 ---
-title: Conflict Resolution and the Escalation Trap
+title: The Escalation Trap
 categories: [Leadership, People Skills, Systems Thinking]
 tags: [Systems Theory, Conflict Resolution, Soft Skills]
 excerpt: Exploring the escalation trap through systems thinking and discovering how de-escalation is a powerful skill for resolving conflicts in business and life.
