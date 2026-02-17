@@ -103,7 +103,7 @@ social:
 analytics:
   provider               : google-gtag
   google:
-    tracking_id          : "G-MWDW3CZ449"
+    tracking_id          : "GT-5783SRGW"
     anonymize_ip         : false
 
 # Site Author
