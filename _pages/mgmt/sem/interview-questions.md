@@ -3,28 +3,51 @@ title: Interview Questions
 permalink: /mgmt/sem/interview-questions
 toc: true
 toc_sticky: true
+excerpt: A collection of interview questions for Engineering Management positions
 ---
 
-This is a work in progress, but it is a useful list of interesting interview questions I have been asked or am used to asking during interviews. It is good for training.
+A collection of interview questions I have been asked or am used to asking during **interviews for Engineering Management positions**. Whether you're preparing for your next opportunity or refining your interviewing skills, these questions serve as a good starting point for practicing behavioral interviews.
 
-## Software Engineer
+When preparing your answers, **the STAR method (Situation, Task, Action, Result) is an effective approach to structure your responses**. It helps you deliver clear, concise answers grounded in real experiences, which is exactly what interviewers are looking for in behavioral questions.
 
-- Tell me your vision of how engineering should influence product roadmaps.
+## Leadership and Team Building
 
-## Engineering Manager
-
-- Tell me your vision of how engineering should influence product roadmaps.
-- Tell me about a time when you developed a healthy partnership with a difficult stakeholder.
-
-## Sr. Engineering Manager
-
+- Tell me about a time you had to build a team from scratch or significantly restructure one.
+- Describe a situation where you had to manage underperformers. What was your approach?
+- How have you handled disagreements between senior engineers on technical direction?
 - What legacy will you leave your team when you leave your current company?
 
-## General
+## Delivery & Execution
 
-- Can you describe the most complex situation you faced and how you did you handle it?
+- Walk me through a project that was at risk of missing its deadline. What did you do?
+- Tell me about a time you had to make a significant trade-off between quality and speed.
+- Describe how you've managed competing priorities across multiple teams or workstreams.
+- Can you describe the most complex situation you faced and how did you handle it?
+
+## Stakeholder Management & Influence
+
+- Tell me about a time when you developed a healthy partnership with a difficult stakeholder.
+- Give an example of when you had to push back on a product or business leader's request.
+- How have you communicated a major technical decision to non-technical stakeholders?
+- Describe a time you influenced organizational strategy without direct authority.
+- Tell me about a time when you disagreed with a decision from your leadership. How did you handle it?
+
+## Technical Strategy & Scaling
+
+- Tell me about a technical debt decision you made — when did you pay it down vs. accept it?
+- How have you driven adoption of engineering best practices (CI/CD, observability, testing)?
+- Describe your approach to balancing platform investments vs. feature work.
+- Tell me your vision of how engineering should influence product roadmaps.
+
+## People Development
+
+- How do you identify and develop future tech leads or managers within your team?
+- Tell me about a time you gave difficult feedback that led to meaningful growth.
+- How do you approach performance calibration and ensuring fairness in reviews?
 - What was the most difficult feedback you have received?
 
-## Culture
+## Organizational & Process
 
-- Tell me about a time when you disagreed with a decision from your leadership. How did you handle it?
+- How have you used metrics (DORA, cycle time, etc.) to improve team performance?
+- Describe how you've handled a major incident or production outage from a leadership perspective.
+- How do you structure teams as scope grows — have you applied frameworks like Team Topologies?
