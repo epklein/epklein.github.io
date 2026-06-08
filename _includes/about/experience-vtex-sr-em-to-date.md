@@ -1,27 +1,25 @@
 <!-- Engineering Leader for the Omnichannel Experiences product vertical (from Nov 2024 to date) -->
 
-I am the Engineering leader for the **Omnichannel Experiences** vertical inside the VTEX product team.
+I lead engineering for the **Omnichannel Experiences** vertical within VTEX's product organization — 35 engineers and engineering managers across 4 fully remote, distributed teams in Brazil and Colombia, owning a domain that processes billions in annual GMV with double-digit YoY growth.
 
-The Omnichannel Experiences vertical focuses on maximizing our clients' reach and effectiveness across sales channels. We develop integrated solutions that allow VTEX platform merchants to:
+The vertical helps VTEX merchants sell consistently across every channel, unifying the digital and physical retail experience. My teams build:
 
-- Expand their presence across external marketplaces, enabling seamless management of their entire marketplace operations
-- Enhance customer interactions through optimized in-store and remote sales experiences
-- Create engaging live shopping events that enable interactive shopping experiences
-- Empower sales associates with tools that foster customer satisfaction and drive conversion
+- Marketplace: integrations that let merchants expand to and operate across external marketplaces from a single place
+- Remote and in-store sales: the Sales App drives conversion and customer satisfaction
+- Live shopping: real-time, interactive shopping experiences
 
-Our team builds innovative solutions that unify the digital and physical retail experience, helping merchants deliver consistent, personalized shopping journeys regardless of where and how customers choose to engage.
+Alongside delivery, I own the technical direction and organizational health of the vertical, develop engineers and engineering managers, and contribute to hiring and engineering leadership across the broader company.
 
 <!--
 
-Líder de engenharia da vertical Omnichannel Experiences dentro do time de produto da VTEX.
+Lidero a engenharia da vertical **Omnichannel Experiences** dentro da organização de produto da VTEX — 35 engenheiros e engineering managers em 4 times totalmente remotos e distribuídos, no Brasil e na Colômbia, responsável por um domínio que movimenta bilhões em GMV anual, com crescimento de dois dígitos ano a ano (YoY).
 
-A vertical Omnichannel Experiences tem como objetivo maximizar o alcance e a eficácia de nossos clientes nos canais de vendas. Desenvolvemos soluções integradas que permitem aos lojistas da plataforma VTEX:
+A vertical ajuda os lojistas da VTEX a venderem de forma consistente em todos os canais, unificando a experiência de varejo digital e física. Meus times constroem:
 
-- Expandir sua presença em marketplaces externos, possibilitando uma gestão unificada de todas as suas operações de marketplace
-- Aprimorar as interações com clientes por meio de experiências de vendas otimizadas, tanto em loja física quanto remotamente
-- Criar eventos de Live Shopping envolventes que proporcionam experiências de compra interativas
-- Capacitar os vendedores com ferramentas que promovem a satisfação do cliente e impulsionam a conversão
+- Marketplace: integrações que permitem aos lojistas expandir para e operar em marketplaces externos a partir de um só lugar
+- Vendas remotas e em loja: o Sales App impulsiona conversão e satisfação do cliente
+- Live shopping: experiências de compra interativas e em tempo real
 
-Nossa equipe constrói soluções inovadoras que unificam a experiência de varejo digital e física, ajudando os lojistas a oferecer jornadas de compra consistentes e personalizadas, independentemente de onde e como os clientes escolham interagir.
+Além da entrega, sou responsável pela direção técnica e pela saúde organizacional da vertical, desenvolvo engenheiros e engineering managers e contribuo com contratações e com a liderança de engenharia em toda a empresa.
 
 -->

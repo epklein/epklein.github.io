@@ -1,7 +1,9 @@
 <!-- Engineering Manager for the Connections team (from May 2021 to Dec 2023) -->
 
-As the engineering manager for the Connections team, I led the engineering teams whose mission is to develop solutions that enable VTEX platform merchants to advertise and sell their products through external marketplaces.
+Led the Connections team, responsible for the platform capabilities that let VTEX merchants advertise and sell their products across external marketplaces (marketplace-out).
 
 <!--
-Como gerente de engenharia do time de Connections, liderei os times de engenharia que têm por missão desenvolver soluções que permitem que os varejistas da plataforma VTEX anunciem e vendam seus produtos através de marketplaces externos.
+
+Liderei o time Connections, responsável pelos recursos de plataforma que permitem aos lojistas da VTEX anunciar e vender seus produtos em marketplaces externos (marketplace-out).
+
 -->

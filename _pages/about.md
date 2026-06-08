@@ -8,13 +8,21 @@ author_profile: true
 
 My name is **Eduardo Klein**, and I am a Brazilian **[software engineering manager](/mgmt/sem/sem-role)** and a proud **husband and father of two**. I live with my family in [Porto Alegre](https://en.wikipedia.org/wiki/Porto_Alegre), Brazil.
 
-With over 20 years of experience in the technology industry, I have sharpened my expertise across digital commerce, finance, and mobile device management. Throughout my career, I have held various engineering management positions, leading multiple teams, including distributed ones. **My focus lies in developing and empowering software engineers and new leaders, fostering their development to create high-performing teams.**
+Engineering leader with 20+ years in technology, focused on building and scaling the teams behind digital commerce, capital markets, and mobile products.
 
-I am committed to **creating collaborative environments and cultivating learning-oriented organizations**. By leveraging Lean, Agile, and DevOps practices, **I guide teams to consistently deliver results aligned with business objectives, driving meaningful value for the organization**.
+I currently lead engineering for Omnichannel Experiences at VTEX, spanning the Sales App and our Marketplace ecosystem — 35 engineers and engineering managers across 4 fully remote, distributed teams in Brazil and Colombia, powering a domain that processes billions in annual GMV with double-digit YoY growth. My work sits at the intersection of product, business, and engineering: turning ambiguous goals into shipped outcomes, and creating the conditions for engineers to grow into senior and leadership roles.
 
-<!-- Com mais de 20 anos de experiência na indústria de tecnologia, aperfeiçoei minha expertise em comércio digital, finanças e gerenciamento de dispositivos móveis. Ao longo da minha carreira, ocupei várias posições de gestão de engenharia, liderando múltiplas equipes, incluindo equipes distribuídas. Meu foco está no desenvolvimento e empoderamento de engenheiros de software e novos líderes, promovendo seu desenvolvimento para criar equipes de alto desempenho. -->
+What I optimize for is leverage — engineers and engineering managers who own their decisions, clear technical direction, and delivery systems (Lean, Agile, DevOps, DORA) that let teams ship reliably without heroics.
 
-<!-- Sou comprometido em criar ambientes colaborativos e cultivar organizações orientadas para o aprendizado. Através do uso de práticas Lean, Agile e DevOps, guio as equipes para entregar resultados consistentemente alinhados com os objetivos de negócio, gerando valor significativo para a organização. -->
+Developing people is not only where I have the most impact — it's also what I find most fulfilling in my career. Within my organization I've sponsored 10+ promotions to Senior Engineer and helped engineers step into engineering leadership roles, both on the management track and as Staff-level technical leaders. Beyond my own vertical, I'm an active contributor to hiring across the company and a regular voice in our performance and promotion calibrations.
+
+<!-- Líder de engenharia com mais de 20 anos de experiência em tecnologia, focado em construir e escalar os times por trás de comércio digital, mercado de capitais e produtos mobile.
+
+Atualmente, lidero a engenharia da vertical Omnichannel Experiences na VTEX, que abrange o Sales App e todo o ecossistema de Marketplace — 35 engenheiros e engineering managers em 4 times totalmente remotos e distribuídos, com colaboradores no Brasil e na Colômbia, sustentando um domínio que movimenta bilhões em GMV anual, com crescimento de dois dígitos ano a ano (YoY). Meu trabalho está na interseção entre produto, negócio e engenharia: transformando objetivos ambíguos em resultados entregues e criando as condições para que engenheiros cresçam rumo a posições sênior e de liderança.
+
+Meu foco é gerar alavancagem — engenheiros e engineering managers donos das próprias decisões, direção técnica clara e sistemas de entrega (Lean, Agile, DevOps, DORA) que permitem aos times entregar de forma confiável, sem depender de heroísmos.
+
+Desenvolver pessoas não é apenas onde gero o maior impacto — é também o que mais me realiza na carreira. Dentro da minha organização, já patrocinei mais de 10 promoções a Senior Engineer e ajudei engenheiros a alcançar posições de liderança em engenharia, tanto na trilha de gestão quanto como líderes técnicos em nível Staff. Além da minha própria vertical, atuo ativamente em processos de contratação em toda a empresa e sou uma voz presente nas calibrações de performance e promoção. -->
 
 ---
 
