@@ -101,10 +101,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag
-  google:
-    tracking_id          : "GT-5783SRGW"
-    anonymize_ip         : false
+  provider               : custom # umami, tracking code in _includes/analytics-providers/custom.html
 
 # Site Author
 author:
