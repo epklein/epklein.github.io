@@ -5,7 +5,7 @@ tags: [SWE Career]
 excerpt: Advice for a young graduate preparing for entry-level roles at tech companies.
 ---
 
-This month I embarked on a new journey as a mentor at [The Mentoring Club](https://www.mentoring-club.com/) and [ADPList](https://adplist.org), online platforms that connect experienced professionals with individuals seeking [mentorship](/personal-dev/mentoring). Both platforms are based on the idea of giving back to the community and helping professionals navigate the challenges they face in their careers.
+This month I embarked on a new journey as a mentor at The Mentoring Club and [ADPList](https://adplist.org), online platforms that connect experienced professionals with individuals seeking [mentorship](/personal-dev/mentoring). Both platforms are based on the idea of giving back to the community and helping professionals navigate the challenges they face in their careers.
 
 In a recent mentoring session, **a young graduate asked my advice for his preparation for entry-level software engineering roles**. He finished his Bachelor's degree in Information Technology last year and has no professional experience. Below I summarize the advice I shared with him.
 

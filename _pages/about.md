@@ -34,7 +34,7 @@ I also have previous experience in software development within the financial mar
 
 ## Mentorship
 
-<p>I'm available for mentorship at <a rel="me" href="https://www.mentoring-club.com/the-mentors/eduardo-klein" target="_blank">The Mentoring Club</a>.</p>
+<p>I'm available for mentorship at <a rel="me" href="https://adplist.org/mentors/eduardo-p-klein" target="_blank">ADPList</a>.</p>
 
 My mentoring topics include:
 
@@ -46,7 +46,7 @@ My mentoring topics include:
 
 Reach out to me if you want any support!
 
-<p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://www.mentoring-club.com/the-mentors/eduardo-klein" target="_blank">The Mentoring Club</a></p>
+<p style="text-align: center;"><a rel="me" class="btn btn--primary" href="https://adplist.org/mentors/eduardo-p-klein" target="_blank">ADPList</a></p>
 
 ## Strengths
 

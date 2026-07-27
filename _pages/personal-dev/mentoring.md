@@ -10,7 +10,7 @@ Mentoring is a powerful process that fosters professional development and person
 It can be described as **a knowledge-sharing relationship where an experienced individual, the mentor, provides guidance, support, and wisdom to a less experienced individual, the mentee**.
 
 {: .notice--info}
-**Watch out!** Need support? Connect with me at [The Mentoring Club](https://www.mentoring-club.com/the-mentors/eduardo-klein) today!
+**Watch out!** Need support? Connect with me at [ADPList](https://adplist.org/mentors/eduardo-p-klein) today!
 
 **The mentor** is an experienced and knowledgeable individual, often senior in age or experience, willing to share insights, experiences, and lessons learned during their journey. The mentor can serve as a guide, a coach, or a challenger.
 
@@ -25,8 +25,4 @@ In the digital age, mentoring platforms have democratized access to mentoring re
 I use some mentoring platforms, both as a mentor and a mentee, in the context of software engineering.
 
 Currently, I use the following platforms:
-- [The Mentoring Club](https://www.mentoring-club.com): A free mentoring community.
-- [ADPList](https://adplist.org): Another free mentoring community.
-
-There are also some strong platforms to mention:
-- [Plato](https://www.platohq.com/): A subscription-based community for Engineering Leaders.
+- [ADPList](https://adplist.org): A free mentoring community.
